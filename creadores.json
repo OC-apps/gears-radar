@@ -1,0 +1,124 @@
+{
+  "creators": [
+    {
+      "id": "creator-0",
+      "name": "EMK KrAuSeR",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "https://www.youtube.com/channel/UCEcjuLw9wMPsAd0tVYa8kCg",
+      "active": true
+    },
+    {
+      "id": "creator-1",
+      "name": "EMK EyeOfTiger",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "https://www.youtube.com/channel/UCkLjx8J7vOfaodZNN2h77Vw",
+      "active": true
+    },
+    {
+      "id": "creator-2",
+      "name": "ElGamer WICHO!",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "https://www.youtube.com/channel/UCmYNwQ1bD5nzev4LJhkfe2A",
+      "active": true
+    },
+    {
+      "id": "creator-3",
+      "name": "SparCkL",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "https://www.youtube.com/channel/UC4ZQsE-wSIBsh4jo-IusizQ",
+      "active": true
+    },
+    {
+      "id": "creator-4",
+      "name": "JosefaTTV",
+      "platform": "YouTube",
+      "type": "Streamer",
+      "url": "https://www.youtube.com/channel/UC84fO2MoMM3QlZVOFZpyuUg",
+      "active": true
+    },
+    {
+      "id": "creator-5",
+      "name": "Avexys",
+      "platform": "Twitch",
+      "type": "Pro player",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-6",
+      "name": "Red Icy",
+      "platform": "Twitch",
+      "type": "Pro player",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-7",
+      "name": "King Abz",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-8",
+      "name": "SkullnBones",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-9",
+      "name": "The Beaut",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-10",
+      "name": "Carmine Forever",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-11",
+      "name": "Gears Intel",
+      "platform": "YouTube",
+      "type": "Medio",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-12",
+      "name": "Neon Velocity",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-13",
+      "name": "Essrawr",
+      "platform": "YouTube",
+      "type": "Creador",
+      "url": "",
+      "active": true
+    },
+    {
+      "id": "creator-14",
+      "name": "Tac-Com",
+      "platform": "YouTube",
+      "type": "Medio",
+      "url": "",
+      "active": true
+    }
+  ]
+}
