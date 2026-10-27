@@ -15,11 +15,15 @@ jobs:
           python-version: '3.12'
       - name: Consultar RSS publicos
         run: python update_news.py
+      - name: Generar resumen editorial con IA
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python generate_editorial.py
       - name: Actualizar noticias
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
+          git add data/news.json data/editorial.json
           if ! git diff --cached --quiet; then
             git commit -m "Actualizar noticias"
             git push
