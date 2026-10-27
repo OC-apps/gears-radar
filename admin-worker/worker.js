@@ -1,0 +1,22 @@
+// Cloudflare Worker para GEARS RADAR.
+// Establece los secretos ADMIN_PASSWORD, SESSION_SECRET y GITHUB_TOKEN con wrangler secret put.
+// Nunca escribas contraseñas o tokens en el repositorio.
+const OWNER='OC-apps',REPO='gears-radar',FILE='creadores.json';
+function reply(obj,status=200,origin='https://oc-apps.github.io'){return new Response(JSON.stringify(obj),{status,headers:{'content-type':'application/json; charset=utf-8','access-control-allow-origin':origin,'access-control-allow-headers':'authorization, content-type','access-control-allow-methods':'GET,POST,PUT,OPTIONS','cache-control':'no-store','vary':'Origin'}})}
+function enc(s){return btoa(String.fromCharCode(...new TextEncoder().encode(s))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'')}
+function dec(s){return new TextDecoder().decode(Uint8Array.from(atob(s.replace(/-/g,'+').replace(/_/g,'/')),c=>c.charCodeAt(0)))}
+function hex(buffer){return Array.from(new Uint8Array(buffer),x=>x.toString(16).padStart(2,'0')).join('')}
+async function hmac(secret,data){const k=await crypto.subtle.importKey('raw',new TextEncoder().encode(secret),{name:'HMAC',hash:'SHA-256'},false,['sign']);return hex(await crypto.subtle.sign('HMAC',k,new TextEncoder().encode(data)))}
+function equal(a,b){if(a.length!==b.length)return false;let v=0;for(let i=0;i<a.length;i++)v|=a.charCodeAt(i)^b.charCodeAt(i);return v===0}
+async function auth(req,env){const t=(req.headers.get('authorization')||'').replace(/^Bearer /,'');const [payload,sig]=t.split('.');if(!payload||!sig)return false;const expected=await hmac(env.SESSION_SECRET,payload);if(!equal(expected,sig))return false;try{return JSON.parse(dec(payload)).exp>Date.now()}catch{return false}}
+async function gh(env,method='GET',body){const u='https://api.github.com/repos/'+OWNER+'/'+REPO+'/contents/'+FILE;const r=await fetch(u,{method,headers:{Authorization:'Bearer '+env.GITHUB_TOKEN,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','User-Agent':'GearsRadarAdmin','Content-Type':'application/json'},body:body?JSON.stringify(body):undefined});const j=await r.json().catch(()=>({}));if(!r.ok)throw Error('GitHub: '+r.status+' '+(j.message||''));return j}
+export default {async fetch(req,env){const origin=req.headers.get('Origin')||'';const allowed='https://oc-apps.github.io';if(origin!==allowed)return reply({error:'Origen no autorizado'},403,allowed);if(req.method==='OPTIONS')return reply({},200,allowed);
+if(!env.ADMIN_PASSWORD||!env.SESSION_SECRET||!env.GITHUB_TOKEN)return reply({error:'Faltan secretos del servidor'},503,allowed);
+const path=new URL(req.url).pathname;
+try{
+if(path==='/login'&&req.method==='POST'){const b=await req.json();const given=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(String(b.password||'')));const expected=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(env.ADMIN_PASSWORD));if(!equal(hex(given),hex(expected)))return reply({error:'Código incorrecto'},401,allowed);const payload=enc(JSON.stringify({exp:Date.now()+60*60*1000}));return reply({token:payload+'.'+await hmac(env.SESSION_SECRET,payload)},200,allowed)}
+if(!(await auth(req,env)))return reply({error:'Acceso denegado o sesión vencida'},401,allowed);
+if(path==='/creators'&&req.method==='GET'){const j=await gh(env);return reply(JSON.parse(dec(j.content.replace(/\s/g,''))),200,allowed)}
+if(path==='/creators'&&req.method==='PUT'){const b=await req.json();if(!Array.isArray(b.creators)||b.creators.length>500)return reply({error:'Lista inválida'},400,allowed);const list=b.creators.map(x=>({id:String(x.id||''),name:String(x.name||'').trim().slice(0,120),platform:String(x.platform||'Otra').slice(0,40),type:String(x.type||'Creador').slice(0,80),url:String(x.url||'').slice(0,500),active:x.active!==false}));if(list.some(x=>!x.name||(x.url&&!/^https:\/\//.test(x.url))))return reply({error:'Nombre o enlace inválido'},400,allowed);const curr=await gh(env);const content=enc(JSON.stringify({creators:list},null,2));const j=await gh(env,'PUT',{message:'Admin: actualizar creadores',content,sha:curr.sha,branch:'main'});return reply({ok:true,commit:j.commit?.sha||''},200,allowed)}
+return reply({error:'Ruta no disponible'},404,allowed)
+}catch(e){return reply({error:String(e.message||e)},500,allowed)}}};
