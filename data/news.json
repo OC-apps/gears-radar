@@ -1,6 +1,645 @@
 {
-  "updated_at": "2026-10-29T13:09:14.731723+00:00",
+  "updated_at": "2026-10-29T22:48:39.688800+00:00",
   "items": [
+    {
+      "id": "101f1020461e9d9e06a6f4aa17d63233e2b35dc85f4bc734c6c7992ca1d9e4f4",
+      "title": "New here, has multiplayer always been this awful?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiyqdn/new_here_has_multiplayer_always_been_this_awful/",
+      "summary": "",
+      "published": "2026-10-29T22:46:57+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f34a33fbf2615dae7d86fb7933001ca733e4ea8fddbd8426494e8ba0d56d2968",
+      "title": "Game crashing PC button slip",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiyi98/game_crashing_pc_button_slip/",
+      "summary": "",
+      "published": "2026-10-29T22:37:09+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "02cd9fd5991c62c56573bf74e397576c07815675a5e37c2407f914797f790838",
+      "title": "Really? 😑",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiyf0b/really/",
+      "summary": "",
+      "published": "2026-10-29T22:33:22+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "e4d4a92822e4a419a9e83ea44f24978950e876af7c7bd493dab4802b12eb6f27",
+      "title": "Microsoft regalará Skyrim, Halo y Gears of War al comprar un PC con Windows 11 en EE. UU. - Hardware Premium",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSm9zTEZDZmZWWm91UTE0N1hQN3BWRHBMZy02dDA1TGlUYW5lajlUeDBOQ3pKSHRrTE9GWGJkTUFiSDdUQjJNdzc1ZXp0bDdWYkkxdkt0azdZeE55N3NxbktmZTU4eEpCSWFpZHdEakxVMHhVNXo0Sm5sYkRXV1AyT0xRdXdaSHpEdmdYUWsxY2lEbXRiQzdvUDFuTQ?oc=5",
+      "summary": "Microsoft regalará Skyrim, Halo y Gears of War al comprar un PC con Windows 11 en EE. UU. Hardware Premium",
+      "published": "2026-10-29T22:30:00+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "ace324515904705c68e881fc4a470ef21a95f53ea457c007b87e901952ffec67",
+      "title": "Report Speedrunners for Griefing",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiy7un/report_speedrunners_for_griefing/",
+      "summary": "",
+      "published": "2026-10-29T22:25:09+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7e0bf89f136d40dffa191e87e664f370497338a314d31b056b983f197fc96f36",
+      "title": "Boosting kills gears of war reloaded",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiy75u/boosting_kills_gears_of_war_reloaded/",
+      "summary": "",
+      "published": "2026-10-29T22:24:22+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "70798da0860d104b1e8701abfa4ad88831a60abe1a1cdc884dc059701f638acd",
+      "title": "Halo 9999+",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiy64c/halo_9999/",
+      "summary": "",
+      "published": "2026-10-29T22:23:14+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "4289932202bdc3ea228016cb410cedb684e099a58e118ed8dafb8eed90aa3210",
+      "title": "Happy Gears o Ween (Jack o lantern Locust Drone)",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiy322/happy_gears_o_ween_jack_o_lantern_locust_drone/",
+      "summary": "",
+      "published": "2026-10-29T22:19:51+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "69e457150a52fb02a12da99b523c40007be7089076a39a6016eab77508865b00",
+      "title": "Notifications on Horde Siege Menus",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xixhz4/notifications_on_horde_siege_menus/",
+      "summary": "",
+      "published": "2026-10-29T21:56:35+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "0c7a05ff0779ad327d01552eb6c998c1066aa5b0bff2d08a89f00a1e7c852cb9",
+      "title": "Subtle Stranger Things nod?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xixe37/subtle_stranger_things_nod/",
+      "summary": "",
+      "published": "2026-10-29T21:52:13+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "cfa26fccbcf93eefe2388b3d1568e3250e23c9b5d2da90a42d8b748c84fe5859",
+      "title": "Reaver-tyrus error in Gears of War: E-Day",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xixbq6/reavertyrus_error_in_gears_of_war_eday/",
+      "summary": "",
+      "published": "2026-10-29T21:49:29+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "6f83b44be6c74491aa38e32ea207e60a4568a863f2d0688dbfb49dd2c8d41c88",
+      "title": "I’m going for every ribbon just in case they do a dead serious 2.0 and it’s required but 1 of them is bugged.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiwynw/im_going_for_every_ribbon_just_in_case_they_do_a/",
+      "summary": "",
+      "published": "2026-10-29T21:35:02+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "9d710d25005bb093daf67df2f97c5fc38deaadac234636b6e79090a4b1478166",
+      "title": "Yeah games probably dead",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiwy1r/yeah_games_probably_dead/",
+      "summary": "",
+      "published": "2026-10-29T21:34:22+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "b0183377638c9183940e18534443b4e92f617e3f5008f6d0a707274d4730b851",
+      "title": "CEO de Epic Games arremete contra los dueños de Steam: “Valve ha frenado la industria durante años” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOazVPVlQtbU12RkFBOXU0dmpseVMzcldFb0ZYT0IyR3JNSmFvQ04wWndvLUpuaERpQXRGdldKZmZjUnlaTzM3SEI0WmpmRV9vY1hrejZWSWdGdENLajZxdEI2N1RWbXB2WFJPa0Y3TVJTTEdlcWRoalkyeWxOOGprU0d4ZkRYcnhaYlByWTRtTTJIX1M5eGxzTmJzLVQ1ZGRwQmpJLXFMTzZUWU9Eb1VJMlRLc0NOUHZwTlJlSmNjcDRtaENwUndDQ2EzWXYzVXlDR1ZsdtIB7wFBVV95cUxNQTRyb25xTTFPU0ZsTXRDSGxaX2d4NXVfRm9OVG1mZU5IZXYtdzNZTUtzbDJGNXI0Zm1TUWw0Rng3dUVOM1pvWjRsRW52aXltN1p3VHo2S1AtN0RXU2dPQTg3b1dlZWYwdWZGR19tRTZ5VkxmRDlNa25qb0k5anhqYXQ5V2xPblZmbUs3VFQ0Vkd4UVUtUG5MSWdFUFRFLTJ4ZERpUHRVcGEzWXh4cTJncm5QekhNZ2VPR2ZVQXZES0RHZ3VSRXFVcmo3LW1VaVRTMGZET3BrVkE3Vzljak1sbFNqSldabnV3dzFSdTduSQ?oc=5",
+      "summary": "CEO de Epic Games arremete contra los dueños de Steam: “Valve ha frenado la industria durante años” Infobae",
+      "published": "2026-10-29T21:26:32+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "90ed9a257f70838bb733516daaf168d9791a7d381d7ed468c6cfaa26b79e1c1d",
+      "title": "Hey Devs, got any news for the 20th Anniversary?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiwo2e/hey_devs_got_any_news_for_the_20th_anniversary/",
+      "summary": "",
+      "published": "2026-10-29T21:23:22+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "cd020b759714da63b670deb4f55abc9a3d588b2b2919f8ef7c53cfd8af78eb23",
+      "title": "E-day Hardcase Mod list",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiwjc2/eday_hardcase_mod_list/",
+      "summary": "",
+      "published": "2026-10-29T21:18:10+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "72e61ffaa26ea8f62d8247a97a68f6b48719465b0bfbd85a37f25dd083a93290",
+      "title": "There's a Lego version of everything nowadays",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiwcjk/theres_a_lego_version_of_everything_nowadays/",
+      "summary": "",
+      "published": "2026-10-29T21:10:48+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "57830b3a5286adb75a6c7b9ff9241c9b2064ff611a79dbff0c162f384f99c30c",
+      "title": "Just Shoot the Boss",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiw7w9/just_shoot_the_boss/",
+      "summary": "",
+      "published": "2026-10-29T21:05:54+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "1cf737ddec96e6e28194d0883ce7b69124120667cdd96e641024c9a71d55214f",
+      "title": "Invasion events need to spawn more and have alot more time then 10 minutes",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiw5ar/invasion_events_need_to_spawn_more_and_have_alot/",
+      "summary": "",
+      "published": "2026-10-29T21:03:05+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "9d8768c09b4417d3288c153f24bf87b1f487f33eebed172a5b7aaa6113cedf0f",
+      "title": "Mientras Marvel Lobezno impulsa a PS5, Gears of War E-Day apenas marca diferencia en Xbox con unas ventas muy discretas - HobbyConsolas",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVjZNZEVnckkySE1UbnBQcmlCcHcxTFdFOTFoeTJkVVJqSnZZQWstUThaS1pTV2I0SjRrOTBNSzc1V1FndVE3bnJJd1RrRnJmTXluWXJBSHJhTHhwQ29laEZvVXJLOGFEb1BHMUQxQk1fZ0pTbkhseS1NZzcyRTNhR1h4YkNPY3E4VEs5d0l3WXUwQTFIaFJHTlQtQ09BN0k1cktTLXNEd2U4cTRtQ1RxVDAyaTZVQVNJNWZVdlBJSDBxa2NwTE9CdVVrRGlkOFI5MUtKSVVoWE0teE9oQXVYNGlabjdITF9YdzNzeENQdVRRTGZmM3JwY3NBS0o?oc=5",
+      "summary": "Mientras Marvel Lobezno impulsa a PS5, Gears of War E-Day apenas marca diferencia en Xbox con unas ventas muy discretas HobbyConsolas",
+      "published": "2026-10-29T20:58:27+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "88e3d3848ff721863e469dcfc161f837d3c15bb8aa2c35810098123cbe77edca",
+      "title": "Gnasher",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xivxtt/gnasher/",
+      "summary": "",
+      "published": "2026-10-29T20:55:03+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "97f55d8117bc0b982056c5ef806f8d0433ed4f8ba6843742afe1df3160b2a007",
+      "title": "Learned that tickers could potentially be kicked into frogs mouths the wrong way",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xivwh5/learned_that_tickers_could_potentially_be_kicked/",
+      "summary": "",
+      "published": "2026-10-29T20:53:33+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "23b015e419c892ce272eeb96c370169708fdaaa803fd805b268255611fdb0c54",
+      "title": "ELI5: E-Day Ranked: Divisions and Ranks",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xivk4l/eli5_eday_ranked_divisions_and_ranks/",
+      "summary": "",
+      "published": "2026-10-29T20:40:10+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f50dfcb24d5ad6c7f2e27d925cbd53da4f230705e661ec4e3dc39c0a33810baa",
+      "title": "Gears of War: E-Day super\\u00f3 las 400 mil copias vendidas en Xbox y Steam, seg\\u00fan medios - iXBT.games",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXNTaVFhQ1RUQ3JCRmZpZGNpQTZIMUhLNXgxd3ZDTnNBaUFCaHRpMVRPTEZGY2NzM0JId2gycHgydUI5SU9ZQXJjUVp2VnFIQUU2RUFINW96eV9VQmltamxENW5LY2ZiVURsMHIxQW0zcWpYOFdmZWoxdWxoM1p5azYtTHdfM1VpRFdITGxlRkhkQnVUVUJTdnVDV1NkVGFqUXc3bTBZWTEyZnlIT1hjelczeXZrTjBRLW42SHZIcm3SAcYBQVVfeXFMUGtBSW5YR0V1Y0hKZVJ0dTk3dlRKVjlvUU90Q05UWjlIXzFscUFKMUtjZ24yQk83RXZRbmlBanhOR3BnTHA2cUhETWhlQ3F2a2dDNldIUmJ1T09mcjhRRUlYcm1DVDJ5YzBRdW5hVWlpZHBCdDlaeklRMkV0dmptNkpuZlZNaTBXSzY3MERkWUY0dWtRMGxjR29uTFVKSzVnZm5RQTROZkg0NHpUSzF2X2Mzc29mTHlUdGNZWkduam5FSDBvejRn?oc=5",
+      "summary": "Gears of War: E-Day super\\u00f3 las 400 mil copias vendidas en Xbox y Steam, seg\\u00fan medios iXBT.games",
+      "published": "2026-10-29T20:23:00+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "41a5cb5219cdb8739845ac0237160c63152e26037603909e4e648141d8e4c427",
+      "title": "Gears of War: E-Day has sold over 400 thousand copies on Xbox and Steam — media - iXBT.games",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU19iZFJta3dIQXhCOVNOR1ptdnJGRlFFeTNQYzhVc1plZHZfZHF0LXNTQ2QtcXNxMFpnd2NCYXdWTlRnNHl6MXFnbmtFNGh6bHdTWXF1RTlnbmtwRzhxXzByY0drRjVnUjdpVFFQb2JaSmUwN1dfb1ZsQXJ3TUxLNjZVV2tqYU54V0dzbF9na3Aycmh6Sm5Oa2RRRkxmZEN5a3pHVFhRazBOOGliY1hNcFNNWnhCSGIxZFBHQ2lFZEHSAcYBQVVfeXFMTjRaZDROa1dWTnJxNG1JdWpCVGJEangtVVlOMWFLQmRNbnNvOE9XaGxsRUpBbTFBeHMxbjNrb0RHdmgzbDNVZU10ZXB2T2VFQy1xd0JQZ2pHdlR0WTRQNXd6cllGWV9uQjZHeXh0WUs2aUkxZGJsUFMtNUlHSEFBU21JeXJnOFRoSlVhMXN3N3JCTTVRTjFTZ2lqQnFoamllSzZ4TnFSTTEwS3hvSWlLZ0gwNVdHOGNYVHgwT3VJQXRESkRxU1h3?oc=5",
+      "summary": "Gears of War: E-Day has sold over 400 thousand copies on Xbox and Steam — media iXBT.games",
+      "published": "2026-10-29T20:23:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "08cd319432bdafbc19690e423d45676bca59aedd15a7f49e5abaf8f21e7a7838",
+      "title": "Finallyyyyyyy",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiv2ep/finallyyyyyyy/",
+      "summary": "",
+      "published": "2026-10-29T20:21:25+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "176963037724c5cf96e95c526e98ab811d48ceb7a5da766687a26c6e37266a81",
+      "title": "Anyone else having trouble with “This Is My Rifle” Achievement?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiuocu/anyone_else_having_trouble_with_this_is_my_rifle/",
+      "summary": "",
+      "published": "2026-10-29T20:07:18+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "b915932c4d0aaf483c7b76e1d03e70a80674ee54712a593c0db9f026ef2981b0",
+      "title": "La exclusividad de Gears of War: E-Day no ayudó a Xbox: las ventas de consolas continúan cayendo, afirma un conocido analista - iXBT.games",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN2ZEQnBRRnRzNDJsMncxYkk1TF9DSmxrRXF5TGJaLVhUMVZQRm9QZ2l1RndweHFFeEVMWUMwWnVfcnA1OWR3Z3g5UnZLQUxxUkNIbkNtb1Q5MFNtemFhZWFoYWFLM2thTmE3SGxFLWtFUDQyUDRiLVl6NTZtUDdYWFlTN29wd1pzWVp0V3lHdjUxVzVra0hNTlRwMUtLMTdFUm5UamNwOUhKOFlpZVJBTnpmMmtOZ3VSMjdNRXJrTmI0U2ctaFdZS2NER2tOWml3OG5VQVVNbVYxU2RkRi1lMElpV09Vb1Qzd2fSAe8BQVVfeXFMTm4xeTZjQk1acjFNRWlvZ0dKWGJfRE1nVkJLdWhRdW1TeE9NWnV0ZkNwanZ3cnREV2pXckhrSTVDVjJjOEVYRkNmQjNVaFItdXM2d3ZYLV9OV3R2UTR2aS02RHd3OFR0dElZX1p0VWRSQnBMQm1ZVjAzX19uQ21icWRYLVRhRkZWWFJqbXJqb0hEVmtoZEpvZ0FXQU9FbWlvRGEtLUM1b1BOME9PMDA2TTBraDloeWRnNVh1bm1lODNpNVM3MU8zQ0I1cmNyR05mNFk3XzJXcF9IRlpIVlUxUEJqMWVqYkxrb1ZoYTBJVm8?oc=5",
+      "summary": "La exclusividad de Gears of War: E-Day no ayudó a Xbox: las ventas de consolas continúan cayendo, afirma un conocido analista iXBT.games",
+      "published": "2026-10-29T20:02:00+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "ef168655ed76bf564a61d5ed6cfe43aeb9b05b15edcf87738d970c2877886b00",
+      "title": "Gears of War: E-Day exclusivity hasn’t helped Xbox: console sales continue to fall, says well-known analyst - iXBT.games",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3JqbC1MX01PMmtIWkprSUpuM1g3ZFp1TUptQUF6RDVIYm9Td0FyVDZqVEVyR2pHZEE1ZE13LUdVaGg2X3dWNko0ZXg1NENaZUFYUlhfWWdLWWVYOWl1cHA4RW51T2lOTWI2ZUVkengtcm53Q2o3N095Mjh3dFJpcEl2UFhUSXNCLVZfenRsaUZ4anlBcGh6MFY2WHkxZ2FMSjVuT3RqODZsMG4zdm1jcHIzY19GRVg5SExLa3Q3d2UyNTM3V2FCa3M2Z19XLWdnUUgwQ1RsaVRSeFBkLVpGU1VOTjdTU3ZBRkHSAe8BQVVfeXFMTXE3YkhjaGZIcm1qRHBFdVpkQUVvbFcxdzdxSWwxcVJWRWgtN1c2bDBETVViRkFTMWxDT2ZqMUlTSUx5XzEySlhheWdNRkVxaEItb1NkZGp2YmhjVmlQSnpWbDJFcEdyLWd6ZXNmY3VxYzEtYXJvdVZJMk5nYWxCckxkQ2lUX3J2QXNKZGdnZUlPRDRHWDhTSExrUTFuSXl0NWFDSnE1WEUzNWVpSTBEaTlHOXQ0WUh5WkVwc0kyTml4SVl4Tmc2TTg0VERIeU0zVWFJR3J6MXJQbGNES0JUYUVJeG9Ybmw0WjFMd1dLT1U?oc=5",
+      "summary": "Gears of War: E-Day exclusivity hasn’t helped Xbox: console sales continue to fall, says well-known analyst iXBT.games",
+      "published": "2026-10-29T20:02:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "5ca4cc506e9bce0b26d0895337a42b9b915a16d1105bf45dc32a8eb5844b235b",
+      "title": "Why You Should Play Queen’s Domain - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DWk5WNHZrR2Z3Z1AzUG9ZVjctNjlWcWZiVGdFcXZSSldHbXlKMWZxa3BUQWlGMmtaWTlEY3BoV3llS1I2dEhkOEtlX2RjUy1rbFdRNk5aQ0M1UjFZN2xlNGdvWDVRcElIQzktRV9sWmJNeW5m?oc=5",
+      "summary": "Why You Should Play Queen’s Domain GameSpot",
+      "published": "2026-10-29T20:00:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "4778a63c9641713d5bed1f2b67fbd9dda051a0508c6c09cd0b538d8e989b29bc",
+      "title": "lol are we serious?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiugt9/lol_are_we_serious/",
+      "summary": "",
+      "published": "2026-10-29T19:59:56+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7dbbe30677d9ead05c861bee37e12bdd2645a7b22d3fcba457953c5daaea282c",
+      "title": "Gears of War: E-Day solo ha vendido 400,000 copias en Xbox y PC - GamersRD.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EMkNrR1lFamJnc2dpYTR2LXg0QXp3OUVVaDJmTXlsWVFaU292VTBZMHZqb2xRaVpmeWw3Ni0wcVl5YzRHUERsaXZxdEhWdnFkSURTeFFBd1FfZmd4SkUzTG9Ba2ZTdHd1emtLRmF3?oc=5",
+      "summary": "Gears of War: E-Day solo ha vendido 400,000 copias en Xbox y PC GamersRD.com",
+      "published": "2026-10-29T19:59:23+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "d9a8eb7ae466032564f116dd35a6f9342873624d1b17797aedd72dba0f10bf95",
+      "title": "ok TC I’ll just stay in Horde until the Gnasher is tuned or fixed",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiubun/ok_tc_ill_just_stay_in_horde_until_the_gnasher_is/",
+      "summary": "",
+      "published": "2026-10-29T19:54:52+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7bfa15f266232edf8a085884aab38d7105d82ce99a0c3d2c499613ab587d2f8e",
+      "title": "Now that we've had some time to dive deeper into the game and versus, how do we feel about the Lancer?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xitvyy/now_that_weve_had_some_time_to_dive_deeper_into/",
+      "summary": "",
+      "published": "2026-10-29T19:38:17+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f7bea44d82e43e078e429eb4c26b0e10970bc6cbb46e4d5f53a79c523ebcbb0a",
+      "title": "Gears of War: E-Day Has Sold Over 400,000 Units on Xbox and Steam – Rumor - GamingBolt",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTJHM1BWSjM2U1NSbHlFeHZVT2tWSDB1bE1mdWxQRkNIcWg0VWtPc3kwX29HY0tfY3phTkp4Z1lybUlRVnk4b3FSbHNlVFpyX21oRnAtUkRPM21kdUtGYllMTUNnUU5UTjNjb2ROclZHa3lsczJkMEZudDdiWnlBTGVwbHAzZGhoRVBLUGJjZ094d1VOZlZB?oc=5",
+      "summary": "Gears of War: E-Day Has Sold Over 400,000 Units on Xbox and Steam – Rumor GamingBolt",
+      "published": "2026-10-29T19:24:12+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "3eaa2a4db651236ed62debf591b5ed514cb33bb9dd1a6582c4a116979e463536",
+      "title": "Gears of War: E-Day Reportedly Sells Over 400,000 Copies on Xbox and Steam - TwistedVoxel",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVakJNWDM1aENlLXZKcEtic3RjczBqVzBPSTFaNkhyRU1aYUgyX0t1ZDhfMDc3NkVFX2ZGV05QV1BKbFQ2WS1VODE0REhoVkZ1OEVJTi1fdlNYUVZDYUFB?oc=5",
+      "summary": "Gears of War: E-Day Reportedly Sells Over 400,000 Copies on Xbox and Steam TwistedVoxel",
+      "published": "2026-10-29T19:24:07+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "a4ca120579014ca3b977027b95b496b180cf9d4b7cb61a22400722e9861a53f6",
+      "title": "Anyone know why Demolition was moved to the left of the ranked playlist, when it was originally Conquest?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xiter2/anyone_know_why_demolition_was_moved_to_the_left/",
+      "summary": "",
+      "published": "2026-10-29T19:20:04+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "baf40411758b31d73db4c52ea969079d1e1454d1f0786b903b4b062889fba821",
+      "title": "Gears of War: E-Day Reportedly Sold Over 400,000 Copies - Insider Gaming",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDloTDFCNkxwZDc3RFgyZ3QtR0NWT2JQTUNfMjZxZGpMYkJXYnIzNGVVbjdsVWlpallZR2QxSUhta1ZDSGZtQ21KbWVGd2xFa2U2QVFtSWZ4czkwT05pazJVRVFSb1g3bm9jNkxRb1E0d2lUdkh0NTktYXVTaVJyVEktYjdJRnhM?oc=5",
+      "summary": "Gears of War: E-Day Reportedly Sold Over 400,000 Copies Insider Gaming",
+      "published": "2026-10-29T19:16:44+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "404f90841a08a28abf8a90dc68573d205acf713c7d27870dc0fb642a335d67b0",
+      "title": "So what’s being done about this Act 2 Ch 2 Courthouse Bug?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xitbdu/so_whats_being_done_about_this_act_2_ch_2/",
+      "summary": "",
+      "published": "2026-10-29T19:16:26+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "083f623d5bed150ab1db9690afdba553dcb2d684102b9c9961d4e54a5be3fa7c",
+      "title": "Triple Microwave",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xitapa/triple_microwave/",
+      "summary": "",
+      "published": "2026-10-29T19:15:41+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "8b5ce7c1e2676cac220333b110c2bf081395c84644a1487154cef1ac2789f3fa",
+      "title": "The Verge Reports Sales for Gears of War: E-Day Sit at Only 400,000 - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGxMcUlGNTVDaHNRdkFWSVBlTFhPYkFmTWVjRzNaaC1Rc3EtRGV4aFBOR2ZkZGNNQ2dHQVdfaTRMQkhPbzVQd3ZDTXRVV042Z3lfZWJ5dnhDSjNGQm9la1o3UXlvOHZHejQ3ejRISEdzN2I0eWQ2TU5XcmM3RUJLYW5BX0FxSU1pN0xIOWcxb0JBZ0tJT09WX19oZ2pKTTVKUmFPRWh6YUhoVVk?oc=5",
+      "summary": "The Verge Reports Sales for Gears of War: E-Day Sit at Only 400,000 Men's Journal",
+      "published": "2026-10-29T19:06:21+00:00",
+      "source": "The Coalition",
+      "category": "oficial"
+    },
+    {
+      "id": "7aecd4011bada4885ed9eb60cfc70777b38d8446c55be8f118f322b7abb82eda",
+      "title": "The Verge Reports Sales for Gears of War: E-Day Sit at Only 400,000 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMFNiOHFaMWlqNkI4UU85RWctTXNtVGtyYTZKMVozTzg5blI4WWFtVDdJMVFsb0FGZFRnR0c0eEFwaGpDcUlfQTZPZ3Jsekw5a0pRQnRDaXNwdHZEUXprYnZzT01TbktqZlZFQ1NKRXdKb1NMUUZubndiYVJPa1lYRTg0WW9VaWxJUW9Rb3AzdmRUVHkzVXRmU0UzYllhUQ?oc=5",
+      "summary": "The Verge Reports Sales for Gears of War: E-Day Sit at Only 400,000 Yahoo Finance",
+      "published": "2026-10-29T19:06:21+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "4320eae080b27f1a5687a3a36a2cae2030c02c2efcb4df52ce91dbb0b901c24c",
+      "title": "Torque Bow + Stake Bolt + Pulse Drone is soo broken yet so much fun!",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xit1hz/torque_bow_stake_bolt_pulse_drone_is_soo_broken/",
+      "summary": "",
+      "published": "2026-10-29T19:05:54+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "fa6aed6e74bb14967cdb5169f78643337c43b81ac0120bf1ba1b9a2c2b818711",
+      "title": "Can you play e day horde siege on cloud gaming",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xisz6o/can_you_play_e_day_horde_siege_on_cloud_gaming/",
+      "summary": "",
+      "published": "2026-10-29T19:03:29+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "93d3ec24c5d4bada555d2f43059ef5bb144daa7e71ede5e108a3acd5fd56aa5b",
+      "title": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox - Push Square",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkVsekpnTFdZUW1COUZIOHRScXhUZWJZZGdpVlpUVXMzeDZNYWJSYVY4aUI2dXF4TmZhZFZ6bTZVb1B0OWM4TC1wekVjY3VDV3dnU2tNUEVjQTRucTk1WDhWajV5c1JfcHFRLUlsaGlFU0k5RHB2VHdGWUFYdVVxOHJIaFZXeXZZOTB6RzdFNWZKT1RhYWRqY2tQSHZMbzN0Vk1PWkFiaUtOcS03T0xBUDhQVU54cnJkaXc?oc=5",
+      "summary": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox Push Square",
+      "published": "2026-10-29T19:00:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "548203b77a0b4260d59dc4adb1aa3dacdc85ed0ece3a0ca80baa9c59f05e1dec",
+      "title": "This is gonna go well",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xisv0i/this_is_gonna_go_well/",
+      "summary": "",
+      "published": "2026-10-29T18:59:15+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "8aac6d0ef64b7027ea87d32b7a777e1596ed2adb6c1abecfa3b45047ac45c83a",
+      "title": "Artist With Music In GTA 6 Had No Idea About Any Of That - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGRGalQ5QmJiaXhDX05BV2VqUTJwcmlxNnltaGhEUXA1Tmx2SEl5aDBxenhyQWh0SFFmdXZ3MkJUend2SjRuNnN6TVZtWnc4RnBsTVJnQjRfOFZ1SF9kQ1BxNTBVTDJkalprUlpWX2xvaVpGS0xxOV81UXZoM0Rvei15MERmOUozRk1YaDJma2NULXJKdmc?oc=5",
+      "summary": "Artist With Music In GTA 6 Had No Idea About Any Of That GameSpot",
+      "published": "2026-10-29T18:51:14+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "5d4902763de9b9b29f2546ade06e04f14d8acb2a76ef302795a9b041e1d53e3f",
+      "title": "What ? Where are my 78 hours in game ?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xisj5i/what_where_are_my_78_hours_in_game/",
+      "summary": "",
+      "published": "2026-10-29T18:47:02+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "2243d4e9c19796f269c3ecce259614fb5d4b4a82a982146d475fc26c50f24b28",
+      "title": "Interesting map description",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xish6e/interesting_map_description/",
+      "summary": "",
+      "published": "2026-10-29T18:45:04+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "98df50c67c5f8a32975542e966c822abc2263b88f588eb54c8f4e22f4802982c",
+      "title": "Worth every penny baby",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xisgwi/worth_every_penny_baby/",
+      "summary": "",
+      "published": "2026-10-29T18:44:48+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "67aa5409647bac3af6debd9abd536a351eb2132a7cac72d24d4701b569bb3f4c",
+      "title": "‘Aniimo’ Marks 15M Players WW, First Major Update Live - PlayDayOne",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQk8tVDk4MzNzRHFPMHhqMzFkRXJLTVA3bVFzX09zVXlCOWF0OExtY3pVTTBGU0VnRTJkbFRKTV8xTEJtSWhBVWlMQnRUd0lyZWczWDJad2xFeVZXN0s2eFNaaDZ6NWd0Yld3czJBVTBxS09MTTdfV0pvdDlZLVZzZFZSTExrNFNaWDg0?oc=5",
+      "summary": "‘Aniimo’ Marks 15M Players WW, First Major Update Live PlayDayOne",
+      "published": "2026-10-29T18:44:15+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "30d8078916b3a332e1193cb8a9471a33ad8cb199e62b2592ff52cfbddf54e8bd",
+      "title": "My fellow COG living up to his name!",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xisgbs/my_fellow_cog_living_up_to_his_name/",
+      "summary": "",
+      "published": "2026-10-29T18:44:13+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "2661fb8a12e0a0039ac670bb733331286da2f632135b5309d3aae98fdf9eb6f3",
+      "title": "E-Day continues to decline... many of us have been trying our best.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xisesr/eday_continues_to_decline_many_of_us_have_been/",
+      "summary": "",
+      "published": "2026-10-29T18:42:35+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "c6c39600d13d76f4a804573c04db069bb9da7f105f42d2724ea489aad492b931",
+      "title": "He lost too much weight...",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xisahv/he_lost_too_much_weight/",
+      "summary": "",
+      "published": "2026-10-29T18:38:04+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7e32c66a373dfae296f99ae9f738fb7c16f6727a208cfd2abb54d37daa3bb4f2",
+      "title": "Gears of War E-Day Has Sold Over 400k Copies per New Report - PlayDayOne",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFFsaXluZG1OQm0zdkRjeWdHalNLVXhjSnNpQUZ2M3BYbms5b0FUNVlCWTNnWkRjcHR0SVRJVTNOMkRkekxMVm1udVkxcTZ2N1E2Y1VwdTNMMlZtT2dqR3gyUWZ4V2VDVjh5V3NBMEVzWlFjUnJRTHo3TXBrTm40OHBkcWpXdk1SVmo0UDJQTjM5eXB2TWc?oc=5",
+      "summary": "Gears of War E-Day Has Sold Over 400k Copies per New Report PlayDayOne",
+      "published": "2026-10-29T18:29:16+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "44c002a7469e8782675720ebd5205d5b62d7c76c62aeafd84a98520ca050f008",
+      "title": "Horde Siege desync/lag just absolutely needs to be addressed for this game mode to keep people around.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xirqzb/horde_siege_desynclag_just_absolutely_needs_to_be/",
+      "summary": "",
+      "published": "2026-10-29T18:17:39+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "12377d21578cd1b7fc93880b30dd69560bca19a4be08a30cc3d9d6e20b26dcf6",
+      "title": "Should Escalation return as Competitive?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xirqpx/should_escalation_return_as_competitive/",
+      "summary": "",
+      "published": "2026-10-29T18:17:23+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "adc2b575909133fde8c138e234981e55dc8490558e3cfbef2b6301b2e18548b0",
+      "title": "If The Coalition doesn't start communicating this game is done.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xirfuk/if_the_coalition_doesnt_start_communicating_this/",
+      "summary": "",
+      "published": "2026-10-29T18:06:09+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "3f7a3875b36d911f6571047e08ffeb227913f81f06915dfcf2c4539c30d53af3",
+      "title": "Fans de XBOX están contentos con la exclusividad de Gears of War: E-Day, pero analista afirma que no ha tenido “un impacto positivo” y pone en duda el futuro de la marca - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1h2Vmo1QjdOQ3k1NWEybHQtY2lHdjhZZjF5ZGFoSnJOci15elA1czk3ZGtPX19BZWdGVGlCQWdYTUcwYXlLbDZzTXpwdVNTc1dORGROdWZfaW5EeVBSUVFIU2I1UFJhMWJFTDl2ZTQyWXlIcnFUdXVIM1hocGVrbG9wakQ3YTJhclF0NkljSQ?oc=5",
+      "summary": "Fans de XBOX están contentos con la exclusividad de Gears of War: E-Day, pero analista afirma que no ha tenido “un impacto positivo” y pone en duda el futuro de la marca Yahoo",
+      "published": "2026-10-29T17:48:02+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "271bf64d886f44fd3d627406531ab8dd4080f397663bfca6783db45902d4d722",
+      "title": "Gears Of War 'hasn't made any difference' to Xbox as sales 'keep getting worse' - Metro.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaU14OXZhSEV6cXI3ajgwY280dm1jR2pYMGFkWkIwNm02Q0pnellMTFUwN2hLMkhVeGR0X2pQZl9BMWkwdUlVT3dGV21GZjNTSXhuajZPaE5IN2w0eWx5bE1QQWxFVjVjRGtDZnBUbFRCbldOWnF4TFFfWWxRMlpleU5iMXpudzNNWi15aHRfN3ptbEpoeXhtMU5kaGhGUGc1NnpXMtIBqgFBVV95cUxPaGxUeEVrTlFoamhSUWM1NEtmdndpUzl3NTZEYUNHdmJzZmcySlZGUC1DeURYM2Fjb3FJcUVJbWVsbDM2UmhoSUJwenNKbUNGZmtUcDNnOFJNR28tT1lBQklxbFpiVlBCT1kxNkZiLWxkb25udThVNGlZU3NwNmt3Y3VxY2JxNmpzQ19QY3JwRnJ0MFo1aGw3YVFHbGkxNzlEZ0wtS3hnTk5fZw?oc=5",
+      "summary": "Gears Of War 'hasn't made any difference' to Xbox as sales 'keep getting worse' Metro.co.uk",
+      "published": "2026-10-29T17:38:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "15a4084df574c107221db583f6147e104756c29a5a6cf208dfcdd5f7be5d4b4f",
+      "title": "Supply Chain Hiring Suggests XBOX Will Keep Making Disc Games - NoobFeed",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkckF3VTJZbkJfaHNJeWxhMTdBLXFnWjJVMkZraVFxaC1vZjgyQnFQejF3UzA3Q0F1WW1uSnFrNFI0Qm5hM0RUNXc2UHhDZ0pkUElYbWNUelpXSUVqTzNDVHlfVEs3eHNvLTFQcmhIazdsenM?oc=5",
+      "summary": "Supply Chain Hiring Suggests XBOX Will Keep Making Disc Games NoobFeed",
+      "published": "2026-10-29T16:39:23+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
+      "id": "a03723c458caf5bf5691196636bc6fd8bae1d67882b703a257e32b0a71e140ae",
+      "title": "You Have Six Days To Save A Doomed Island In Curse Of Resthaven - TheXboxHub",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3pFQkwwczNGejBiVFRFc2lSdEo5bk15QWp3R1BNQ1UzSFVUY0JhOU05MldPTVhSRmhQM3ViOGdsTks2S2t4RGhiQldYOE1tS3M3SWdUVWd0QmtmY21kRXkyTkFETEIzbExPQ3VvSFRXN0FOVmZ1bFZMU0EwT2U1eTA2ZVBlRUkxeGN1RWxCVGhlTndvTEE?oc=5",
+      "summary": "You Have Six Days To Save A Doomed Island In Curse Of Resthaven TheXboxHub",
+      "published": "2026-10-29T16:35:37+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "a56657a627271c7b43f3d64d2042c2af5d26d8da33cb278b9ca89ba48ee4e17e",
+      "title": "Making Gears of War: E-Day an Xbox console exclusive hasn't helped Microsoft, analyst finds – \"It’s really hard to find any signs of positivity or hope on that platform right now\" - GamesRadar+",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQeHBnTEd0bDg1LUVOTVpVWFNzSmttR2lFT19tTU9uTVBBSktMMElFWWp4eGlRWUttNU9mU082M3hkdEV2TUlUVTBROEJLbDVxU1NlTlhZQUk5VmVIOUNkMllETTdxdkh1akJSTlB4WUZqQUZPUjFVM2c4blRtdWNQVGZsSWxyS2htem1seGNOREFvMlFoQnJiLTk2VXBPamE0UFg3c3kwRVhIQW50OUpLVi13cFhJX1N2MkoxQkJjQTZ1S0RoM2pJMFJJcEltT3M2ZDlhWkZRaGhodHhaaVh3UFZDWWdKbFdvcHFOcnd2UHd2eG10VjVpZHdna0MyS3MyczgwQU9lMlhlLV9VeXJfeXdXcTV6aXFNc1l0VVRJR1VaYXU0dGkzS0Z5TE1DWXNCZ21JQTFQaFFJd3EzWk1Z?oc=5",
+      "summary": "Making Gears of War: E-Day an Xbox console exclusive hasn't helped Microsoft, analyst finds – \"It’s really hard to find any signs of positivity or hope on that platform right now\" GamesRadar+",
+      "published": "2026-10-29T16:30:06+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "95b8c4019e19819c7f6b4549a85e2f4c642f503869ca65d78d5d9118e59df0a0",
+      "title": "Gears Of War: E-Day Has Reportedly Sold 400,000 Copies, Budget Still Being Debated - wolfsgamingblog.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXhmM3ZQdFd4em5YczYxRkNHZHByS1JDeXFxLXVaLWZmMk95NkFhd1dYMEFOZjdHOURoaHVWWTlpRU1JVjNfdnRld0tlR1ktb2RVb0FWaE9zNEhTYlREWlhsX1gzSS1QQmpXTDVsQlVKdzZfN19idFo3WkpBcFBMQzFuaEZuRERHOElFeTZ1YlZQU3h6Rl9hVTlQXzFvaWNNQV90NWNEb3JfTVJl?oc=5",
+      "summary": "Gears Of War: E-Day Has Reportedly Sold 400,000 Copies, Budget Still Being Debated wolfsgamingblog.com",
+      "published": "2026-10-29T16:12:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "cfe5b820e9bc67bd7349943f752d1bbba3c22dca157b5b0b3baeab2aa4e47e87",
+      "title": "Mouthwashing Brings Psychological Space Horror To Game Pass - TheXboxHub",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM19WZUR2VmZiZ2h5VUVfeGZIcmg0c29JQmVoQWhCMV9VSFFTNVNIT0pPbUx5RlBXMV9ienVSY3Z3VlU2TEJHSnlBdk1HQmp2WW44WUVINHpUTk9ULXN0NjltUGRYQTJneDFhNkM3TU9sOFN1akZib3M0anh0Rlk0UW0yR01yOXJjX2hzbGZwUDI?oc=5",
+      "summary": "Mouthwashing Brings Psychological Space Horror To Game Pass TheXboxHub",
+      "published": "2026-10-29T16:11:06+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "f1e7e1679cb38c069389dde66550107ab22f095ee6ceedf91b190131a8474a28",
+      "title": "Xbox's Recent Efforts Haven't Changed Anything And The Future Remains Bleak, Expert Says - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVBjMEM5elMyN3RycXR0U1ZSM1NxWWR2SHVWOW5HNHJjWHpQWWJUUlo0R25OS1hsYTZROE9GWWNkSkpJV3F2ZURkYndlV0x5NGV2blY2WjByN3NDZHlkN0U2WlAxM29QT3IwNWJGS3RrZ1R1MHBkUjk5ZEx0SUxNdHB4a1BJeWNvcWRuZlZ3R2RPQU5LYzNHM3VRODc3N1FqZmVhVU5iUFVtb2tWbkx1WFZvTmpreFo4alVwag?oc=5",
+      "summary": "Xbox's Recent Efforts Haven't Changed Anything And The Future Remains Bleak, Expert Says GameSpot",
+      "published": "2026-10-29T16:08:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "56839221bf8b7edd2cfb2a6bc701136db7f11bb4f0aecc0c16eefc440d1651cc",
+      "title": "Virtua Fighter Crossroads – Lionel Rafale Gameplay Reveal Trailer - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkhfMUhPeEJQQzE1UGxxQTlUWFdkTWR5cmxDa2c5Nm9vbGFEZXE4RU9vUmlqT190ZzlnWmx3WGF2NkpTMnlZUUcwRDZoZzNVVnYwMHBRYTBCa0YxM2hZOXItTkVPcnZ0VEtiNGtwZGtqcHFqU3NkaFFHM2pycHp5RW5VcHdpNURUbnk0T3NHN2l5RjdicndEMU1nRGI?oc=5",
+      "summary": "Virtua Fighter Crossroads – Lionel Rafale Gameplay Reveal Trailer GameSpot",
+      "published": "2026-10-29T15:08:18+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "8779a3a21ee135449cb3eb9df12c7b5ccf51481a6ea00332a5b723d3619d54ec",
+      "title": "Wolverine lifts PS5, but Xbox struggles despite Gears of War launch - The Game Business",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kRWpqWmJ6NklKMGdWRTlydHF2ekRJMUptOXFvRUVqcmZaY1RqWWN2WXpEZ0NZbi12WTZZNDItTEN2aEJUM2pObU1FdlJoUmRGZEFUVHRieUNCUjZOR25xQnZIVklxRmZGYVNzR0VocENmY19zSzlsS0JWMEU?oc=5",
+      "summary": "Wolverine lifts PS5, but Xbox struggles despite Gears of War launch The Game Business",
+      "published": "2026-10-29T14:47:10+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "286873bd4fe57d35adc9a04dbf1bf6e5298757a77e9fca51e389921519471d11",
+      "title": "Phantom Blade Zero Is Already Proving Its Prelaunch Hype Was No Fluke - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeEJEcEtpc19vVnpnU1RFU0JTX3l5TUNiUHJuUU5rdVVCOEJMQUNYcXdCQmVpWlYtNTlreXpoZ3F0S0M2YU00ckNKeUlHR0lVRFJOY1MwRkU2SHJ5V1RJZE5Qa3l6VDlEaHZBc1FiV3REbzVFdVJrUXd3RFk3TDIzdmtOeldSeWh6dU5SZWZ4c0EtVkJzTGhrQ0ZGc25xY3dXLTJwOUxCQQ?oc=5",
+      "summary": "Phantom Blade Zero Is Already Proving Its Prelaunch Hype Was No Fluke GameSpot",
+      "published": "2026-10-29T14:42:22+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "13b78418e537491ce2b01abb183339ef82031f19c912bdd46b0f9b6435b3730b",
+      "title": "From Software Delays Its Switch 2 Exclusive, The Duskbloods - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemdrSER4VkV0c2lJRmpTaUJMbFB3UWl4VWpFZXFTVU9MTndpWXVabmN3V2dkQWRTTWdJOXA3NTFsNXM3RWNRbDh0dkVNcEZPbkQ3VTVyTzNmRkpGN0c5UHctZVBYNlVHNE5fZDByMl82cEt3Y2t3TE1HVUVxZzZ0ajdzWl9WNV81U21PWUpn?oc=5",
+      "summary": "From Software Delays Its Switch 2 Exclusive, The Duskbloods GameSpot",
+      "published": "2026-10-29T14:36:33+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "f3109a535c7f641abdf615062bf854e55b485dcd09c8b591d7de612d437c46f0",
+      "title": "GTA 6 Makes A Familiar Open-World Gaming Feature Work In Its Own Way - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmtjdFVEeGV1THkxWFhpWWVqR0xtdHY0OE9FcnpTNC1JTWRLLWI5c2QzOHV6akI0WXlrVGx3QVVQektaeFoxSFh6VWpKVktldm9tSXUxQUVpR1pJcWoyQ1l5TE82Sm5fQUlxZnBpcXpRS3NzOVdBeEUwOUFfVE9RSTJDV0ttNzI3aTRianJQdW93c25MQW9xamVyTm5qUlQtVi1xWC1R?oc=5",
+      "summary": "GTA 6 Makes A Familiar Open-World Gaming Feature Work In Its Own Way GameSpot",
+      "published": "2026-10-29T13:49:35+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
     {
       "id": "eeda1b51f47edf52795bf3d7f57eb2ab1e4d28863d6d627b514fe3b54c7685c6",
       "title": "Gears Of War E-Day Xbox Design Lab Controller",
@@ -20,6 +659,15 @@
       "category": "comunidad"
     },
     {
+      "id": "0ec42961216b69c97c0ece4c902c3fecbf3ae66dc82aaeee3a52d7680ec23a11",
+      "title": "Gears Of War E-Day Xbox Design Lab Controller - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02S3FoaFpSTkVraExJcTVGR0ZCQVFPdWgtY0xYTlR2c0tKWl9PWmNoV1hUOXp5aC1BZDMzYmVJdm1HUVFDUmhDQXRXNlQyaFdjSEJXb1lyOVFFdUhZ?oc=5",
+      "summary": "Gears Of War E-Day Xbox Design Lab Controller YouTube",
+      "published": "2026-10-29T12:54:54+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
       "id": "970d98495e03e8f26af82bef31f30a9e48a9979d1e7c2dbe3544afae4fee0aa7",
       "title": "About the Assault class",
       "url": "https://www.reddit.com/r/GearsOfWar/comments/1xij3dv/about_the_assault_class/",
@@ -27,6 +675,15 @@
       "published": "2026-10-29T12:50:56+00:00",
       "source": "Reddit r/GearsOfWar",
       "category": "comunidad"
+    },
+    {
+      "id": "c4c50b10e08635cb2da372538be3fc65f180ac4ac684851fe883edc13a55d948",
+      "title": "South Park Gives Us A First Look At GTA 6’s Most Disgusting Feature - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0hiSWgxR3BlYWZTU3Exd0Q0SEQtY0FVano1UWZSZ3lhdFZCNTZreVBSakhvMHFTbWlwbGZ0UThYakNtcXNTWWF0ZnU2UEptaTJ3YUFqZjBYSVBnbkdYQmNUS3pQYWV4VUI2cVdXbzFHTFFEVWN4RWowdUZ6aUFLYUdnVjQzTURob3JrQ0hpdks1SkJyUENFNHNsZnNKRlJqdlE?oc=5",
+      "summary": "South Park Gives Us A First Look At GTA 6’s Most Disgusting Feature GameSpot",
+      "published": "2026-10-29T12:25:57+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
     },
     {
       "id": "f8756d27f9f258ba98569f2253550daaf97a28da4b4337af9227539d1056d69d",
@@ -1046,11 +1703,47 @@
       "category": "oficial"
     },
     {
+      "id": "85412d932a3b7139771f4e567c6d3f37444f361edc055aec8bac1567094c7818",
+      "title": "CoD: Modern Warfare 4 And Warzone Season 1 Release Date And Details - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVplaURVcFJTT3VLSFExQ2NlY2NyWXd3eVZBUWF0T0otUmV1OE1zdXpDOEtteEhaR1RJZHFmR2tmQXd3M19mSGZRT3pQejF2Wlh0dVVSU0lfMGJaTnQzSW5uS09KT3FNbFhsdDhkdkxQNm1yZkdjNC1saDJ0N2NXY0pKVlpfQjlOTnA4Tm0xUndFc3p0SHBYVUl1QWw2QzF0d0Mw?oc=5",
+      "summary": "CoD: Modern Warfare 4 And Warzone Season 1 Release Date And Details GameSpot",
+      "published": "2026-10-28T17:06:36+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "27e1dffc3e200fc7e987b3bb4702dcfbcd55f113754129b3d980fdd20b40a571",
+      "title": "PlayStation Plus Free Games For November 2026 Revealed - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1VjY2YtN0pKMENnQjFwRXNMNHRDMDVxUXhZZ3VxTzNqZ2ExN0xIZ0tUTmZneDdzd2g2LVJkYU50Njgwb2c2UEk4dVdSQXJqWUpWMm12N0thUHlrSXBGMGRkUGFWei1GbTJmVU14b2FaWklYNFM5cDk5bi1KN2lGemI3RUhsam16cmlVcnlPcUVXRXU3?oc=5",
+      "summary": "PlayStation Plus Free Games For November 2026 Revealed GameSpot",
+      "published": "2026-10-28T15:53:11+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
       "id": "868eb860ea4f549e66374141c7ea2b8290bb4e53a0599b4f185a1465b2b25102",
       "title": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says - GameSpot",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSE13cmtrNUp6b241RHhJSmZnUGlyRVRZcnN6YjctcHFsS3JaZ24xV1czOEJqVWdwTUwteWE1RUNnQUF3SkV4WWJWQ3hTMnpfUE9LX1JieXNTZWZvazQ5aUFvVnNrYThBWUIyWTI4ZXFtQnBYNjk5dnE5QnpvMjNuUy1WSFJoeWJ6MGJ0QlUzNU5VVUJ6MFMxQXNWNl9iUk1sSFVrRw?oc=5",
       "summary": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says GameSpot",
       "published": "2026-10-28T15:44:13+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "126be7cec5918a97424f7b5d264b3c4a0abcd9713d2e9dc14a1e37a0e55ba0a7",
+      "title": "Witchbrook Is Stardew Valley Meets Kiki's Delivery Service, And It Finally Has A Release Date - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUdXVWp3MGQ2QUhPVWxoa2JBcllmTzc3bGg2UkpvXzV3S2pXRXZJbkxJYzJXRkcwdmJJcXpTbi0xbFFXb1FzMDdTLU5aVkl1ZkZzUmVrNGg0eVNvS0F2SUY0ZnJ1aFZiU2FxSlZiR1lrQXJjcks5VkhsU0dBZHJyM0FfYkZlSlc1emtvUC10VXZkRkxlM0dEOEFWQlV2OGw3a0JDVnNxZWc0bXgxSzJ1UUR4cTJIVk0wYTVkOGhuaGxTTjg4?oc=5",
+      "summary": "Witchbrook Is Stardew Valley Meets Kiki's Delivery Service, And It Finally Has A Release Date GameSpot",
+      "published": "2026-10-28T15:18:40+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "cdac609560ebb3bd0ff8e19cdf6ab118a92b3c26f95c3af6667b6918ada480f1",
+      "title": "Sony Is Bringing The Best Trend Of ’90s Console Design To PS5 - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWEo1Q1kwaFBnbnJrcUU3UHdpeVNiM2F2WDlOSGlfT1dvX3ZXTFE0XzJPZEVVbXFOYlZnbXhaN3lmSkpNVUt2bDE4bUs3NnBGQ0Ywb0ZXT3JfZ1JzeHdkdGtoYTd1cTNLUDRhcXRFY3NwelVlU1ZnRGlRRHdxZGRRR0J2bFZOeXgzRDBkZnJQclMtalF4bVVnOGtmNA?oc=5",
+      "summary": "Sony Is Bringing The Best Trend Of ’90s Console Design To PS5 GameSpot",
+      "published": "2026-10-28T15:02:09+00:00",
       "source": "Gears E-Day",
       "category": "oficial"
     },
@@ -1771,8 +2464,8 @@
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jOFNLSk5tdDNmbWhnUWNDNkZmT1dWMkpqenlTZjBjOUZLSzVvYXZ1aFlZS0toRmpJVi1kUkdFcVNXdw?oc=5",
       "summary": "Gears of War E-Day Co-op Part 2 - Already the SACRIFICES are Happening! YouTube",
       "published": "2026-10-27T21:15:45+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
+      "source": "Gears of War · global",
+      "category": "noticias"
     },
     {
       "id": "b2a94868fc9b47e506727a6daa8a224b1414887e836e59823f3107efe4def4a9",
@@ -2351,6 +3044,15 @@
       "category": "noticias"
     },
     {
+      "id": "6d7248e0bd1819fb5e4f5d3d97df20e68e7ff5bc1ffc997a864f3dd9dd8c6a53",
+      "title": "Gears of War: E-Day Review: Fantastic Multiplayer, Middling Campaign - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nMlYwd2VrNG1GT0xFQnYyeWNLNFdKLUlxVzRfeVc0amhtbThPcHFUNERvb1MtallpZ0NoZGZ0X1VEbUZaR1hITVZ2N2JWcWlEQVhVU1pucXFBdk1yVE5oMVE4NllhVDRzOEt3?oc=5",
+      "summary": "Gears of War: E-Day Review: Fantastic Multiplayer, Middling Campaign IMDb",
+      "published": "2026-10-27T07:34:50+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
       "id": "7cdf14f3bbcbc782b07f776884becf3c362949beae15e86bccfe1b59e0a39544",
       "title": "Gears of War: E-Day Reportedly Planned as Start of a New Trilogy, Rumors Say - se7en.ws",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQU9VZUVMS2xoUVY4NHRtal9UWVd3UDZaV0lBbmtGbGpBcVdRNHdxNEJrYkJkZ1BBX1MxMnJYSXZUX3QwWkFYLVNOUER1QjNHb3NnRUREMU1RS3FSTkJlMElDS0xoVFdMYUtxb1ZYQlBVV251RkotRnNlQWZJdUEtOHhOTUJnRzFwU2FQWUk4TG9SVUlZUm1TR0NGLTh0aFJwa2c?oc=5",
@@ -2648,6 +3350,15 @@
       "category": "oficial"
     },
     {
+      "id": "3c38e4abcc84d17b19dfd49aa1c5a7c7662b04796610245ce5a42719b35bba4b",
+      "title": "Videojuegos, lanzamientos de octubre 2026 - Hello Friki",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GdnBsTlo4bEU5c2s0cWl5Q29RQ1I0dzNvbkNXOUE5T0NCQ29aNVVPdVBHTHVzbzhFakZKUU53Wm8yQXN4QVJDNy1qTFRucDBZZmY4TDlYdC1qYmxqZV9vYVpHOTdLZ2pQa2syUDE1SzEzUlMzMjE0?oc=5",
+      "summary": "Videojuegos, lanzamientos de octubre 2026 Hello Friki",
+      "published": "2026-10-26T10:36:31+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
       "id": "9d49030f60ed1004d8f70bda3fbddcdae112b6811886d8e9231b038f9df29a43",
       "title": "Gears of War: E-Day será el comienzo de una trilogía - rumores sobre los planes de Xbox - iXBT.games",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1dTb3V0b0YzbklqWW1KR2ZfSG9aOG9lZmd1eXlndEtBYVJON3ZJZFFQN3Z4TzNWNzI2UzVvRWp0YWcycEVvUWhuRkZSU2Q1UV93SUcwUzBDRHUyVUJWSWc5V25MaUM1N2x6cmtOa1BqY0t5d1J5WmRWNHdrSERzZzhkNU1kYmFBX2VMSG43bGxaenR0a0pVQXNUTlg2Z1NNN2pydWFtVHLSAa4BQVVfeXFMTjRHV28zT3dreVNFN2o1SXlnNWNTNEZpSXppQU1ISWVIa281N3dDZGxOTU51ZGhBWGEtVV9Ec3dqa0xBNUs5djJFOUhLQmxNVU52UDRZemQ5NEpteUdXN1BjNHZwQ3hGWlZURDFnN1BfVjRvdFBKclR0Q2JRWFNWYURWdXMxeERwVHJyNVdaMlZWQmNqbE1VaktVX1pmVl9ybG8xd0lGd1RMLVZqblN3?oc=5",
@@ -2673,6 +3384,15 @@
       "published": "2026-10-26T08:24:50+00:00",
       "source": "Gears E-Day",
       "category": "oficial"
+    },
+    {
+      "id": "dc95d1fc42f481409666a74c68800b69adaf1376db0336d3720ca058e6f79195",
+      "title": "Nueva salida inesperada en la cúpula de XBOX: su directora de operaciones se marcha tras solo tres meses - Vandal",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWC11WnB4b25HR2dERUV0T0VNU1lJd2RHM0dMclUxSVpPdEhwQUtwdzgzSkRua2Q3U09QSWlZelBjX0dEUnRCT01Qc25PdUp6SS1zS3ZGaWR0cUNyOFFUS2Q1MFRZOU85cllWa0hNdFJhTzJjamNXbWZZSnFvQVJTcW9hUU9wTS1GS245WXNSNi16a1A0NVNZUjN4MVZnZ3owREFicnRCS29wdTNJNHFPcWJ1bHdrR0tZamo5TzlOWElGdWhuQXpwbHpzVkJGZ3FQSnlNT2Q3d2JTbnFjTFphTDNR0gHnAUFVX3lxTE82ZkoyUmFKMnpNX1ZDOVhoODNPQmwzeGRqZHlfcDBOTDNpZzlReXpSejJ1LUJNRmJoR2JybVJRTHozY0FxVHhxRy1XNmhrc2xuUFcwYlFmeGpCdWdJZlZLWU1PYzlPRGZIZFQzTFk5SmJhV2ZxTzVCcGdnY280aHJQX0RYaHVreGsxRVFJODhwU2FxdlQ4T1BmSS13VVZfNldQTTJYcGNGcUV1Y05QWExUU1kxb0lyNWdXamJYckRRbGR0eGZtRGxBYUtrb2w2VE9MWWMzTmlyM2dRNGMwVVZTNi14WU5mdw?oc=5",
+      "summary": "Nueva salida inesperada en la cúpula de XBOX: su directora de operaciones se marcha tras solo tres meses Vandal",
+      "published": "2026-10-26T07:50:00+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
     },
     {
       "id": "ba5d159f83a8bea1f731441ea24a424b8528e5e0529660fbf6069eea34e33fd7",
@@ -2707,6 +3427,15 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYzUta0M4YjNmUV80ZU5sSy1aUVRNOGNUbDhfYXk4ZkdOZmNoa0JFVF9vZWJQSnZOM2xJXzFDb3AxT182NFY5a0RseUhTS0Nla2FMZ2ttOXAwbkpiXzcyZ01QYkFrZXBvX3JBZmhQd2NwUnZxOGl5OVY5NjFOZ0RIQ3lUekM?oc=5",
       "summary": "Gears of War (Movie) IMDb",
       "published": "2026-10-26T04:47:39+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "b055acaa7ba8d05522cf507fb1e2541a5b81bf303b0f32c1e305ec58f812a955",
+      "title": "Xbox rechaza 500 millones de Netflix por licenciar sus franquicias - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTdaek0yVmpDUU1WYVU2cGZ0Z2pYMEJKMVczWGlhSDJqR2poMUpmOTUxMlJhM3VZQ21tdGM5Q2Z5R2RYck16VFZhREd3QVY1THExQVdBT3FZWFdBT0ZzZE1hcUtac25GNFlWeUxKX3BWckNDOTc3bjRkelNGYXJwd2pJS0J2cVhPd0ZLNzIwUWtqcGoxbEhqZGZwQ1p1OC1CdzZRZ0x3?oc=5",
+      "summary": "Xbox rechaza 500 millones de Netflix por licenciar sus franquicias Foro3D",
+      "published": "2026-10-26T03:57:37+00:00",
       "source": "Gears of War · MX",
       "category": "noticias"
     },
@@ -2871,746 +3600,17 @@
       "published": "2026-10-25T09:15:56+00:00",
       "source": "Gears of War · MX",
       "category": "noticias"
-    },
-    {
-      "id": "00c8dfa3e4a759303b42f33a832e6768a012b4638946ae8f4ee54457dd5f591e",
-      "title": "Gears of War: E-Day Earns Strong Reviews, But The Coalition Developers Fear Layoffs - eTeknix",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0NqYjBGYVI4WDhRdzE2NXA4MWpWYUM4V3ZJR2JveG9hNVB1WEliV2o2TEViTVhNWTVuOUo5MEdrOW16WkNZU2FJTkdQOFRncDFEWHJGNmFBb29aZHphSjE1SFRPMmczU0FrZU8xYlpTZVhkbFRVVl9zSWJVRFpfNC0tdHp0RHgxUFBZY0xXYmFhSDFraUlSVmNHLWtLY2Vhd0RuN0U2T3o1QQ?oc=5",
-      "summary": "Gears of War: E-Day Earns Strong Reviews, But The Coalition Developers Fear Layoffs eTeknix",
-      "published": "2026-10-25T06:21:34+00:00",
-      "source": "The Coalition",
-      "category": "oficial"
-    },
-    {
-      "id": "b1f93e8cfa6a49b07e0e2f6e4f0df7cf63b5724aa090607f7e0c6bcac929591b",
-      "title": "Gears of War: E-Day Gets Pre-Release Patch Fixing 'Bilefrog-Kalona' Error - IGN India",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWVhZ3lPLUp1eHZLMnJpUVY2c2VicHFjcWpoTzZCc0FzUXhwRzNxRWMyVGZSTE5GLXJYbmtTQVhRd204NEg2MlA3SFZHdk9XMENDRC03NjZRa1Y1VUEya3J6dENvc0hPVXJfZU9EUjFzNV9nVUE2WVRQRGYyWTlNUmI2bWhHa2gtbGZlaHJGckRTRlJtaTRMOENOamw2RHFESWZQR1UwaFZCME9vcm5lemhNVEYyUQ?oc=5",
-      "summary": "Gears of War: E-Day Gets Pre-Release Patch Fixing 'Bilefrog-Kalona' Error IGN India",
-      "published": "2026-10-25T03:28:50+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "ce3783213467539c37cd6551a77dced9c3ab5c0c406137500c7966f598b47cdd",
-      "title": "[Reseña] Gears of War – E-Day: El monumental regreso del exclusivo de Xbox - Anime, Manga y TV",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaENOWTZQc2NESlVPNUh3emFIakZraTFrdDBxZ2VyMy00RGlCa0d2U1BFSnJPemFJM1FtdkNRRmU2M3NPMmRENk9MLXExOTlSam1XS1pTaG1CSEoweEdwa25BdlVjcDRnQzkwQjRkNDVWN0k5TXZvd0Y1VEdUTHdmeUZB?oc=5",
-      "summary": "[Reseña] Gears of War – E-Day: El monumental regreso del exclusivo de Xbox Anime, Manga y TV",
-      "published": "2026-10-25T02:21:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "548e887424c449fe5fa5369d38fed0c5a0aa0e1758100d57c4d3e2a4a451a6f5",
-      "title": "Xbox evalúa un giro estratégico para volver a la exclusividad de sus principales franquicias - Rosario3",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTFoT3ZmaGphdjEybm1veGdkRjZFWlRMOThmNXlOcEkxRE5IakctREJxZkVPc2dBcHFfY2ZiWl9vb3NNSFpPSi1PN1UxUW9HbC05QXJfRlBaSklMN3hEajVwT2xGY1ZWcDVFZDIwYzh2eVJSdDQ2T3pHLXFneld4Wk8wRDBlUS1BR0lVZ0tFQWdkUXFESWhNUG53cGdrS2NNQVRwS1IxSGpLeEZDZmUtRHhjdjh6SkZuRTRJVkw2UGpFN08tMmlBNVRJNTA0ZURobXR4azRWanlER3NnOTJma9IB4AFBVV95cUxOUTFoT3ZmaGphdjEybm1veGdkRjZFWlRMOThmNXlOcEkxRE5IakctREJxZkVPc2dBcHFfY2ZiWl9vb3NNSFpPSi1PN1UxUW9HbC05QXJfRlBaSklMN3hEajVwT2xGY1ZWcDVFZDIwYzh2eVJSdDQ2T3pHLXFneld4Wk8wRDBlUS1BR0lVZ0tFQWdkUXFESWhNUG53cGdrS2NNQVRwS1IxSGpLeEZDZmUtRHhjdjh6SkZuRTRJVkw2UGpFN08tMmlBNVRJNTA0ZURobXR4azRWanlER3NnOTJmaw?oc=5",
-      "summary": "Xbox evalúa un giro estratégico para volver a la exclusividad de sus principales franquicias Rosario3",
-      "published": "2026-10-24T23:00:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "5ee154aea6b7901f1792f7efb4cd5998227dd611e2d4a4be809285105bb7901a",
-      "title": "Gears of War E-Day Devs Add Another Longtime Fan Theory to the Debunk Pile - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNVMzMXFNUlNvTFZBc3pQaUlnaTlCMnFQUVBsRFJCb1AwYUhBdldtV0hyUnNyTlRUZXdCbFRnZ1dNb1c1bXF1N29yNF9haUZEa0lQN3hLWmhoRDZTT1VhZzBlYnc?oc=5",
-      "summary": "Gears of War E-Day Devs Add Another Longtime Fan Theory to the Debunk Pile IMDb",
-      "published": "2026-10-24T22:26:33+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "8f0ae01374eb86a747ff0628b343fbeeddebe1fd9bd09c77a2df720f8cf67b6b",
-      "title": "Xbox evalúa volver exclusivos todos sus juegos: ‘Fallout’ y ‘Minecraft’ podrían abandonar PlayStation - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOWVEQmtTbS1SSEV0cGJMbS1mQlFZT0Z4QTZ2cmtEUnVVeVA5bVhIMlU5ajVxcTFzeTBCNzRTbkh3aTZWcUJpSkRwX1RxeDNWU25sTGthNklWOG5XNzNXRXlnNzJsVVc3WFdndXpWcnhZRXpZSklmZUNrRVhELWdiVmpwYmpwUGt6cTRUMUxnOWI5LVJwUlRGUDJkWTg0emlWemxjQmZvdWtwWTk4dm5Od1g4Z2F2TE5xaGJQLW9KWU5UX1VGQjNCTVFFTmRTLXlmMElVWNIB7wFBVV95cUxQdmRMTURFVmdFZVBUbk9WQkhqdmxtV2lDM1JMblU0cThrYlA1RDBDTnY2b0toYmktc0xBcGVMZlBSQ2xjS1NIbVRmUU0wNDFCSy12ZThOX3d4SzdWdGd2S0F3WktvakdrWXFwRzd0REdsVkdYOGRlRHhCVUhxNjhMSFA2bXVaODZRMmQta1NOWk83UzFMWkdSWHFSWmV1dnpudEhnbzc1ZUp1MnRIZk5VWGF4d0dud3VwUEVGR2YzbzZfWl8teDhfQU9jT1NpZW40cVg4ZE1lQWoyNl94elF2QlFSbGEySVZIN3Q0UjJtSQ?oc=5",
-      "summary": "Xbox evalúa volver exclusivos todos sus juegos: ‘Fallout’ y ‘Minecraft’ podrían abandonar PlayStation Infobae",
-      "published": "2026-10-24T22:00:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "b9ad6784e13ed24c82ec431aacddd80472c12565e91b3df6060306cc7f39216b",
-      "title": "Gears of War E Day Production Budget Reportedly Surpasses $500 Million - Technetbook",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUxJMVBUb2QwSE5majhVY2NNYTAwTENvVWtfc2lrd1R1bWRWYUhsdjgwbmFlYVVTWFNtX0dEYktadV92QmNkT0l1NS1raDAyU191dGNYRHZSTUR6RlhEM3ZFR2pRXzk2aEVCMHdodktWRzF0QXA4RW1EUTM5eGxpS1k4cEk?oc=5",
-      "summary": "Gears of War E Day Production Budget Reportedly Surpasses $500 Million Technetbook",
-      "published": "2026-10-24T20:56:00+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "0b5b5eeeb5e8c9bf16c237cdb3a9b2dac9b284e1a029a9eecbc458bcb422361e",
-      "title": "HORDA SIEGE - CLASE TRANSGRESOR - EPISODIO 1 - GEARS OF WAR E-DAY",
-      "url": "https://www.youtube.com/watch?v=GraUbzA2-oQ",
-      "summary": "",
-      "published": "2026-10-24T19:34:43+00:00",
-      "source": "EMK EyeOfTiger · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "e27debcbdfa51f3ae239c1ef6e093faf31b295be1e10f73ed1f5cd06263110fb",
-      "title": "According to Kotaku, Gears of War: E-Day's Budget Is Around $500 Million - EGW News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWhRN28tSC1kRmc3ZGFFVzBfZUhFOGlIME5wdHZuNmh6ak1CS21GcFVwTTRxRU9QYkMwX3NfTXlMWW9Pa1Z6NWJObDl0eFptVDZQYk4wSkIyeFp2aTY2SXA2MVpUaE1CbVRQT3dacVRYS0RGS1hBV0FnMWpnZHVNNHNZcDR2VU1LQXRiUHRuQWstWWNvM05vOHlUWQ?oc=5",
-      "summary": "According to Kotaku, Gears of War: E-Day's Budget Is Around $500 Million EGW News",
-      "published": "2026-10-24T17:22:22+00:00",
-      "source": "The Coalition",
-      "category": "oficial"
-    },
-    {
-      "id": "2525d39965f4877878ffba6d70a49dd3b6e288294b4359a75a99a2e701370f91",
-      "title": "Xbox Reportedly Asked Netflix for $800 Million for 7-Year Movie and TV Exclusivity Deal - IGN Southeast Asia",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdHhzeW1fSTh0bk8xOVBpM2xtZmRxVXB1dUxDYXF1UExja21xWDRXMEhZbHdhRUg1eUptVnVwYjZ2UWhoTHV4SXlvb2oyUXRodU9GUndCanBGSDMwU3F3VG9ic05UbW9rMTJJQVVwVWp6WTFYS3NnTXNBTVNmUnlreEFSTzFKU05lWmNrYXZXOWdJd1BCS0I0RXdZSWNMSzFQMElwMnZNQzdZLXl3ZkVEYUtCQXJncEtIZ3duNWltXy1JR2g2V2dmSnQtcXVhRndLWlE?oc=5",
-      "summary": "Xbox Reportedly Asked Netflix for $800 Million for 7-Year Movie and TV Exclusivity Deal IGN Southeast Asia",
-      "published": "2026-10-24T16:50:45+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "44b886673c51aec8d8710a8b61203bea1702df9bc4132b514e5b36dfea980df7",
-      "title": "Nvidia’s GeForce Now Gets 10 New Games, Including Gears of War: E-Day, and More - IGN India",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTzJTRWtTOHFWTV9Jd3pQelhWZFM5eElIbDVvYk1LRXJRM0NGYlRjbDZRQzVTaWtWVHNNLUJwTjlzVlZJbzB0UHJtLTRNRlNkSVladmd5T1ZrNWJOZHhXVmRxTmtGNDBVT0RjenNXMXluNzhIdHpYcDNuS1hxcVY0LTRVNm1sdk9rTHZLS1JlUkpPVGdxZWJwdDloQmtzQW1YMkp4LWtyNldMa2dDdnRUU3VReGg0dURvbC1XNA?oc=5",
-      "summary": "Nvidia’s GeForce Now Gets 10 New Games, Including Gears of War: E-Day, and More IGN India",
-      "published": "2026-10-24T16:49:56+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "60ccab0b96e2baad657e8c5300a939e4e976c02e2cb9eef3ccb64509b05b30f1",
-      "title": "Actualización de controladores de Nvidia: Call of Duty: Modern Warfare 4 y Gears of War: E-Day presentan un menor uso de RAM gracias a Advanced Shader Delivery - Notebookcheck.org",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPRFdpUlpVOC1LZEd1SEs1TW9jN1ZIcDRHeHNhOFBSbEgzVTBPalFDOEltTHBKT0ZFeG03LVlVdmZWaC1BV3EzQVc4Q2MzbW5FMDVTclo2V2pJUDhHdUxqQlhSeHdOV3ZXbWx2WUVpTzR2ODlWdWtKOTJYMl9RTjhzT1pDaE5ORTBNei0yV2N1dDUzWF94QjVveEM4SHFWQWVLYURiOVhyV2pxdVFvU3RvTFJGR3pBVlpqZ1NqQ1h4aFZtSk5uTTI4R0NJbnh1b19zN0ZkWDg1b0xqN1pjeldoZWdQTWs3WHlkc2FGRmQyZmQzUGxCcFJRd2VxR2kzTVpXTGNWSGl3aW50QVVuSFpZTzlpMzFPMFBmUDhJNDVnZHhjOEhha3BkLQ?oc=5",
-      "summary": "Actualización de controladores de Nvidia: Call of Duty: Modern Warfare 4 y Gears of War: E-Day presentan un menor uso de RAM gracias a Advanced Shader Delivery Notebookcheck.org",
-      "published": "2026-10-24T12:21:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "81f633e62b15b4e44402ff7eb748bd4bc42a7b600b24a346a75ea45f447862d0",
-      "title": "Nvidia driver update: Call of Duty: Modern Warfare 4 and Gears of War: E-Day exhibit reduced RAM usage thanks to Advanced Shader Delivery - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeFdvMUdLc3BNcHNicFhvcFpFUG9pWkxqZ3BsYXNqRUdDTUxGR2x0OTVYMzVoUi1Kam1EbUtmSmlQaC1XSUpaOVFDYlBMZlJ6VWVrMnd0UXZoSGtOUjloblZlY2RzbktVSHQ5SnVoRnBheEJvM2ZvZTNwVTFPM2l5U1k4cG56YXh3ajFNazJVQW9sa29xZzVLaVhfTnFCcWxZVUxPTjViamZ0ckd1MVR5ci1NSFA2OGZJQ01BWFhfMHY0Rl9FVzctSkZORkdsQXZwa2JPV1VsbEQ3SlkzeTdvMjlfdXZMdjk5LU1Oc1NzQk94c3ZEcUc0dk1OcFZPTkM1em1GUDBaaldQY1U?oc=5",
-      "summary": "Nvidia driver update: Call of Duty: Modern Warfare 4 and Gears of War: E-Day exhibit reduced RAM usage thanks to Advanced Shader Delivery Notebookcheck",
-      "published": "2026-10-24T12:12:00+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "cd4ca506ce22394d45502be75c464d876ea08b91e23201c4c127c59a946dbd12",
-      "title": "Han inventado mil historias para mantenernos enganchados, pero ninguna supera a un clásico como el Modo Horda de Gears of War - VidaExtra",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRHZLaVctNzRabW0yaU5NY1VtVDJDSXZneXhTM1ZqeHJfbW9oNmNwZnlkclZlYndlbk1iY0FOZUY1SjVlZlNZOGVDYm5xaHZSWjdnNThjYTR6UzJVcVNLeUIzbUthcmFjZDgwbFBLOU1DYVRZWGozdnY3Y0t0Mmk5UFM4dk1TcnJTMkstd0pxakRQOVVBZkVfUUFMRXFxUE14aXFhc3haQ0J4NGhiLUhiWHpMT0RGTEtuWG9Nd3gtbEpLMjlYOXhtUHNibHkwcjNLSHZSTC1iQnJtN3M?oc=5",
-      "summary": "Han inventado mil historias para mantenernos enganchados, pero ninguna supera a un clásico como el Modo Horda de Gears of War VidaExtra",
-      "published": "2026-10-24T12:09:31+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "0495cb86e6eb2d81bf6105e705d57ed9cab7d70b5bc76aa31ebeccf555bd9e98",
-      "title": "Gears of War: The Series - IGN Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0Q0ZhNjBBZk03VnNqMzBmSmVMOXpDT0hhT21PdEI3WndJR3haUlBOSlRfdmMyeG5VeWlfZk4tMkxUdG55clFsQTVsVFJELUdHVzI4Rw?oc=5",
-      "summary": "Gears of War: The Series IGN Pakistan",
-      "published": "2026-10-24T11:51:10+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "77dd5c6a663e0247d69bba6edd0f7a70cbfae1064b8678e92348fa404f677fd3",
-      "title": "Gears of War: E-Day Reportedly Cost Over $500 Million to Develop - Happy Gamer",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9USVZPallteTJhVjN5QVRDWFlrZ0NmZlZYTWY0TjRsVEFOd21reU44UDFSVTVuOHBFS0dzQlhEdjAzbkZveUxMRWx6ajRhUUhhZWVsVjc2VlRfTDRYUExxQTZfWHBiZEFYeVBDZF9Tb3QtU1N1akVV?oc=5",
-      "summary": "Gears of War: E-Day Reportedly Cost Over $500 Million to Develop Happy Gamer",
-      "published": "2026-10-24T11:26:06+00:00",
-      "source": "The Coalition",
-      "category": "oficial"
-    },
-    {
-      "id": "50cc32b191faae24a3cbb6faa07a33ca4a46a5ec61736aff6841214a00542bf3",
-      "title": "Gears of War: E-Day Interview with The Coalition - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCOS1DWXdfTmZvQ1lmZHc3SkdpSFBnQkt0WEpOTmVMcVI4WHJDaTNHQXp1bDgwWHlhcjgtSWNsTlN1LXhQQmFfRHJqa04yR25JMlk1YWZaekRFUVF1?oc=5",
-      "summary": "Gears of War: E-Day Interview with The Coalition YouTube",
-      "published": "2026-10-24T05:36:04+00:00",
-      "source": "The Coalition",
-      "category": "oficial"
-    },
-    {
-      "id": "0f61249ac317b6f82ae99026fe5240e118be39c2a96619e4efc119cd51afd80c",
-      "title": "Gears of War: E-Day (XBOX Series X HDR Game Play) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02dzJSWE9rN3ZHS2NUN3hvcVhHc1dfaWlYQjIxN3ZEZlY3TDVyYnRPTVQ1QXFYUXhaUFNpRlJSdWMwZlhYQ3BBRFgwTVdsalREYlFkRkVyeV9PRExY?oc=5",
-      "summary": "Gears of War: E-Day (XBOX Series X HDR Game Play) YouTube",
-      "published": "2026-10-24T04:23:12+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "65cf290d8fb08aea8754e43d55e99b6d7c0b0028f0374b5bd2bcfaff9cd548e0",
-      "title": "Review: ‘Gears of War: E-Day’ takes player into the teeth of an apocalypse - Indiana Gazette Online",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNEhhdDBudXRxNnl5ckZjc2FoWEhPbVp5YjNlVlhWYXlzNHFJMEw0dGU5RHhlT3RWSUNSZjRkWExnQTRkNU1sVEgyVWFmMVdsVzBHaUs0a0NuTHl3Mzh1ZGJmNm9HUlNmdGQ2b0pUMHNERU53UVFkbDdTckVGaUItbEFaUG5HdktoZnk0SXZrOWZ1Z3RaM1l5NkFseC05NnA2dTRXZF9yUHZONlRKYjFsOFpNc2dVRVZPcFh0S0NZZ0thempRdFAzckRpTGl4d05CNTNfTTFJZDdDUlFaaUk0bjdwOV9WMHFRVnduY0xDT09lYW8zWEQ2Wg?oc=5",
-      "summary": "Review: ‘Gears of War: E-Day’ takes player into the teeth of an apocalypse Indiana Gazette Online",
-      "published": "2026-10-24T04:15:00+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "b9e32b4f4e5b5401f8fd1c843b94b2bf8f3ccc376d51ad33bfee9508cae2fb84",
-      "title": "They are Coming - Gears of War E-DAY - Part 8 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85QTEyRlVBbm1yeXlja0R1STJYcTR3Y1dXMENCeVhhM1laN0RXVE14a0dZXzdhcXZPSE5UT25VdklmcWh3dlVOVjdaV2xUOHdyR1ROLVQ2aGE4dGwt?oc=5",
-      "summary": "They are Coming - Gears of War E-DAY - Part 8 YouTube",
-      "published": "2026-10-24T04:00:32+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "299696f7184a44fe9849174c6bddb31fe2c74af158a05bb0ba385b62ff42d376",
-      "title": "Gears of War: E-Day y un coste de 500 millones antes de marketing - Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVl3bW1ZQWk1bGloMXNzUU5vdE9lNVF6YTRQOWdYYlFDdkxxaUFqd3NWdThuZ3lRdUVXSE1nTHBETUNxbXJ4ekpOR25MSUxWRUVURDZ6ZndoM2FYdFJGcHRDVGdaVUV6NlhKbGhXUks0czdoQXctVmlCUW05YnZ2X2Z6RzBGUExPX1FWWmlnZHdUdk9nNDVBVlM1QTd6SUJDVDVJ?oc=5",
-      "summary": "Gears of War: E-Day y un coste de 500 millones antes de marketing Foro3D",
-      "published": "2026-10-24T03:07:33+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "30409492f514676862253aa1e5f643fe80057fa9d0faf41d6e99a0fc62b473fc",
-      "title": "Gears of War: E-Day reportedly had a whopping $500 million production budget - TweakTown",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHZwQmlvNzFpOXc3ZDBsUlZYbHU3SUNXSndDcndBRmNtN0NPdXl0a1ZjRm9SOHRzcko4Ymc2OXc2VGwxQXc4MEY0cHZPSDMzYUh2aDdZVUhhaThtdnhVc25wUWV6STdocEJkYW10Uk4xaWE0WWZZWnVyb3lQWWZhellZMEdybVZmRm1DVmdCclN1Y09SaWpkR3h1VWNNTE5vQnVQa2t3bm5aUjRJWDZsLTlaZWMxYW50U3BIT2dXcHVIQ3E0bDRUNGhR?oc=5",
-      "summary": "Gears of War: E-Day reportedly had a whopping $500 million production budget TweakTown",
-      "published": "2026-10-23T23:50:13+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "a22bff6e1311c8be35244bab7948421af858fac152b1f2eeb09d859ed5b2eead",
-      "title": "Gears of War: E-Day Has Issues, But Not the Ones You Might Think - GameGrin",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnBHNUJ0ZmZ0a016elhYbFdjOUpvZVQ2eEkxSU1fbEZwTjlTTFo2ODlWd281VDdOd0l3amlzS0ZDbmRydXhoRlc5N1pNZENnWXJpa3NicnlUcDRrUzBqR19lQTEwMnpyQkZHTEw5SmtVdzJSRmZmUnIzbmRNeXBHVVZjMWZKQ1JqZExDd2dFeGt2aXJPNk43SmRmVTJ1QQ?oc=5",
-      "summary": "Gears of War: E-Day Has Issues, But Not the Ones You Might Think GameGrin",
-      "published": "2026-10-23T23:03:09+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "19eed05357ed935210ed7fe76a78e562d97bb40ca369ba1541e77618ef9d1d0a",
-      "title": "Xbox analiza cómo recuperar los 500 millones de ‘Gears of War: E-Day’ - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNzNpbEowanNtNjBPQkFyUkUyMlNQVHRvNGZ0Yy1IZUx6aHZMQkNpN3BsUGsxSDA3blhtQzFnSmlsRWItZmpnOUtHczF5bUdEYk9oaDk4d3NYU0R0aW42YXJRWXNOUzI3MWlGMnJlcVhiRVgwREdkNy1CSjAxa3RlTjQtLWgxVEdhTVBzVDVBLUxzMi10TEVNTjR1bzlPZHUxR216Q1h1dTJvVF81Zkl5QW84aEZPUTlm0gHTAUFVX3lxTE5kc0w0V2ZOLU5sUk1Ra1lZcklBbVZGRHU3cTlOM0lsR0V5MDN1MFJhREZXMVFJc1VfdnZhNGc0MEdsR2Q1cmYtOV9KQXB2UGFaSkNkMjVPQkN5Qk9xVlVuQU04U2ppNmp4a3c3aTBWUmtrQXFFVHlCN1ZxbWxyOUszb0thNW5OZ2VFMjJ3MkxsNWtELWtWdHdFWlh4b2JOSGxXMkdyVlZ4YjRFdDFmbHkxQ1pLSllKemZHVnd4eW4weEo3VDNPeWhjZ3lxVWo4ZlExQkU?oc=5",
-      "summary": "Xbox analiza cómo recuperar los 500 millones de ‘Gears of War: E-Day’ Infobae",
-      "published": "2026-10-23T22:52:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "cb60018514860f05899b8acfd24acc582b27e95f51829a8646c5bf20fc382925",
-      "title": "Gears of War: E-Day’s $500M Cost Rumor Puts Xbox Exclusivity on Trial - Spiel Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXFBeTB3S0RScExoTnFzeFlrcU4tOUpSTldkV2ZQWlhDU050QVdERFIzTl96M0FwRFVwZnZ0SVQ2SEQycGl3Z08wWXhiZHdqNHZJajkzaDBNdTJwVHhBZUd1OXRnYkZmN2E5dGVTTmJZaDlXUmNlc1ZZaFNfRVhIWUhjbHNFaENPV0JtTXM2cFZLdzJxaTRUZjRFUEhuTDNXbVZHN1o1SQ?oc=5",
-      "summary": "Gears of War: E-Day’s $500M Cost Rumor Puts Xbox Exclusivity on Trial Spiel Times",
-      "published": "2026-10-23T21:01:58+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "13cc7621c1ea185053ca32063cbb2f94602a5c4f3feb1433d0680e9898ec472e",
-      "title": "Gears of War: E-Day habría costado más de 500 millones de dólares a Xbox - Reporte Indigo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmh6T1JpMEdqSUN4T0xKUUVWVm1BWGhzSm4zczZObTVTcVJUczFRdjJfTlNxdFZGblAyaEZDdm5NZ25VQV9ZMjl4VlJ6UGN0ZmlSczdET19UN2tfb3NOQl8tOGhkcnE0LWpwVEs3TS1EbjlCTFJ4R21JZXB0U0xIc0Nad0tONWU1M2xNc3dueHpjQ1pWTmp0WUVBNzVZZ0ZhaEdwNHlfZGlCdnViazY4eGMzdXVFd09tRUpB?oc=5",
-      "summary": "Gears of War: E-Day habría costado más de 500 millones de dólares a Xbox Reporte Indigo",
-      "published": "2026-10-23T20:53:11+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "12081a44d924e26ec651b37d742e4d39c6f85905581360bb3ad9b0e0495a44f2",
-      "title": "Fangs For The Memories: The Best Vampires In Video Games - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGZvM0FxN1ZZMFpkQ0QyRGg0Wjdud1ZKc2tHMHhfMHIwZDZIei1jQ0ZTMHpaSmN4Q21JYmlUUEZmWWN1dDl5SkRHZGJmMS05MGZvNXhGUDB3N2pWZ1R6bDdPUktaVldEZ0VGTTRuVXJYSGRZbFNMV3ZYZE9xSy0zMHBXem5XaWpvUVlXbkN1QWpBLWJI?oc=5",
-      "summary": "Fangs For The Memories: The Best Vampires In Video Games GameSpot",
-      "published": "2026-10-23T20:00:00+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "ff6d0eae787025583d9bb17f1ff1083b350eccff6b1345cb67335d8aada4af95",
-      "title": "Gears of War: E-Day Budget Reportedly Tops $500 Million Before Marketing - GodisaGeek.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oMkxNSnFDeERqeGI2RUd5OExiMHI2dHNScnI2TUpBempDLU5CZVpPNTNtZU44NUo1SGpmbWgyd0ZIaDlCTDREcUpPbGNYZ29SVnlkRkZIamdMSThTcGhNVTRFRU9BUDgwMi1n?oc=5",
-      "summary": "Gears of War: E-Day Budget Reportedly Tops $500 Million Before Marketing GodisaGeek.com",
-      "published": "2026-10-23T19:52:28+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "fc4ef8c150bd5369f605578e58490ec706610ffd6e8b82ed5356e1363f5f85cb",
-      "title": "HORDA SIEGE - CLASE TIRADOR - EPISODIO FINAL - GEARS OF WAR E-DAY",
-      "url": "https://www.youtube.com/watch?v=EYrIsapkIaM",
-      "summary": "",
-      "published": "2026-10-23T19:18:31+00:00",
-      "source": "EMK EyeOfTiger · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "b490d33f5b36f74e980c48c06269b9f48b20f66f2f0204e9c2c1d9717547252a",
-      "title": "Act 2 Hard Cases - Gears of War: E-Day Guide - IGN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fVi1MVEV3bDQ1TFFMaDhkQVNieGtjdzNoVmg5OUc5X0ZpU0dKTWs1YTdVSEd2WUpmUlZ0RkVvYzFZbVQ4ZXFKR3k1RUVPeVFNeDdBSmRLVTVNd0E1ODllSWtCdGVfTVhCbkhIWUp3?oc=5",
-      "summary": "Act 2 Hard Cases - Gears of War: E-Day Guide IGN",
-      "published": "2026-10-23T17:56:59+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "1a3f72491a407cc37e269c0d0b2f29e46bfbf1baaa3f86eae1b8fbd6c1c2d441",
-      "title": "The Next Mass Effect Sounded Like John Wick In Space - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUk2WUx0ZXJkZjdpWW5vc0V2TjlDbUtHRzdJdmZ6OXg3X1Q0YThvMlJtNFFELTVfZmlmSmtsOENUVnExcGlzck85Q2M2bVEtSlB3YWZWb1lXb0NPZXNYUnF2MjRHaktzX3NYVlhCd2RqNWVGTHZ5aU9tOTlHMm5fNFVkMlBITkV3cG1wOFFtd2U?oc=5",
-      "summary": "The Next Mass Effect Sounded Like John Wick In Space GameSpot",
-      "published": "2026-10-23T17:31:41+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "ce12c97e258be13ed80e6e15360fc694c37801c8055fc035a58439427cfd6c29",
-      "title": "Seven Games Are Confirmed For Xbox Game Pass In October 2026 So Far - Pure Xbox",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFV2d3d1SXJLVzZXai1qeUNYSlNCbGtNZGVvekFBQjUzYUdjeVFtQ2lxQnM3Z0E5TzRvQ1JlLXM1NkRTZDFHd2ZkQ1JwMFMxTDAybXp5RkpsYWVIR3hPSmhBWlF4SktXV2VYUGF2Sm5GMWk5a01lRV9ZeUVHcFJEWHdSMUxBdVpvQTRzNk9weTRBeVBLVThLTkJ5ajItSkRpVlBPTWNDbkY?oc=5",
-      "summary": "Seven Games Are Confirmed For Xbox Game Pass In October 2026 So Far Pure Xbox",
-      "published": "2026-10-23T17:00:00+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "a48f8a713b9911e08ff799494a53151af8b7f94f7b725ee97ad5d8fedf2fa5a0",
-      "title": "Las ventas de Phantom Blade Zero estarían superando a otros grandes lanzamientos del año, según analista - Reporte Indigo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajJQSnM5aWFwZkoyN1hZTVFEZEpwV3hKV2hnVDN1cERma3JCaXJNRTVINDJvUzlTdWFYUExLVjY4a2Z4NXYwQTZra0hEc0ctTkM0b21wSlN1Z0doVmVxbkl6QktSc2RWN2R5aUcxSk14b1UtOVl3QzhuaG8zTkNYei14cmJZME8tUHp3SVpVY18yV2l5TVQxbWtwZnRFMWpSd2Jvc2lScEFndw?oc=5",
-      "summary": "Las ventas de Phantom Blade Zero estarían superando a otros grandes lanzamientos del año, según analista Reporte Indigo",
-      "published": "2026-10-23T15:43:32+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "c023826ea9378ad8395244ded070b5c8c0f1e303aa79a1b0cdd1b402758ffbe7",
-      "title": "Gears of War: E-Day VR mod shows manual reloads across the full campaign - MIXED News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXcxSnlPUTdLNkd2eUlsZEJpdXhUb1RFcEVRdkVRTVVENW5PT2hpLVBpNERrb3ZINjh5bk83WGF5OEpoR0JMVXF2dmdFX2RTQlJhNC0tWVBsRnJUNVE5R0FmRldfc3dER1M1a2t2cWtWc2gzM0VlcFdWMHBrN1Fsa3k4QzdKR21w?oc=5",
-      "summary": "Gears of War: E-Day VR mod shows manual reloads across the full campaign MIXED News",
-      "published": "2026-10-23T15:34:03+00:00",
-      "source": "The Coalition",
-      "category": "oficial"
-    },
-    {
-      "id": "111b8c504683b42ad4889dc6b6eb960a3a864990a666b6544ec492e12c912755",
-      "title": "Xbox Wanted A Gargantuan Paycheck To Partner With Netflix On TV And Movies - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlF0YTBIVFVFSzYyNlRxVVU5cWZsZzVWN054YllxQlFVbmZWcWJBb241cWxmX2YzUXRuNDZOSzdLc1J3SHlVU1RMSGEzb05hMEFkTHlKbkZXMlFCekFGV2hRY0JVbmNnZGtrcFRVaGtoWl95c005S2d4b0E3aEZ5VExfQ0h4M1lGOWs0dXduTnBOSFdjMGNLNzI5WDBHMElTcE9Va2xVRWxFaFY0OUE?oc=5",
-      "summary": "Xbox Wanted A Gargantuan Paycheck To Partner With Netflix On TV And Movies GameSpot",
-      "published": "2026-10-23T14:35:44+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "eec9af5f018a01e1dfbad0244931f6d7394200c5a32fff5f32eca2efddb24732",
-      "title": "El argumento a favor de la exclusividad cuando Gears Of War: E-Day costó más de 500 millones de dólares fabricarse - Kotaku en Español",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaklvdVY1bG5mc1V1RnZGUmJsbUpyeHplaEJKY05VN1VvbXB6VlF0WVBwU1ZJTGl2Y3ZabUFOclFRcDktOGkxSnZ6UVJ3bTAwU1hNcVNBcVZ3UG13MzN2RUljdmU3WUN6ekVyYUNydEJJYmI0V18ydmRVX1lpVWVrM2NkckQ1OFRqdGdnbndSSmdub2hDd1ZYdTZPa0RaVEZIQzVpUFhXOXFfWkVKY19YT2pLdjN6UXhYN2JtWnlpLWgtWHpjZkVIQ2NXT2lMMXJVQ2l1akIwVnItTU5Md0FV?oc=5",
-      "summary": "El argumento a favor de la exclusividad cuando Gears Of War: E-Day costó más de 500 millones de dólares fabricarse Kotaku en Español",
-      "published": "2026-10-23T14:08:25+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "0239fd6d134f59a62e9bbe932ee42cd07239f4dcb31602e1a27a667f2d603826",
-      "title": "¿El nuevo fenómeno comparable a Black Myth Wukong? Las ventas de Phantom Blade Zero sorprenden durante las reservas - Vandal",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ0ttVHh4ZEw2bU5tR1lkVmVvSnkzM2NWd293TFUxOWFEYUFmZzg0VzFZTER2LUp4ekhhclo3VGp3UVExVzBfcGNjaTBxQmw5cUViZ2lKOTNpUDRCdDNXaEN0TVc0U2xiSlV3YUl4b1FsYl9CQjhxY1g2RVBqR3d3N2FaQ29zSFA3RV9jbFJFY3VRYmpFYUJZU2lkWHFpbG45M1RLUWV6STVzWFV4Ul9EZzM2M0tRT2dOQmJnQXRBQ2JhSm1CdGZzMEY2WVBnOFRBajdYdWQ5ZXRtLTJ3YTUwT01sM1pWcXNsRkRFS3AyQzdldzF40gH6AUFVX3lxTE0zVG9leE1OVWJGN0Zhal9SS3BEWi16UkxDWW9ScFZXTVBEVFZ6T2ttYUI1dGx3OEVPMjUyQjFVc0FwSWtpNXByd2JNVWsxUy0yZ0R0T0F4a0ZMUmtSR1JFSUtHLWhtRGhFb3BwX21DaURibklUZXk0aFhiN2pxZjhJSkRMOWpkU2stbmItLURqVUh2VFE3S0pQNFE4Tm5Lc1QxT2tDcHdXRFJtYjlJMzdBZlZMTlhMMGYtVTllbk9kc0c5X0RNTjZYRzRkWlZHeEk5WjhGVzZNTVJmSi1hLXNuaU1PaUVqSFFlTzdlT0NpZzhHVzI5RDc1MEE?oc=5",
-      "summary": "¿El nuevo fenómeno comparable a Black Myth Wukong? Las ventas de Phantom Blade Zero sorprenden durante las reservas Vandal",
-      "published": "2026-10-23T14:07:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "95b055a9b3ddec450dac7b9ace66b20ea025e291f907bff4f121876a1a26742e",
-      "title": "Gears of War: E-Day Cost $500 Million to Make Before Marketing Costs – Rumor - GamingBolt",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUURaMWxmTU5XVHJNVkJNZmxBdkdPbVlIQ2hTd1I1YkxnTTRPWGtRenVkeHRCSU9VMzhxTnBiLUNlSEFNUjVYR3hSeWVFN0lRUnV5cDZ3bmloNDNGbVV2UTczdlk1RXhMSi01THFSeUJjbVRzT1M1MWpQeGdoY3JBQ2VfVlpHdnpybV9wR1habDZ1OWlCc2JCN1luVQ?oc=5",
-      "summary": "Gears of War: E-Day Cost $500 Million to Make Before Marketing Costs – Rumor GamingBolt",
-      "published": "2026-10-23T13:13:15+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "a7654b9208d26273c1dd1dd12fba091d055cbe03e7a4cf9f1ca8cad1fd10a8ea",
-      "title": "Call Of Duty Ads On Xbox Are Even More Annoying This Year With Modern Warfare 4 - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGk0U093aGhwUmsyWndfZFdJSU9HRGxXekUyVUpNbS1VOFNkc05OUlZwcFZULU1YWURNRi1ueVF3MFRBQ1BndEM0MWZYZ1dzX08zb2xtTmpScWFPQktXRWh1ZEtabWppamljUHR4d1VvZ2lVZHMxTFdUWWtiX2kyNm1UZU5SNFh6Z3E0MlJBYUZPM19LRlljRVpDdFZWbnRHZTZvOWJMZVNVZUd5ZG9CV0pxcks?oc=5",
-      "summary": "Call Of Duty Ads On Xbox Are Even More Annoying This Year With Modern Warfare 4 GameSpot",
-      "published": "2026-10-23T13:05:52+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "4eb3cde400ba8afe8280f92ac7c16507ad01a8a8a704315d8dfb8299b686ee53",
-      "title": "Gears of War: E-Day tuvo un presupuesto de 500 millones de dólares - Noticias 3D",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnliVzJQZGE1U1JNN2xkdmF4TEZWU1l3alJlNTJlczVDVVBtZ1VRSEFoNzNlVDBWVDY5UHRicEREdGNRRzdYbjY0ZVR0RWtTMmpLd2RkTjF1cDROcVFCelNQVHBWNmR4SEMzUkhCLUdqNFJmajZuaUNHeWZvazNvT3VQVTFDckxOMjZZQ1I4bw?oc=5",
-      "summary": "Gears of War: E-Day tuvo un presupuesto de 500 millones de dólares Noticias 3D",
-      "published": "2026-10-23T13:01:13+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "4a82b9896a7f394b74ac983237e737a818e08d8c9785edb5ddac95dc63d0f710",
-      "title": "Uno de los juegos AAA más caros: Gears of War E-Day habría costado a Xbox cerca de 500 millones de dólares - Vandal",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQWdaM0hpTEE5b09jZDkyM1JWQnM4Q1loQTc0aC16SHZtc3ZOMWdvc2I2YW84UGtjYU9ZZDdhVWNmaUp4WE9jTlZweHR3TnQxNW14ZDJFUDAtX1haTjFWakVOUU54b3RWNUUzc2VCdTJpT0YwRGdBamszZ3BPT1d2X1VGNnVkYWNsYXBkN2VnSzg3XzJzVmVaek5kQ1JYUWQtR09nb2xrckZCbGJuVmVjaWtCaVUweWRNN3JLZlJxQXVpakU5NzZoMVFRTHhrVFh4Ml85TkFiRFZwNUxpUkhWc0VwY3l3QndnTnNaTXNJSdIB9AFBVV95cUxPZk41d2RQN2VKbW5MUnlzNVJZZWsyXzB6Y3RvRUhZTjk5ZGdXT0k1clVLcVloeGh4bzNJZWFndUhNOS1uQll5MEhHODRmX3dGZmRnaE1jOGlzS2pYWkNMc0pubkZjXzFuN2hZN2pkcjNZbFVrUDJrUE94T0pjNUF4bl9Jd0duc19DUmdTSlBOOUx1djZEeXVEeUg2Z3lrX0hqcy1Zd2lDeC1nQXBfSXZBcldLVTZyWElCc0dCRDBib202clJsWEJWR0k0TmU1SlJWZ2Z2THJ5VEJ5RkNtN3V4b1YzcmVVN1BHcjNvMElSX21NeXNy?oc=5",
-      "summary": "Uno de los juegos AAA más caros: Gears of War E-Day habría costado a Xbox cerca de 500 millones de dólares Vandal",
-      "published": "2026-10-23T11:36:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "0931b2ea692a405017bed3d56f8a7dba7a7fed07ae336f8f02049055ac9e5c04",
-      "title": "Gears of War: E-Day habría costado 500 millones de dólares, según Kotaku - TodoJuegos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGUyRTNMQ3JDS3kxNlJBZi1TUGhNZXp0UGVNcFE4ZlpmcE5Xc25tek1GUmhJZDhrMy00Nmc5VDF3M3dlaVFNbjR2MllBaF9BRmhVcXZtTDlIcTJqRl84V0ZrV2NoSF9OeXZDb2ZJRmhRbVk3bnprSkxVMlZLb1JxUlp6Z256aHI4Q0lTbUtCNmJHdXJLTTViVUtCTXlFT2g5c1FabTV1VQ?oc=5",
-      "summary": "Gears of War: E-Day habría costado 500 millones de dólares, según Kotaku TodoJuegos",
-      "published": "2026-10-23T10:34:15+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "48ca516c6af83ea990fbad2186e18c559b54ffd153101f7dfe85a462dc7a89dc",
-      "title": "Age of Empires IV: Raiders of the North ya tiene abiertas las reservas de cara a su cercano lanzamiento - Generacion Xbox",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVDAzQ25rMTFzS201RXdyYlhDVGtvTE1acnJYVmJ6VzVFVzgwNS14b194WEp4elp4ZWdJXzJyZFFTSUtKbE4zM0gxSWxyNnN4NkhpVUpOcGYtZHV4aWxCUWQxVklMS3dJcTJheWUzN3pfbzJnYXR1eVU2ekdGMDlHdzVVaFNtSTBMZDg4WVVIMmNfRTdJZmJ4RlZ0MjFxOFdNSGpscXY2bUM3bDBfMXNyRFZoVXJzeURYdEZSSHlYYUE0X0tXRl9KeVB3?oc=5",
-      "summary": "Age of Empires IV: Raiders of the North ya tiene abiertas las reservas de cara a su cercano lanzamiento Generacion Xbox",
-      "published": "2026-10-23T09:00:25+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "7e36582c187dc111c6aaaf3ea0932acfbd97ecfab1ba6becd0640a0cb2bba673",
-      "title": "Gears Of War: E-Day gets third hotfix - virus.hr",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuSlVpanNmNjFybEFjMzVpTjF3Vkp6SzU0c2hfWU85R2VRWUcydFhaYlRqVnE5UDNLY1A0TWhfanFEZk5CQkswOXZ1N0dULVlBeGgtWGhjcTkzMUtKdG9CRVNhUVg3eG93Unk0c1dB?oc=5",
-      "summary": "Gears Of War: E-Day gets third hotfix virus.hr",
-      "published": "2026-10-23T08:02:36+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "e9b2055c6b8d35ab381ebd9df5d57fc9a30c81c13efa6ef6d656b6760d5dbc2e",
-      "title": "Gears of War: E-Day Might’ve Cost Over $500 Million to Develop - GLITCHED",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRldvTFJJeTdrZG1XeElYSTd1UVlKUnJjSXhyR0JCUkk3RVRCaUVaVlhUTHlCVHc0VDN1bjU5MkRwdk4zR2NTSklxc09rbFh5V0ZMME02TGN6ZUs3U0JuQVUwZmw4OWYxQlpvLUxhWmFDLXBFbkpPamx0Qmtrall0dF9rVHZ3Zk95cVlxX05TOXN6Zw?oc=5",
-      "summary": "Gears of War: E-Day Might’ve Cost Over $500 Million to Develop GLITCHED",
-      "published": "2026-10-23T07:55:35+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "683bd8a8a233b99e4677d85d7b9f340a990aaa247a848951ab62904c98fac4f6",
-      "title": "El presupuesto de Gears of War: E-Day se dispara a 500 millones y reabre el debate AAA - Qué.es",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uYXFaalZMNzY0RXJvX0VlRU5VT3FRZnlPbm1VLXhqeUk3bzNFU0JfUmViQ0ItVTRPVnBHSmhLWkZ3VjVOZ3FRSXFTVnB3QlBrWjVhU1d4TURJODZfNFUtazlmeGhCa2Z2NHFzcmFn?oc=5",
-      "summary": "El presupuesto de Gears of War: E-Day se dispara a 500 millones y reabre el debate AAA Qué.es",
-      "published": "2026-10-23T07:29:25+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "46f0acb61400cdcd0b28deecff10daf97c6236aa09cbd19279d170ff6eec9be6",
-      "title": "Gears of War: E-Day reportedly cost Microsoft over $500mn to make - Kursiv Media Узбекистан",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1dEdmk5QXRzc0pfWC1RR1FrdFRVTnZiV0EyRkFBRDBZTERUaDB3MTV1dHJUa1RFQkJMRTZrZktUVW8xcWlCNGI2NTE1ck1xbjFiWXF3cDFqLVR0aXNRUlBOc1VjR3F2amxMamVaV0ZWX09DclZ6TTVJSmRGX0NZR01lb1dxbUg5Ui1v?oc=5",
-      "summary": "Gears of War: E-Day reportedly cost Microsoft over $500mn to make Kursiv Media Узбекистан",
-      "published": "2026-10-23T07:00:24+00:00",
-      "source": "The Coalition",
-      "category": "oficial"
-    },
-    {
-      "id": "a4623c8eca55e6752f5a45639287ddc44d540694dc0ceecc053feae8cba2defe",
-      "title": "Xbox Reportedly Asked Netflix for $800 Million for 7-Year Movie and TV Exclusivity Deal - IGN India",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUlXRzN4N3RVbl90MDV2b3J4TmdHOF9ua1RzblNFek5JMVc5YTVkYVdmMUg1WmxvejkyUTgwazNaa0tWWVNuRWdEUXJVbzRreG9qT3NTcVkxQ0kyZnVKa2xBMERwb1JVVjk4Rm9yNWszZjF2eklFZlNmTVFwR2tKekdCSDNWVzRTWXBGVEp4T2pyOVdLWEp4WEhrWlZPeDdLc3I4Zk80NmNHMWNCR2Iyd0pRaHJGbTVlOG5IRno3YmMxYnhEaDN4NWRpZVFTSnUx?oc=5",
-      "summary": "Xbox Reportedly Asked Netflix for $800 Million for 7-Year Movie and TV Exclusivity Deal IGN India",
-      "published": "2026-10-23T07:00:00+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "5db5751b568ee28264a5f015b2b581756c4a3bd0c822048533f6f28fb3831e3e",
-      "title": "OpTic Gaming releases Gears of War roster following Immortals buyout - Dexerto",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzQ2VmV1TENCVGU4UUJYUmFzbFNyNFllRFRxTThQNFpmU3VIM3VkVGxpRUsxMTM3a0FpbWZOZTBMODRhT0dTYTZQUDdQa1puMVl1SF91TGFGWE5RVXlQNGQtYTVFSnI1N1h1aFFaZUdLTHhtanRsUElFU0xKV3Mwd3RTb0RKMVp3cC1UQ2dNYnptR28?oc=5",
-      "summary": "OpTic Gaming releases Gears of War roster following Immortals buyout Dexerto",
-      "published": "2026-10-23T07:00:00+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "42c7c48e529d4c15fa52dc1d241479eba24985b21a97ad885e61b36cbe090f69",
-      "title": "Gears of War: E-Day Could Have One of the Biggest Development Budgets in Gaming History - eTeknix",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkNnaWxrMDJkVnJoXzVDQmZOdXRUT0d2eE9XVFRmdmEwX2EwQXhFc1lkUVFXY0Z1aGpoNlB2cmhjZXJSQm9OU2JINjUzcjA5S1ZYNzNfWkhWYXRwSEV0d2NBVFFCSUdCanVOYlJGTG9BY3k0X2duOHBmU3dFblR2YlFZVzZiVzEzVzlvUUd6eTRXSXJyVFRYZG9MM2h5a1VJMFBFR0NBeHB0RWdJSENYQQ?oc=5",
-      "summary": "Gears of War: E-Day Could Have One of the Biggest Development Budgets in Gaming History eTeknix",
-      "published": "2026-10-23T06:02:16+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "2a4291b6d9bde789ad668cb0169d926a620b4139e0f963fe9df906fc96f36aa5",
-      "title": "Gears of War: E-Day reportedly cost Xbox over $500 million, before marketing - Tbreak UAE",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hRmVXcUlWVFcwVjFsa09ySXFtOE5HZVI2SFI5ak5YZ2d2dkRfVG1ncGRBNERBY3BENktBTmt0REpoR3V2MmxlSl9UeGI4RV9pR0FpbGJBVmU5Q2hQajQ2QmZLZV9GbWNo?oc=5",
-      "summary": "Gears of War: E-Day reportedly cost Xbox over $500 million, before marketing Tbreak UAE",
-      "published": "2026-10-23T05:55:43+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "ffcbf7859c07eb2d348b0f347516e7ea8309fd331496155dfaf2945af5ef924d",
-      "title": "Gears of War: E-Day recibe una nueva actualización con mejoras de rendimiento y correcciones importantes - Generacion Xbox",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWxLa3VCQkEtc20zNUtTeGwzTlBGVVpXSVlxX3ozLVhEeFZGMkRhYWxoWXBxWWl5VW84S0h0cm8xU2oxbFdrc3dtd01HTjBaLTZJQnoteXlBVHhPLXF3RHBIWHNOS1dIUEVMeFZPcml2ZlIwc3lHbHlkQi1yODRkUGtTSGR3bzVESmlsT0JSeGl1aFR2aFZGRi1BSUxjRlF5enFsbWZYM3lGUWlobDdaZW56dnBLRE84aXBobWdrVVd3Nk1QOWU0LUhCWQ?oc=5",
-      "summary": "Gears of War: E-Day recibe una nueva actualización con mejoras de rendimiento y correcciones importantes Generacion Xbox",
-      "published": "2026-10-23T05:00:19+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "3126bae28afd53be3f9df91e8de197366f05443d2ec99f9e0c76c199ed09139a",
-      "title": "Gears of War: E-Day Reportedly Has a $500 Million Budget but Has Yet to Break Even - TwistedVoxel",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Sd21aZ1JZbHJCR0NvYkI0NGg2dF9TOWVDZkhVcDNRYzVZM3N5MEdHdUF4RkI0c3JpX05LZ1RfQUllaThHdS02d3UzMEkwYmIzTDhjRDBZOUo3THZZNnVfeg?oc=5",
-      "summary": "Gears of War: E-Day Reportedly Has a $500 Million Budget but Has Yet to Break Even TwistedVoxel",
-      "published": "2026-10-23T03:47:29+00:00",
-      "source": "The Coalition",
-      "category": "oficial"
-    },
-    {
-      "id": "ecb219a7af4578aaf63b28b6db5cce44313e244724e592267cf0b709f649e06f",
-      "title": "Gears of War: E-Day reportedly cost over $500M, then sold 230K copies - Gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcm9VZEZpSno3NVIwdzladHVhNDBycU9ob2tTa2t5STdKcTNoSklTQi1faDFLWDJpd3dZcm5NTGx2dDY4UElrNkFVWmJGMUVOTnM1MGlCX0JnQlBZTXJpNDd5ZEdQYW00dE5URDZVdVRlZkZadHlJV3hkS3dHTlZuWlNJYkZGbTU0ZGxnNjJTZXBpS3BNVW9jUllPU2NKWkXSAaQBQVVfeXFMTlRMYnFLY0FNZC00cmlLTlc0ZWQwaGZfVTEyS2RqNmtpelJxVUVXWDU2aXJpcEdDY001SGh5SnNhQmdFR29zZF9DQkFUQU1LQllTNDZya2xJaHo4TDlsQ21GNTVvZGc5V29GQzd4ZlZ5Zmp6VWh1QVpYOGJLWWlISmdzNHktaldCenNSNlpWZnBtSE1tUXJNblNPVUlyR1pSUFA3Mnk?oc=5",
-      "summary": "Gears of War: E-Day reportedly cost over $500M, then sold 230K copies Gagadget.com",
-      "published": "2026-10-23T03:16:28+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "a4bcc254c7f00e288848989e86e46dd1588e5d4ef79ade13cf913997ed3a1944",
-      "title": "Buscan a José Luis Vicente Rabelo, joven de 18 años desaparecido en Nuevo Laredo - Milenio",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDRZUmxQTmptQW9Gb04xdWRZdjVTU2RKQmt6YkpEenZ5eWQzZi1uWWdkU0FUcnNtcTBVS1I3dkQ2TTVScTNqWXNuRnpPeF8tUjVrcEFER0NvMml3NVJfc0pzOHlRNHNCd3pKODI4MDVmN3pzWTVHOTQzYndGeDhSZ3FNblRxYmVMMEZHVDY0R1ZvelHSAZMBQVVfeXFMTi14SzF3Nk1qUjhMQkhiUG9NM0tseHFZby0tdmFTcnN6NEwxMVl5dXJTTzR2RUFkZTZxbUxkUXgzdlV0QllKMU11MEt1OEs2UWlzRk9zYWpWMHFBdzZjTXpGOUNTVHZNb3RkQk9lSXdTQ0tTS0x2Z1pka045aV94U2FZZ18yakV1c1lBTG1qUUc3UDJj?oc=5",
-      "summary": "Buscan a José Luis Vicente Rabelo, joven de 18 años desaparecido en Nuevo Laredo Milenio",
-      "published": "2026-10-23T00:41:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "650931b6203d88d14e7118ddf4902fe16bea3a5176f54de6788be623b321a5a4",
-      "title": "Gears of War (Movie) - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NckQxLUdnMHBiTUhqRUtoTUhSMmYxNjRkYlV1dkN2Rm5RWm5hTEFaSWJEc2wxWkx0VC1tbDh4NnRUcXNBQWlXaDhGckFPbjNpNDVHcEY3blNxSFlITHM2cFNMUXdfQ2VPNk5kNXNodGUyM3c?oc=5",
-      "summary": "Gears of War (Movie) IMDb",
-      "published": "2026-10-23T00:17:45+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "6d4376a119b837b2b88232c413e33dcbec1fde3a2d419f30890f1b152eedfbdc",
-      "title": "Gears of War: E-Day Budget Reveals Insane Xbox Exclusive Gamble - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5V242VnZNRXZ0RV9IRlZsVmxERkRDRHZVcVN0WWx4bWQtYWIxQnVUd0VhZG9JWWYxenhkRU53bG00MUVJWXZTWDZOM3Mzb1ZIaENwckV2WEhBaEtfWURSYmVQUENxXzQ?oc=5",
-      "summary": "Gears of War: E-Day Budget Reveals Insane Xbox Exclusive Gamble IMDb",
-      "published": "2026-10-23T00:15:04+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "60ba5f09ebdece421496cb320fd24e08ccf3cd1f0f52d39f7c621f0c93f6e6da",
-      "title": "Games Inbox: Is the video games industry dying? - Metro.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUN5b2JsZ2o5WlZ1dHpOZVY0dUczaHNIYUVtSHhlQXRrSlJhSVZVUUZsVkZVWVhOVzA0bkRTaXBxNV85eE5WTmRReWVrM01PbmtrWWdBNHpWYjM5RnRQYjZHODJXdVozYmFvUC1HMDJQUW05TGJTbHZocDdOMzBFdTEwWF9oZ9IBiwFBVV95cUxPbGdzTWs1LTRFWTRWajhjZ3d1TTIwSUMzR2xfNkVqV0RQUFlYRmpxNDAtR05EcU16ZmVPUFVhY0NzVWtKSmNIYnlBamRTTFN5Z0VDQ3NMUGNFS21TZVQyVWx4bVVRMGZtdlJjSk1vVHNMYkxCZ3VhSUtGT01FQU5oanJiV1B4YTBRZ1dz?oc=5",
-      "summary": "Games Inbox: Is the video games industry dying? Metro.co.uk",
-      "published": "2026-10-23T00:10:00+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "53a3d42a6772cdd3ffb5098534f6167c2408d96960f30e6fd1c8ead17d84566b",
-      "title": "Gears of War (Movie) - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTFGaERDTVZLNjc3R0hXdjdZTVJmT215Q1J3dUM2SmY3dlZCZEttNy1DakRXdjUycHlRdldjOWpwZHluTXczM2ZkTGNIZXhnZmcxbTRMZjlYZkh4UVpfZTgwOVg0NkxsNVRqQnZyakpBWVU4aGROYy01SUw1Q3lXMmNCN3g?oc=5",
-      "summary": "Gears of War (Movie) IMDb",
-      "published": "2026-10-22T23:37:46+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "db35e7b79922fe595a898fd6037f79c075b2861b1ed0e782cef13e14c9a8e78b",
-      "title": "El jefe Locust más aterrador de Gears of War E-Day: El Boogeyman…🔥⚙️🎃 #GearsofWarEDay #GearsofWar",
-      "url": "https://www.youtube.com/shorts/wFQ1nkSkgfk",
-      "summary": "",
-      "published": "2026-10-22T23:03:32+00:00",
-      "source": "ElGamer WICHO! · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "f3805c7e79d298cc7fbd943c307f3036100867a19fa53b5907b1746c0ed5fb99",
-      "title": "ME ENFRENTÉ AL BOOGEYMAN EN GEARS OF WAR E-DAY... ¿IMPOSIBLE DE VENCER? | Horda en Halloween",
-      "url": "https://www.youtube.com/watch?v=yWJBomeyaPA",
-      "summary": "",
-      "published": "2026-10-22T22:52:15+00:00",
-      "source": "ElGamer WICHO! · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "58c51735412a361449b7178745992e9ac2b3ae7a0b05f98a15e685fe8a0ed55a",
-      "title": "POR FIN SOLUCIONARON ESTE PROBLEMA en Gears of War E-DAY! 15 ENORMES CAMBIOS...",
-      "url": "https://www.youtube.com/watch?v=RG9i1TsaEl8",
-      "summary": "",
-      "published": "2026-10-22T22:17:43+00:00",
-      "source": "SparCkL · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "e77a9cbdaa4ac05c265efd55d0c6b762357a2e9c2194f05af17047019adc8725",
-      "title": "Gears of War: E-Day recibió un hotfix que corrige bloqueos y errores en la campaña, pero no el exploit de las granadas de humo - iXBT.games",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYVNwNHIzYVl5SS1mVlEybTFzOEdMa0ZXdWg4WjJxZUoyckVjN0JWalo4RjdiU29KWjllM2J5X2s0Z29xNDhYak1yNFBsSVNhVDh4Zm4ySGJOVmh1VDBWUUFWczU4N2xNSFlkQnpIUUQ2a0kzSTVWOVVmUmphQ0UzYThDN3Nqa0pQZ3lHWnJjRmZUUDctLVg2RTRWTm9Nbi1ENS1rVGtfMDdxbFZsM285ME1QTHRjX3RzYzNqbkhsMzBTM3FuN2NGeXlROVkyYzM4RnpHNjIyQmNlbF9EdTJrN0cxYkdYazJvdnlKU1psRdIB9AFBVV95cUxOUkZiRHZHUG8tT0tWSWMtS3JMZVhpUllrQUp4LVFsQ2MxMWJqR0M4XzRfRk1aVjh6YWxuSnNLYTVEdy12RDlicGdpX3p6MmVCZV9TaEhVSWk4RlJHZ2REVWNnY01pbEt5X1VqaU9hZ2V6cnlHeUlWdXV0eERBQzNEeFkwRWJfUEdhZXpYRzMxZkk0RlZtQ041OWhrSldhanZsNXhXQkVXU2FabkRfSWNqM2FXLWNudFJmLXdDVVo2VncwamVXVkF0YzdlODNiejh4Rlg5MHp3blNQTUh4U0lKc2daOEZBSEhnbWk3ZWwxdEhmMEV2?oc=5",
-      "summary": "Gears of War: E-Day recibió un hotfix que corrige bloqueos y errores en la campaña, pero no el exploit de las granadas de humo iXBT.games",
-      "published": "2026-10-22T22:13:15+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "234b05b19f31ac6c9e655997e688af9fdb113a1bc6af465eb9f1e5b9afe0736a",
-      "title": "Gears of War: E-Day received a hotfix, fixing crashes and campaign errors, but not the smoke grenade exploit - iXBT.games",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVzZIQzl2UGZGdWtzVFZxRkhWSE1wbDVocC1EWVExWGJZWkpaZzZGcEVDRmdxS1dsczRGUUl6UGlBTTJUZWlVeHp6M1JERS1sU1RuUGRnTGZzN0lROVZWb0swOTVVUDdZN0JMX3R5OVNWWXhQaWJjTW5OLWZLRnd1bDAydnBXMXJSeHI4bFVVa2U3WDJOQlgzbEJ0cG9kMVo2OVAyYUh2VGxYQXdxRDdGOGUyQ0swaXJaZFlyQTFveVRTQ1hwb2JMLU5QRU5BSVBqSm5VVFFabXRKT1ppalBkLTRWVUE0NlB1VXR5SzN1b9IB9AFBVV95cUxNZEhtVTdIcHJPNURvZFZOeWpWZVIwdjJMUjRCUlVzVzdQYjUySW9iMWJYZWNEWTNJb3NoR0VtRmRMNDgzWFVudXhqcDJBVjZCYVlwWlVfX1loQUROeXJXZm8zN1lLWFc1V2hFVnZxQjVVaHRZVnJ2UlAtSGtzRkktbF9KbnV0Y2N0VC1zX0phSGZ3NzVrU1NqTU5BcHdpTjdsWVkteG14SS1SeEJrXzVOc1k2VzlIc0tpVlFWTGZUeXB4UUJMR1FBYldCWmtLeDFFdDg4WXNlc2hXV0o0LVNIT21kQmVIRUJ0R0RrbDFxajlreS1k?oc=5",
-      "summary": "Gears of War: E-Day received a hotfix, fixing crashes and campaign errors, but not the smoke grenade exploit iXBT.games",
-      "published": "2026-10-22T22:13:15+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "71548fb13a0fe83fb3fc2427ae2b1e8a085f47a1fdda8d58d55ae88b61176ed9",
-      "title": "Gears of War: E-Day habría costado más de $500 millones de dólares y sus ingresos iniciales apuntan hacia un gran fracaso para XBOX - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekIyUG1UWjRlZElUWHRTTm9JNWJtTEI3dHV2Q3NGWGwtcVlxTEd3TUlvX1IzbU92NXV5YTRvc0VUMlZ0M3VLcnM2VllqRmJvLUFTWE51Tm9yQ2ZhbG1vQ1BLR25fRFNDOE1Tc3VhT2tTcUJQT1ltZm9NUl9JQ2gtTGZ3?oc=5",
-      "summary": "Gears of War: E-Day habría costado más de $500 millones de dólares y sus ingresos iniciales apuntan hacia un gran fracaso para XBOX Yahoo",
-      "published": "2026-10-22T22:04:44+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "6660f964bc64dffe4ead521924acc41e189f21932d7c7c79e870a3ac012db349",
-      "title": "Gears of War: E-Day Budget Reveals Insane XBOX Exclusive Gamble - DualShockers",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVZlT2tiVlJDRUtJdU13MEFuT29UdGdrRW56aElWWm5ScEd6d09NWi1RYW4xajZlNWtZZVlnUUtRblpmX3FaT3FhNFplYUdBdFNvSTNzb25WN0FUZ3pfR1pySXhGNGlzWEd1T2RYZEVaM1J3Z3FNNC11cUFMUXBoSlB3LW4xSGV6Z3p0MnladXpZZlZycmtR?oc=5",
-      "summary": "Gears of War: E-Day Budget Reveals Insane XBOX Exclusive Gamble DualShockers",
-      "published": "2026-10-22T22:01:04+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "036f66d00c15206725496d449a4c935e30ae1dfb312ab817fd4784d56917f47d",
-      "title": "Gears of War: E-Day habría costado más de 500 millones de dólares a XBOX, y eso sin el marketing - Instant Gaming News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWDNmRlBoWEd5TzZSMkZ6eGtOUGgtSEJSbFNydm85SnZVYTJhRThnazlqNE5hazBCZ01pSFJ0aVNJOVEtbUxtMXlEZktkbGVMTE5SQWVZUE12d3VLQ2tTZjBwNEdDemNWZkVFQ2ctdktPeFdkTzlNUUFYSEFvQkdwZWhLRVc4T1VvZDJUaDBwZm96NHZpZXU5S0x1QmxZUEdIN1ZocXZNVm1xNHFFM0pfbTNGa3dJWHRIdTZ4Wk12Zi1rVnZYcU1kZ21Za1RZX0dWOGtVZXJCYnVEOFRUYUE?oc=5",
-      "summary": "Gears of War: E-Day habría costado más de 500 millones de dólares a XBOX, y eso sin el marketing Instant Gaming News",
-      "published": "2026-10-22T21:41:21+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "3bfddd3760bec362ba866a19e8d539a5505ef2544b9d676ce14fdecfb474bf11",
-      "title": "El desarrollo de Gears of War: E-Day habría costado $500 millones de dólares - Atomix",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUp5bU5CVmpXZFNETkxWQl9TWTVBRU9ZSHh4dGc4SEQySjdsWWpwR3duVTN6VW5zMWNXQzhGUmRISzlnQ3dmeDQza0UxWjlzZWFVYW5KbWlwMURab1hyZnZxdHBGY0FVWENONzliUHFmZG9ENzFvWnRiNlItNVhaanFwbkxZS2Z4bDU0QzhCZ0YtSmREQzVF?oc=5",
-      "summary": "El desarrollo de Gears of War: E-Day habría costado $500 millones de dólares Atomix",
-      "published": "2026-10-22T21:32:00+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "9a0301ccf1b0ae67b84cd1d35878e0115355daee9813d28fbddc9d797119fc75",
-      "title": "Gears Of War: E-Day Gets Its Third Update On Xbox & PC, Full Patch Notes Revealed - Pure Xbox",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0x6dUlxQm1aY1c1a3FJOTJ5UTFaMld6RTNVdTc1RmE5NEpPTTlJQUxTbnVGLWx0dWdxX3B6UTFRRkhBek03cW1VN3VqdExaTWxHaXp0NDhteGxJYWJWM3VFcFhNT0lZaGJVaHVUM2tRc3dvVUVBMlJ3aW95TzlLRjF3Q0s3TGswLURvQV8zOGZ4ci00UWppeXBoQWhfbGRGRFozZVJ3WG8zWXk2TTh0V1NSZUZtSUNlSTYw?oc=5",
-      "summary": "Gears Of War: E-Day Gets Its Third Update On Xbox & PC, Full Patch Notes Revealed Pure Xbox",
-      "published": "2026-10-22T21:17:00+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "ebea26b4b520006cbc5a5d3cbed01b3513285b4aa640619117f43eda5c32e591",
-      "title": "Gears of War (Movie) - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWRtb1dtYUdpOTZXSUNTeV9PMExEMUYzWVhJeGxnTzc4dHB5V3FHTFY3cWZjUThmd3hTandKdlAxcU1lV1JJYWNEU1BIYms3TUFReDhHb2NYZmdHZEg3MHN3bFA2anByWHRqVHRLdVB4ZmtuVDBpS2NfamZwTWxYbWhKLW4?oc=5",
-      "summary": "Gears of War (Movie) IMDb",
-      "published": "2026-10-22T21:04:57+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "fe9834a10e6d473d838765abc47f3c2de4ef03aa3f97758dcfd5cfaa77933187",
-      "title": "Gears of War: E-Day Developer Interview with The Coalition - Rocket Chainsaw",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWs4Y2pnRGRSSWtjVWdvVV8zMlFjSUFHckRTREVpXzlQa3lNQUdlM1J2bzFyZm1oUmdVM2RyMVV1ZXhBU0Ixa1RrNEZyUVd3MzVxSDFhS1FpQi1hUml0d3lvNFBiRHZkb0dHUk5NTHRYZ0pkY2xNQ0w2c0E5OUVyYjJHSVhCd05tcjJPZ2JDOEdRQ1pqMlJr?oc=5",
-      "summary": "Gears of War: E-Day Developer Interview with The Coalition Rocket Chainsaw",
-      "published": "2026-10-22T21:02:42+00:00",
-      "source": "The Coalition",
-      "category": "oficial"
-    },
-    {
-      "id": "ff31ea45a69a745f23fc2b4254ae85d775534c77cb5f23ebcf47c2f0cbff237d",
-      "title": "Presupuesto de Gears of War: E-Day habría sido de $500 millones - GamersRD.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vNlZJYjRtSzN0aXJlX25xby1WX0dZUk5SRnV1TF9SZ3VPQlF2UmM4N09ZZ2dydnFpbzZ4X2pydW54YTFTTUdGeXdXYWpTS3RmS0lIMmg5YzlFVHpUUWZzUFY5NnJPcDM4QzcxZjV6QnA4RVU?oc=5",
-      "summary": "Presupuesto de Gears of War: E-Day habría sido de $500 millones GamersRD.com",
-      "published": "2026-10-22T20:28:22+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "b06dcaa41387436c8a30112b8842059bc1811f0814586ee9d42bd30d10299e29",
-      "title": "Gears of War: E-Day y los avances de su mod VR - NeoTeo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjhTb0hSc1ppOGJXaE41Z2ZQbjV3alpDR3Q2Tks1TkRXMDJ6UGRJSk55MUg4aXByNDRqTUlOaDczaTFuOTVfVHgybS1kVnpaTGp1TnZxdlNhZnpHZFdaUnhvN1RHbkc1WERSdHJ4ODZNN0daLXVvZm1Ja2RhTTlYYm9WaTJYRHcyTzFoclhyX29ZNUpPTTE1dUpYZEpma2M3aEIzLUJn?oc=5",
-      "summary": "Gears of War: E-Day y los avances de su mod VR NeoTeo",
-      "published": "2026-10-22T20:26:04+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "19eefb6deaec61753540ba379913b5868c9e0da0b03451fc7dbd7d03b279daa2",
-      "title": "Gears of War: E-Day Production Budget Reported at Over $500 Million - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDdjVzBxSlk2NEctV1gzSEtQc1JtcG9PcGZlSi01MVc1bXZ3bV85cDlVVnhPUVZqbVBqbkk4ZURXeUdhMWJQekNHbWdoR0lYZ0l3ZHhwZTVGVWpQSmdycXF2dFItNm5LZmZBdzJYMTloNnNOWjRLS29DQUtHdXR1cTFUaGlIMjNNNGc3cGdfWDlpYk5PWUM4ZFdPN3Flb3otU08tVjlQd9IBrAFBVV95cUxQOWZjd3FJWVhkWFpyN3JwY3NTRXhxOVI1aVQycVNlNUNyV1d1Yk9KZW9Ha2l6RUMyX3AzeDlEOHBGaWVZemVXbThKWl80bThFcS1xZkRKellUVVpYTTJZdmhjVFZwcHgtNEoyYkZrZ244alEtSEcxaENuaEprTTIwdjBERWNzU0UwaVpZa3JzbnlKSFFwUnY3Z2taQ1JCSXlVcTExSjVNNTFFZmVk?oc=5",
-      "summary": "Gears of War: E-Day Production Budget Reported at Over $500 Million TechPowerUp",
-      "published": "2026-10-22T20:17:47+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "c1c1565a8783202d631dc40f95ba253e43ebed579db3abe71f2d9d1d7d65c13b",
-      "title": "Gears of War: E-Day Reportedly Cost Over $500 Million, and Its Finished PS5 Version Never Shipped - TalkEsport",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPenBzTFRLX0FSR1diblpzX1dtbjhqN3F3RFJpUl8xRTBYS2tOc1dGc0pqY3hhWjlDUldCczBVRFc0MUxuYV9fYjZFd1BnT0NuUjFXdXNuZno1a2NQVHdSMDVkc2s0c0wyR3QtNG9vUERHLTc1MlVrbjJLYjJKbnZ3X29WeFZVQ0xBMXhrbmp0UmpxeGExQmc?oc=5",
-      "summary": "Gears of War: E-Day Reportedly Cost Over $500 Million, and Its Finished PS5 Version Never Shipped TalkEsport",
-      "published": "2026-10-22T20:08:20+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
-    },
-    {
-      "id": "803b5c9c0645b62ab58b995f182c9cbe644c29d195b4b5d5f6626b95ca861443",
-      "title": "I’m Getting Very Worried About Skate Following EA Layoffs - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkpEQnZhRjFDbDVEek10X0FrWDZkU01wWmcxTldodC1YSGFsbVZKWFp0NTdwZFd6SHJWdS1fS0pUSVdtU0IyWF8yR1BjZi1nSXVQM212WTZtWW1YSlV3dGNBdU9xTGZxeWxDVHQ4QVVwR2FVU0Y1QlJOYUpJb2FQcTFqSXh6NXJINDIzSXlhdllIRnRWOGc?oc=5",
-      "summary": "I’m Getting Very Worried About Skate Following EA Layoffs GameSpot",
-      "published": "2026-10-22T19:49:22+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "c85da2bc74e9207cab2f1635bb46235725e609893313d5d0f889e8acce7469cd",
-      "title": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make - Push Square",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd0IwVEFDQXc5OGJERkVkQmZURGtXUGQ0UVBwTy1hRDZxN1Z3OXBUTUFBR0xpaTNmemNxSXQzX09RODBTNmdRS3hqUlRMUDlsTnlMbTJnNVJWMGI2aVpaNkE2RUhNQWJ4SGIyOW80YTlYbjA1WnhaWUxOSVlYTzdmWkluLU9IdUhqQ3hyb0RaQmR4WkRiY3JzSVpVRnNfaWxMSVBRNldzd1pQS2diazlqSjBUc1ZaSThVOGt0Q2lkY0dWVmc?oc=5",
-      "summary": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make Push Square",
-      "published": "2026-10-22T19:30:00+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "30ba9c4afa99cbb955e429b5650e1c6c0609f413abf2a0518484e7d62bbf1995",
-      "title": "It Isn’t Debra Wilson’s Fault She’s In Everything - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGN5RE5kbDZfdld5UHRsLWRmdXBWallSU3FWM0FUbTVBRWViZmFxWW5WcF9QQ1U1b0dYOWx4cXlyR21jRkRtN05kdzZ1ZzFDN0x3S1hCelBfM0lVRUplU0tpNEpZb05McUlRUmZaVzFiSUxOb3plZDExZjBoc2JUSWNoRWZRMzBz?oc=5",
-      "summary": "It Isn’t Debra Wilson’s Fault She’s In Everything GameSpot",
-      "published": "2026-10-22T19:18:10+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "858e5bbda6d29f0b2d12d139607ab3e3d7c7c22c55cdd390a3da5280b84a935a",
-      "title": "El TERROR de BOOGEYMAN en HORDA SIEGE - COMBATIENDO AL COCO | Gears of War: E-DAY !!",
-      "url": "https://www.youtube.com/watch?v=6atJdlnwNAA",
-      "summary": "",
-      "published": "2026-10-22T19:11:30+00:00",
-      "source": "EMK KrAuSeR · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "62466440689455d6bf2765a8377531324b18cfcec9bfca15e3edfcc327df7352",
-      "title": "Gears of War: E-Day habría costado más de 500 millones de dólares, según nuevas informaciones - Fanáticos del Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0x1am1iV2syYTFGUmlzOHhPcERwckw3N180NjNJUXgzLWVZa3d3aUo2X1pKQ0NxSW04MXd4MDFGcGxNQ2hpLXh5YVRia2x1RHJIMk5FUW1RckM1ZG10NGcwRTJlRElPWS1uZVdyVUNKWmU5SXlyckFNa2Fqdl9EeXBaYkVzbmpoclVXV2NCV3g0WGNnUGR4Q05uWkU4TkI4SkdKNnktWUVoZEdpZENWTExnNkhsVEV4b2pXNEZQTzhrdTQ?oc=5",
-      "summary": "Gears of War: E-Day habría costado más de 500 millones de dólares, según nuevas informaciones Fanáticos del Hardware",
-      "published": "2026-10-22T18:40:06+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "f236ec029499aac77725be64e996925d9c0358f770255bce203408705065cdb9",
-      "title": "PARTIDAS MULTIJUGADOR - SOCIALES - EVENTO \"DULCE O TRUCO\" HALLOWEEN 2026",
-      "url": "https://www.youtube.com/watch?v=4rRbEJYYw54",
-      "summary": "",
-      "published": "2026-10-22T18:38:17+00:00",
-      "source": "EMK EyeOfTiger · YouTube",
-      "category": "creador"
     }
   ],
   "sources": [
     {
       "name": "Gears of War · MX",
-      "count": 41,
+      "count": 51,
       "error": null
     },
     {
       "name": "Gears of War · global",
-      "count": 70,
+      "count": 68,
       "error": null
     },
     {
@@ -3620,7 +3620,7 @@
     },
     {
       "name": "The Coalition",
-      "count": 16,
+      "count": 11,
       "error": null
     },
     {
@@ -3630,28 +3630,28 @@
     },
     {
       "name": "EMK KrAuSeR · YouTube",
-      "count": 15,
-      "error": null
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "name": "EMK EyeOfTiger · YouTube",
-      "count": 15,
-      "error": null
+      "count": 0,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "name": "ElGamer WICHO! · YouTube",
-      "count": 15,
-      "error": null
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "name": "SparCkL · YouTube",
-      "count": 15,
-      "error": null
+      "count": 0,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "name": "JosefaTTV · YouTube",
-      "count": 15,
-      "error": null
+      "count": 0,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "name": "EMK KrAuSeR · menciones",
