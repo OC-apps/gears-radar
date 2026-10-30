@@ -1,6 +1,627 @@
 {
-  "updated_at": "2026-10-30T13:02:21.221404+00:00",
+  "updated_at": "2026-10-30T22:25:13.090573+00:00",
   "items": [
+    {
+      "id": "d4a91056400d5d3bd583c35b861f84939a42f27495330d7e0b53388fb87f0b81",
+      "title": "How is the memory leak still an issue?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjt8xa/how_is_the_memory_leak_still_an_issue/",
+      "summary": "",
+      "published": "2026-10-30T22:22:48+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "0169c3489a359acf884d3f3dbd191e2a2038cb3dda0a158d107cc48f8e50d232",
+      "title": "Gears E-Day Torque Bow",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjt2i6/gears_eday_torque_bow/",
+      "summary": "",
+      "published": "2026-10-30T22:15:11+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f2c8d1529a61d28d26189c06d97172c9df1273ddd1a3f07497bccd01703940b8",
+      "title": "Gears War E-Day reportedly cost $500: Explained - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamxPT1VmM2Fsd1lkQUs3ZEZJdWllR0JwLWdyaFJXcm8yT0lZdGZ3NUZBZUhOLXFuVUVfZkRvb2EwaGJrVE1KSnlhX3FFaF95R3VsdlJ6dDNhWUJpeFlqMC1TbzJYeTlTZElhSHBlNWtqb2lFSXFrVnFWOXNCeHhSb1I2VXU?oc=5",
+      "summary": "Gears War E-Day reportedly cost $500: Explained JournalArta",
+      "published": "2026-10-30T22:06:17+00:00",
+      "source": "The Coalition",
+      "category": "oficial"
+    },
+    {
+      "id": "e8dfbcd19b4da265d3112d59600cc782badebbac12fd46b3388c2d76579e012f",
+      "title": "This game is fun but PLEASE fix these servers",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjsriv/this_game_is_fun_but_please_fix_these_servers/",
+      "summary": "",
+      "published": "2026-10-30T22:01:56+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "9728a8b1fbde8a4733c2a59c384fdd307a7ffde9b745414314cb36d66fb15a7a",
+      "title": "Wtf are these servers?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjsndd/wtf_are_these_servers/",
+      "summary": "",
+      "published": "2026-10-30T21:57:24+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "e4599b946a69f0aea6c642be8109b4c65c2574d74088795de22c5a9f7e30fc22",
+      "title": "Found this at an antique store today for $5.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjsi44/found_this_at_an_antique_store_today_for_5/",
+      "summary": "",
+      "published": "2026-10-30T21:51:24+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "9bc2a60470e39c6a4a45effeae1a4bcfe558d6409fb7a5d0ee5a0ac55a028268",
+      "title": "Why is Chapter 2 such a stutter fest on PC?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjsf86/why_is_chapter_2_such_a_stutter_fest_on_pc/",
+      "summary": "",
+      "published": "2026-10-30T21:48:03+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f8bd31f834f18eb3808f47874c38905fbceae28c7c4a5f3637469b347a4c7862",
+      "title": "Siege weapon mods stats",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjs5ft/siege_weapon_mods_stats/",
+      "summary": "",
+      "published": "2026-10-30T21:36:26+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "a2d4bb41d555964c5ad2709062588eeb72ea6deecbe77f4624b12a40a254db4e",
+      "title": "JUGADORES QUE ABANDONAN EN CLASIFICATORIA",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjryka/jugadores_que_abandonan_en_clasificatoria/",
+      "summary": "",
+      "published": "2026-10-30T21:28:35+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7935980696ded2a09bcf481c822ad4b4948ae54e8b2ade0d06159c56ceaa03cc",
+      "title": "Current state of the game",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjrxn4/current_state_of_the_game/",
+      "summary": "",
+      "published": "2026-10-30T21:27:33+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7c4199140cf5a07f6885dbdaee580e3206ed439e1bc27d34db7ca3f3226819b2",
+      "title": "I took some pictures in this amazing game. Hope you guys like them.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjrkrj/i_took_some_pictures_in_this_amazing_game_hope/",
+      "summary": "",
+      "published": "2026-10-30T21:13:06+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "259e3149e4b1137da742b097a740dcf86d937930cb7a47b11f62d6d7277cc5c2",
+      "title": "Please do not ban for trolling: will Fable’s sales be lower?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjri8w/please_do_not_ban_for_trolling_will_fables_sales/",
+      "summary": "",
+      "published": "2026-10-30T21:10:18+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "385a55603348b29c1fed44f07412a0fcd03f664ae4c7619a67b32a30108e5d76",
+      "title": "What are your theories on why E-Day costed so much to make?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjrbh7/what_are_your_theories_on_why_eday_costed_so_much/",
+      "summary": "",
+      "published": "2026-10-30T21:02:38+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "a84b1b7f8468a9e2eaa338bc692c62d0f01c6b3ab0ca0990512ef428234a97e3",
+      "title": "Double Chop",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjr9rx/double_chop/",
+      "summary": "",
+      "published": "2026-10-30T21:00:49+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "9af3d6e85ecfda8cffa2edf6f4b9d154cf13173ccb866e5d978117cd2296262f",
+      "title": "Gears of War: E-Day tuvo un costo de 500 millones de dólares y no ha vendido lo que se espera - TierraGamer",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVFFkNkloREhQaVZFQjMwdmFCVmZSejhYQ1hWS1luNzY1NnE0dWdQR2pHZzVUNjF4T25LaWQyVVBjV3NZTFZEdko3RHFBQktzSUpUMkdlVXZtaEpDRVJNQk9jZ1V2WEZNRjN3aFk1emJrUUtyZW9QbGZyS25FcHVnWlZoZFhhVEtwamFKRGRmNzU2ckhvemF2TEloNEJjUGwwdG5ab1VwclhmM0xVNFJBSHFsNWhWQWhnZ2FqZkRtdzlRYjhZUXlSSEZuZkVFSFRjRDFKNA?oc=5",
+      "summary": "Gears of War: E-Day tuvo un costo de 500 millones de dólares y no ha vendido lo que se espera TierraGamer",
+      "published": "2026-10-30T21:00:00+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "e19d54fe67e42755a329f5bc4bd8fa4113a0d3af97dd1125c956b248eb76b867",
+      "title": "Looking for 3 others for I Didn’t Hear No Bell",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjr8wa/looking_for_3_others_for_i_didnt_hear_no_bell/",
+      "summary": "",
+      "published": "2026-10-30T21:00:00+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "60c8b88306b0994f4a24c066aac9012cc03f827cbebcd7b346b42fb6dad6cac6",
+      "title": "Guns not firing",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjr1jy/guns_not_firing/",
+      "summary": "",
+      "published": "2026-10-30T20:51:42+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "6d3ae5c3b15096462c11f32ffcad9562dc85a907d36919abb7d30a3ea6b52c7f",
+      "title": "Akila Grey if CAPCOM made E-day",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjqvon/akila_grey_if_capcom_made_eday/",
+      "summary": "",
+      "published": "2026-10-30T20:45:14+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "ed23192dbb004402d54be894ca649ba50771fe77e3d35ced605b5832294984ee",
+      "title": "HORDA SIEGE - CLASE ASALTO - EPISODIO 1 - GEARS OF WAR E-DAY",
+      "url": "https://www.youtube.com/watch?v=-y4EuEW4qDg",
+      "summary": "",
+      "published": "2026-10-30T20:34:51+00:00",
+      "source": "EMK EyeOfTiger · YouTube",
+      "category": "creador"
+    },
+    {
+      "id": "e08da9851e7868274e29841a2d0bd03f01e642e30b8e8491146a87a0eeecfc4e",
+      "title": "November 7th",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjqk2b/november_7th/",
+      "summary": "",
+      "published": "2026-10-30T20:32:05+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "6aeadb887975e9580824d6692138e268cdec17309e62c70c00d4e7015fc7a57f",
+      "title": "Just arrived!",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjqalk/just_arrived/",
+      "summary": "",
+      "published": "2026-10-30T20:21:57+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "a1c8f654493c72adbb25b867edf2871a9f3e2f3968df1c65c99c8b57a10bf677",
+      "title": "Anybody else think they’d have more fun with PvP",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjq8dt/anybody_else_think_theyd_have_more_fun_with_pvp/",
+      "summary": "",
+      "published": "2026-10-30T20:19:36+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "e977d4db97b5589af883b0da4af9739739c760b0a7d78809884f8ef860ca8d74",
+      "title": "My game keeps crashing?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjq4y4/my_game_keeps_crashing/",
+      "summary": "",
+      "published": "2026-10-30T20:15:45+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "a20bda0b0bd6af71c7e493f07ad098d26c16032cf26aa94f3b464cd22dbf0e5d",
+      "title": "Anybody tried SCSkiller to eliminate stutters?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjpxpn/anybody_tried_scskiller_to_eliminate_stutters/",
+      "summary": "",
+      "published": "2026-10-30T20:08:14+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "6ecca50e2cefa64a8d23d770c580d3090b6034b0fcddb5121fbf4419e9bace38",
+      "title": "The inconsistency of content is a bit of a game killer",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjpu2l/the_inconsistency_of_content_is_a_bit_of_a_game/",
+      "summary": "",
+      "published": "2026-10-30T20:04:27+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "c2d46d576e6056a8be7b18befe992f55b53b534cd063a469f89b859f34373211",
+      "title": "Gears has always been niche",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjpruy/gears_has_always_been_niche/",
+      "summary": "",
+      "published": "2026-10-30T20:02:12+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "cc6d92af4751acc2ba43bb3057ba067b9e0872cdfcbc623ecdc4ff88d35fb68c",
+      "title": "EU dead?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjpgqi/eu_dead/",
+      "summary": "",
+      "published": "2026-10-30T19:50:53+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "ff3b742d048bdac9532c6a160363a61046360b90a81e8caca270e18d3ad14bf9",
+      "title": "Gears Eday Instead of Gears 6 Continuation Thoughts",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjp8hh/gears_eday_instead_of_gears_6_continuation/",
+      "summary": "",
+      "published": "2026-10-30T19:41:47+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f33359a353ee8fd61c03436411c407b2f48f92d97655a1c915bc29210ddee20c",
+      "title": "Swapped back to gears 5",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjp6jy/swapped_back_to_gears_5/",
+      "summary": "",
+      "published": "2026-10-30T19:39:37+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "08888ca8cf10e5189bf685cac910207def047a3cb4bae9cf5c940f40884e24c8",
+      "title": "E-Day be so good when you don’t got a bitch in your ear telling you Gears is dead.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjoyhk/eday_be_so_good_when_you_dont_got_a_bitch_in_your/",
+      "summary": "",
+      "published": "2026-10-30T19:31:01+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "b4eadb12836ddadd2e14e742cd1f6dba179c01a8a175e6997e78a873bc137e9e",
+      "title": "XBOX Allegedly Spent $500 Million on Gears of War E-Day: ‘That is a Real Number’ - The Nerd Stash",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDNXM2FtRDdaQ1JZOURxR3BwLWZXYmtSc3VXYzNyZ0Jwb1VVZGdpN1J1VHZJTUtVbDYxV0MzUm0zTFdEcThYMWdEdEV4cDl1emFJbUxIRS1LYmxkZmtBc2JWc1RvLVBHelFBTmhMV1h0RjQtZnZqWTJyU0VFamlobGh5Nkl3SW5DZXZYeEJqaV9udWNCTkd0V2hxcGNYazdqWW41Sg?oc=5",
+      "summary": "XBOX Allegedly Spent $500 Million on Gears of War E-Day: ‘That is a Real Number’ The Nerd Stash",
+      "published": "2026-10-30T19:30:04+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
+      "id": "8bb6411b710b153b721eda3ca8ec648a6dc3a7c53040ae564befe39a4f531f3f",
+      "title": "Marcus Fenix/Rose Belmont Artwork",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjov80/marcus_fenixrose_belmont_artwork/",
+      "summary": "",
+      "published": "2026-10-30T19:27:35+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "3056c80dd48333f5328dc4e4ba75f41fcb4ba27b1aee975e9529cea937402473",
+      "title": "Hungry hungry sickos",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjot7e/hungry_hungry_sickos/",
+      "summary": "",
+      "published": "2026-10-30T19:25:26+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "709bd6f12ed62b1ea56adbfbbd8782e2a9b9cacc4dbbb704a7b354cc3d6fb42a",
+      "title": "Gnasher Chunks 2: Electric Bugaloo",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjokdw/gnasher_chunks_2_electric_bugaloo/",
+      "summary": "",
+      "published": "2026-10-30T19:16:01+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "d63f5df9b9b3c904461abe1b0c331973d8480fd4de4579071d9bd3a31baff033",
+      "title": "Drone-hammerburst",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjofmh/dronehammerburst/",
+      "summary": "",
+      "published": "2026-10-30T19:10:56+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f6cd684585e44587a985e9b7efff704ebd36a02056ebb5b87c9777fade98b092",
+      "title": "Yeah that makes sense",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjoeu3/yeah_that_makes_sense/",
+      "summary": "",
+      "published": "2026-10-30T19:10:08+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "3805532b0769b89ef5db2cf4af22e1a2dffcd3e9eff819b1656d0d8154797c2c",
+      "title": "Gears of War: E-Day's Budget Is Around $500 Million, Confirmed by Jason Schreier - EGW.News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjFrelVVbnVDSmd1ajVKdUs4X1NuY0d1VUhrTFNrb2lSTDJCUXRxb3VHNEIyT1cwQWhBb1FmS0U3cDd5TUszMmRXdjd3clBRVXA2Z1NDbmE2RWxGRFRoR1ExdUxvbE9TYmVMNmVrdFlNT0sxekZkM0lWZWhybjUyb1hBQ0pPTjhzdm9RWENmME1pdGJ3ZzZpRTN0OA?oc=5",
+      "summary": "Gears of War: E-Day's Budget Is Around $500 Million, Confirmed by Jason Schreier EGW.News",
+      "published": "2026-10-30T19:06:13+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
+      "id": "8b6f46b3db3ef7efebf662bc76561feefbd804053fa8bb4eafaf3895a1440553",
+      "title": "No health indicator glitch",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjoav5/no_health_indicator_glitch/",
+      "summary": "",
+      "published": "2026-10-30T19:05:52+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "3934150a9afd8388a1ffabfbf02a08d5768e76c11721f9e4ef866ac02f7cd420",
+      "title": "Do Rifles, In Eday, Have Headshot Dmg Multiplier?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjo6fc/do_rifles_in_eday_have_headshot_dmg_multiplier/",
+      "summary": "",
+      "published": "2026-10-30T19:01:09+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "462777253df83adbb5abedba4a3aa188a948d1e269088f2949f81a27099d3cf2",
+      "title": "The grind is over",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjo3jh/the_grind_is_over/",
+      "summary": "",
+      "published": "2026-10-30T18:58:08+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7943cba9fb2a3269f0bf391084a06985261c1425df2d16f4088bba6bcd1e11bd",
+      "title": "What's next?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjo2lq/whats_next/",
+      "summary": "",
+      "published": "2026-10-30T18:57:05+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "84d3cd3d6128c15606ad99eb94d44927d6b2df6a6aca9e186af2dd5e19570e4c",
+      "title": "Is it just me or is Gears Youtube / streamer space just incredibly negative",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjnrv0/is_it_just_me_or_is_gears_youtube_streamer_space/",
+      "summary": "",
+      "published": "2026-10-30T18:45:35+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f9c6a9e36f92d4bb675d26b13d5164f06638e538c6c99b79520c2d6fcb2bff94",
+      "title": "Must've had the weaker Gnasher",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjnqvs/mustve_had_the_weaker_gnasher/",
+      "summary": "",
+      "published": "2026-10-30T18:44:28+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "e782ec92dc97bd906d6140b3526370cafc0333a499e7dd9456bdf5ba6f65f537",
+      "title": "Sick controller",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjnnge/sick_controller/",
+      "summary": "",
+      "published": "2026-10-30T18:40:53+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "bf84cb6c30ee1996e4ae703f0172198a11297115f6448566782426eb5e1d1124",
+      "title": "One month after release and still horrific server lag",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjnlzm/one_month_after_release_and_still_horrific_server/",
+      "summary": "",
+      "published": "2026-10-30T18:39:20+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "14bff76325bc75773ae61d728b798ca9e520766298a4817a583b21c8cfd0478f",
+      "title": "Gears of War: E-Day Reportedly Cost $500 Million to Make, Amid Claims It Has Sold Just 400,000 Copies - IGN",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTWl3VHVlbnVuUHN2YS1UNndOMUY1RkFXYTZadHV0NThVOGxnV1pSdUVIWlpWN2liSm5MbTVDUk1hYnV0MTJsYjNuTkVDa3JhOVpVZVgzRFEzRTN5NzhQc2dFdjVQdldYMG9TOTR2emZuQ0MtYUl3ZGV5S0E0WTB0eXc4c3JISWxMcmRFUHhGT0ZjM2xXVmxUN3hMaU9qcE1wTkdfT2szeFNOQ2toMEk0Ynd3OUJpcE9UUHFDRGVaVEo4WDNo?oc=5",
+      "summary": "Gears of War: E-Day Reportedly Cost $500 Million to Make, Amid Claims It Has Sold Just 400,000 Copies IGN",
+      "published": "2026-10-30T18:24:00+00:00",
+      "source": "The Coalition",
+      "category": "oficial"
+    },
+    {
+      "id": "1ed7f2a4b5edb887766a509b1d318e9eadd3dd68fef2d2b7e670b2382d6cf1b0",
+      "title": "Gears of War: E-Day Exclusivity Hasn't Helped Xbox Sales - Tbreak UAE",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrYWNDaGFubXJmeG9nT0NpWElmVTNuVUo4SVYwVHRlZTkxZWdBdXZ5ZS1xXy1XRzl3dnhmdXVtdk1ZUTdyYzVLQnkxOU0zLWFjSUs2dThVWGprZk9PRmZfUDlBZzN5bUFsSnZjaWpXWDdIWEphNFFv?oc=5",
+      "summary": "Gears of War: E-Day Exclusivity Hasn't Helped Xbox Sales Tbreak UAE",
+      "published": "2026-10-30T18:17:56+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "5110c231b552cdee8f7f0d9f4c27fb22cdb922271aa3a0836cf6f9680f691397",
+      "title": "A tale of 2 exclusives in the multiplatform era: Wolverine helps sell PS5s, but Gears doesn't move the needle for Xbox - Destructoid",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWVJbkV5aU9fbjRlbU9INWJjOGZsZEFOSEFTbmwtSU5oS0FoZEkzeU5DbWxWa2tWYS1PeFpQcnRuTEt6QjZXN0lvTE82cEpoTGZDWlhLMjhfbFgzOVVFZTVMYTBwTC1yQnJoVnFKNE9pa2Z4SWRaWE9pQktEMHdvMUdSck9lWlVES3dUT29kRVF3MThjRXYydQ?oc=5",
+      "summary": "A tale of 2 exclusives in the multiplatform era: Wolverine helps sell PS5s, but Gears doesn't move the needle for Xbox Destructoid",
+      "published": "2026-10-30T18:08:00+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
+      "id": "b33e53e1030ac9bf1cacc35d8b5a19bde8810a6857685cfa787bfa439ecad333",
+      "title": "Gears of War: E-Day Sales Fall Short Despite Being One of the Best Games of the Year - eTeknix",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmdzd3d4SVNaYmtNQUo5V3UtY05XaFNWNEVVdGVXT3RlVjN5cktzYzFGMkZTaGtEbUhWWnBaYmlxeVU0M091cTdWRFdDc1NvZVZWeTdTYWlhcHd0M2hkZWYwMTRyNWRCVy1aLU45M1RFNkNZYjYxdXpvME54LWstZUJDU0U5U0VKTUN1RFdYaDJSWXRmaFFqQnFJdDNtaENsS1pRYnY4RWZQMklw?oc=5",
+      "summary": "Gears of War: E-Day Sales Fall Short Despite Being One of the Best Games of the Year eTeknix",
+      "published": "2026-10-30T17:53:03+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "35343843b45765207fdfd462a84541c685b5e13a980ca377429671788025ff1c",
+      "title": "Gears Of War: E-Day Exclusivity Hasn’t Reversed Xbox’s Hardware Decline, Says Circana Analyst - Wolf's Gaming Blog",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXpQOW10Q05uTDJrNDhoU0tOU1RMblFJVzQyaWhIWVBoMnZIdVZfNUlTblEySy1uRS1ua01FQWU2ZllTVjRjYXUzX1lNaDgyd2ZFM1d2Y3RUb25UZmRtM1lsUnloZnY3NlFWeGo4T08xN0YzcmZ6b1AxM3RRWUlnLUlZQ2hVOVlzWVd4LXBYWjFnVWVFa1l4R1I3TThQV3FOdm91UHlJOVRRcHNNZVdoUTJLcTM1eEwySmFDMFY4aFRzWXp3Tl9tRg?oc=5",
+      "summary": "Gears Of War: E-Day Exclusivity Hasn’t Reversed Xbox’s Hardware Decline, Says Circana Analyst Wolf's Gaming Blog",
+      "published": "2026-10-30T17:36:05+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "4cdb03ecd8ebade6d164dbfa9c61ceb9a5de6569db82678d3a1f21c59d468617",
+      "title": "Gears of War: E-Day supera las 400,000 copias vendidas a un mes de su debut en Game Pass - IGN Latinoamérica",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWk5RdEd3elNDUkJTS1RZRllaN3FUWWZFeFFXemxxRnVaM19CU0ZkRDc3OGd2blFuUWlNRHdWcHlrd2VJclpXVXRuVHFEaDJRMDlQd1Yzd2RsZ2FFNzliblZRdkNxbFRyR2s0UGJDR1JXTnNLX2U5NjFhYnZ0MkVKdkNVRkVrMlItRFJidGY3Q2RqaF9EVmlrQ1FNcDJWYmxfVnFWWEhrVHdheHNQdUJWRXF4TWxETklLU0pVQUZ3WHRhYTdPYUNGdUR1S3BmZmc?oc=5",
+      "summary": "Gears of War: E-Day supera las 400,000 copias vendidas a un mes de su debut en Game Pass IGN Latinoamérica",
+      "published": "2026-10-30T17:29:52+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "e0524b5804d4093340fe74f8fead98b076376551a0015e5cde2919f2b9be3793",
+      "title": "CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWo5T0NYbEVmeHdPeWJyLTZ3dlJLQVdMSnFPaF9MSnpPVjBsdzFpSHV3N19TTkhqRnBVRzFENW5BaThIQ3dCR0VidUU4TVVDcUducmpac2VaeHJZWTQwVkd5TXk3MDRlbUVfVHdCb3l3VkFDdlNvZHRFOHBZYjUwYkZQMlBzZGlxV3BXNTBFcFRlY29KRkpfRmhSakhTQ2ZqMzN6MUt4UC1MZGpw?oc=5",
+      "summary": "CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash GameSpot",
+      "published": "2026-10-30T16:42:23+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "ad8dfbc15464dccec1130bd495d8e1ecc82b4f61fa8b0a86678dc4a06b9daa67",
+      "title": "Let The Mayhem Begin! The Cat In The Hat Launches A New Family Party Game - TheXboxHub",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVW9RbWxRV0VIUU9sWThQd2NMc1BuR3FHcUd6NTR4WjU1dE16blRnblByNmZZZ25QbW1OejRSWTZmR3JjRjBaeE5wUngydExRaUE4RklWQ3FfazN0R0pzWlpQYkMxS0QyUXUtTUQySTJkeHlnYTg5a1pXbElGUkVTb2xlYnNVV2ZKemQtOWliNzM0a0FEamtzUHJaTExrWTVycmc?oc=5",
+      "summary": "Let The Mayhem Begin! The Cat In The Hat Launches A New Family Party Game TheXboxHub",
+      "published": "2026-10-30T16:40:15+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "4b9cd8a615f8d172f9d57d64b417b54fe64cf6ec82c31e5413c7d7b84714caa1",
+      "title": "Gears Of War: Ventas Y Presupuesto Ponen En Duda Su Futuro - ElPeriodico.digital",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmVyd1hGQzNOZEVqUkVRaHBQVW1mLVIzRUZCY2ZKNTBQU0VyTFNkV3ZIeDllNDc1M0l6WkJENmVNZEhQSHVVLV9aYWoxVTBpbnRNU1kwU1kzZ0tkRkRRUmM2MVhrdnllQ2hMa3NZbnhTR0RLN1luU0xOVEZWUVFUQ2ZHZnl4VHloSDE5aFh3M1FDZjVZMzhMMzlqM3I5ejIzU3NpQW5KUC1oRGd2bkNV?oc=5",
+      "summary": "Gears Of War: Ventas Y Presupuesto Ponen En Duda Su Futuro ElPeriodico.digital",
+      "published": "2026-10-30T16:32:03+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "da21557c095b153c85d0aa5a543cbe1ace8a433ffba2bc201954309bc8778568",
+      "title": "Microsoft Overhauls DirectX Raytracing, Boosting Frame-Rates and Cutting VRAM - Digital Foundry",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGI4Wi1Kd3laMnJGdXhuZkxmUDNyMnNvU0RZdjZ0QkFBeHphVERtSmh6ckJTR3hzS1FRMURaQzh6R0czQmMxODRPUnNCM2hZcFo0SXlfY3MyQTBtRHY4aUUyclJtbF9WenRqWEtrWWJpQlUxZm1GOGFPeHlqNmZIN1BwUmJMa3pSenFuYUwtbzY1aEtUd2MtYnJ0MjhqVy1jRDZWN3h1NkNZY0hEYlEyaGZlbXVmWEx2M05HTA?oc=5",
+      "summary": "Microsoft Overhauls DirectX Raytracing, Boosting Frame-Rates and Cutting VRAM Digital Foundry",
+      "published": "2026-10-30T16:00:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "0fbe54cc1c9a3d719470852d17dacc6619321fed34c3090d1c0301aedbbc06e7",
+      "title": "Gears of War: E-Day Stumbles on Reported 400,000 Sales as Pride Emblems Dominate the Backlash - Fandom Pulse",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJd2NVNHFwem5tenJJbjJuUktlaTZzcTR2aTA5bXVNNXZqSWJMVURocnBsclgzbWdvLUk3cGZNX1d2MW9IY2Q1Z0xJTDNaZ2ViVWdxd0hqdFpkSWhOV3gzdXkydWM4WXduWXZENzRjTVNOSG1vVFJkZA?oc=5",
+      "summary": "Gears of War: E-Day Stumbles on Reported 400,000 Sales as Pride Emblems Dominate the Backlash Fandom Pulse",
+      "published": "2026-10-30T15:50:03+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "818d9fedf4f50276f552633e4c48fa93fdd17ac45c345be29ce95c4b87d44bf5",
+      "title": "El futuro de Gears of War es incierto tras un informe que destaca su impactante presupuesto y el número de ven - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFpGUFYxLWU3Z3k4TmJFYWg0MmRiMU1ZVWt3b0V5MXhMbVJZWEp1WlNSNnM2dHNmNXViWV9tMVQwX01pTTFQTkljYlBHajZ1RGVkb0tMOVB2WWFnU2ptQjlPN2dUY25rMWdKX0tHWVQ5Uk9YdElTVFd0U3JXMjhFbUxVSjBYZkVmZmhhMDdWQUFQQkVha19rUWVfOVcxaVFYRFQ0anlobEo5MUtOaFh1czZVbVBYcXVKaHR1T2JwV3hZTW5KdnJzN3BxWU9JZWttTmlDZ19rbHA5S0Z0MDlUeDMxWlpnUzlvSFBxbkNMTmdCUdIBhgJBVV95cUxPWDNZS2l0Y20waXIzRlR2ZEQ3dWdlOVEwRXRvcmxEM1Z1RHlwMmhILWZRVGhEUmY4T3RHZHFsVXdzVVRDWld5QUpsdG93T0FXUGdTcFdkaXJOWHBsVW5xRnlKRUh1anBPNF9yU1RQaV9HX3VvYUhKYWhTeEx5cld5a2M5SWhCRjZHU1RZNkloOUpjX3UtX2duQTZNREJKUnk1c3BJZ041OFVlNkNCelRZMFhVdU9IdFNQVzU0d0JjTkVfa2xpZTF2WDNnSkEtTWtnOTRlSUJkUHNlRGhxVFJjNFhNV2pDUEktRF9aXzEwbDJoR2ZEV3pkXzJqZDlqeGQ0YkJHQ0t3?oc=5",
+      "summary": "El futuro de Gears of War es incierto tras un informe que destaca su impactante presupuesto y el número de ven Diario AS",
+      "published": "2026-10-30T15:45:00+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "23be4407f4e3e4baec9d54a8010fbb9b89993514c7a91c5e5bcab02da22b035e",
+      "title": "Análisis de Gears of War: E-Day - games.gg",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGSzlRLWFpVkZDOWVsTG5ESXl4U0JtNGxyTHZOeV8yYjh2MW1VOEh1TkRTQlFYNFFtMGVpd2JZRWxkZ0VmZ0ZQUElualFHVmRoTFBtLVVpS3p4UQ?oc=5",
+      "summary": "Análisis de Gears of War: E-Day games.gg",
+      "published": "2026-10-30T15:43:51+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "10a3b0883986e5aea99477fb9e6f1d75dda2d40e22f0970d3dbb9a74888cdf4f",
+      "title": "Gears of War: E-Day Review - games.gg",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpdmpNVVdhRmowUndPNDNlWXZ3dGtEUDQ1OVFEVktTa2FQcU1DQk9Ba2xMeWFWUHhPa1FFRS00dXRkLUlaRHhCU3hSNjU1YktyUExhR2JB?oc=5",
+      "summary": "Gears of War: E-Day Review games.gg",
+      "published": "2026-10-30T15:43:51+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "90be401be09870c149c3c3fb5f5bbc89a286aa11a636677ecad138ea727ffd23",
+      "title": "How To Unlock All Season 1 Weapons In Modern Warfare 4 And Warzone - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGNOQlQxa3lTWkMwRkR0aEk2ekVMcnlwaTN4dDRPX1VrTTlQTE1lVFNwYUJ0dEo3X2o3NkZ4dkJOazRpUE5xMkFmaDdBT1hOQW5CTXBNb0NHN2tHalVNS3ZRQ3czU3YwR2Vndi1XRFZnVnllSlMydU00dkJ6cThnUW9nSmFzUUJ1UnlsRER0b2RlckZkWlRYTHhBMWJBcjdJekhJ?oc=5",
+      "summary": "How To Unlock All Season 1 Weapons In Modern Warfare 4 And Warzone GameSpot",
+      "published": "2026-10-30T15:42:50+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "ee52ce503d28006f4c32fda79c3c220e507eb342f42f4c18b8ea58b90c9725a6",
+      "title": "Sigi A Fart For Melusina Is The Most Cheeky Of Platformers - TheXboxHub",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldCcHBjVDZOT1pyV1BtY0tqOS14Zk91alVLRXE5M3JRODh6d3lBNzV3UFphV19ySWNMNjdjV3NxQVEwZXE3dkNhZkE5b0Rkam9iclJIWG52UXk4cHFGVVJZTjhQV0JLeXRTVlJIQjQzSjBDOVFyMUhLLXkzTVpjdnhiZ2VnM3BhVHQ3RC1qZw?oc=5",
+      "summary": "Sigi A Fart For Melusina Is The Most Cheeky Of Platformers TheXboxHub",
+      "published": "2026-10-30T15:31:07+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "4ff6b0237f64333b324234e50fb86759e5d0338ef4b17fb30ad396840a915ffa",
+      "title": "The Night Of The Exorcism Invites You To Play A Very Dangerous Game - TheXboxHub",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTko2MHYzUFYyOGtncC03ZHVnUjhKdU9ORmVwMkdyMG1MZnBuaVlJQjZjVDJjeVd0VkgzSHVSdFpLNFAtR0hiNnJMa0d5Tnk4ZzVLOVNqZmJRSzhwUWZBX0s1cjZXNFg4Sm1Kc1V4emRLSGFtNG1wc2VOaEYxRVVTZ2t4SV9acTdFWndINVBsSVlxSE82Wm4wWGZCMA?oc=5",
+      "summary": "The Night Of The Exorcism Invites You To Play A Very Dangerous Game TheXboxHub",
+      "published": "2026-10-30T15:29:14+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "00b09322801d07249aa894dccf5fb49dec64e62ca431940bea358d980a91d104",
+      "title": "Dan cifra de ventas actualizada de Gears of War: E-Day - Atomix",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrUHJpTXMwWWhTVnBhdXJLUEJJV0dBTFFvdUl2b0ZwdkRBUmtEVjJKU3RYUGxOYmRETG9tdGk1TUpkMzBvbGNRTGdCbmRjeGJiNjVCZW04ckkxQl92WnBtd3VGOXhMNmg3b1owQk9pVmZyWGFHeEdfS0Fmbw?oc=5",
+      "summary": "Dan cifra de ventas actualizada de Gears of War: E-Day Atomix",
+      "published": "2026-10-30T15:03:00+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "3bdb0300f21f02be40d08cdf2f534cd57d4f9754bf6d5d40c9d283fcbf0ece0d",
+      "title": "This Stylish Spy Game Gets What Makes Mission: Impossible So Great - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTURHT1BhUnV5ODZVOGlYTkh5Nm5nS3FyRHIwX1dMSVNtRVBINk51MzNwUmtmXzlBb1RZWDlneDY1YkQ2dDhrVG1DWEEtcHRkeFBQS20ySndtcGJvMVV0SklETEttbGRZM0tibWhueUMxY0ZMbkFnbkhTS01YN3F3TERfZHRrOVMtVzRDRURma2dVVHl1QURCSWtRdTZ0eG40U1E?oc=5",
+      "summary": "This Stylish Spy Game Gets What Makes Mission: Impossible So Great GameSpot",
+      "published": "2026-10-30T15:00:49+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "071ed775d9a39674770082c54ec7e2fd8cb60adbd7fc951c3eb2ca6f3f7ee1c4",
+      "title": "Gears of War E-Day Hits 400K Sales as XBOX Revenue Falls Again - NoobFeed",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3TXFsVG0tR2x3UHdtcE9NalhZVkhNbW9OeEFjZFlGdWpEY0ZMNXhLT0gtTlpvQVJtUGFBQzllQnNlbVREN0ItQ3RBNjN2bDNSUEh4RGIyMndiM2JZYUdTa1p3REVwUmZNVUE?oc=5",
+      "summary": "Gears of War E-Day Hits 400K Sales as XBOX Revenue Falls Again NoobFeed",
+      "published": "2026-10-30T14:53:50+00:00",
+      "source": "The Coalition",
+      "category": "oficial"
+    },
+    {
+      "id": "fd6c4c62066d29252a19987507cf5f7a1be5feba6841d0f13c3bcd0c2d7bd017",
+      "title": "New Gears of War Report Is a Huge Concern for the Franchise’s Future - ComicBook.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNendiMmNFRFVMMzBRWHZPdGRlTEJsVWNUX04wVm8wcVBYQkJIQUNCcmMxbV9kckNWbmVvTFFpdDhoY1BQcmNGNjJYU0x1dmpLaGxQZW9Xd1liVFFVTUdSYmMtQlpiS2lKNWRtWkhmNFY2anhKZkt3YXlTTUcxbXQ4djN5SVpESElv?oc=5",
+      "summary": "New Gears of War Report Is a Huge Concern for the Franchise’s Future ComicBook.com",
+      "published": "2026-10-30T14:27:03+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
+      "id": "30945c91f01d64534f463a2d0ee3cd9ee8e142a6319ec064498bc76ef92228f0",
+      "title": "GTA 6’s Attention To Detail Is Getting A Little Ridiculous - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbU44NEZ6enJhNjdCSHk4WlhiUy1NenptdlFOc0dmMVljNjdDdzA4Y3lmZWFwZTcyejF4Vm1OWGtoRW42aFVmdHE0TEluTnJSc0VJREdQMXp2V0Z6dWRSYnR4ZHdxNzY1SXRobl8yMGg4VVhkU3EwYy1IN3F2bU1iQUxxUHBFVzU1SHRYa25YQ3NWdmp4dmc?oc=5",
+      "summary": "GTA 6’s Attention To Detail Is Getting A Little Ridiculous GameSpot",
+      "published": "2026-10-30T14:20:19+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "644f5ce9b15a63a3e45fa5b6cb9b4ec33b4bd8d79f17d4eb841a488ad2db86d1",
+      "title": "8BitDo just launched its Gears of War PC gaming roster, complete with giant Crimson Omen and Locust macro buttons - GamesRadar+",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVUxoVDFic1l0RFFaNjFIemFUS2c0a1F3MndLNC1sNTlWS3FzdUswcUtuN2xSTWV4am5ZNjdSR0VDcDEzRDc2TlhTSDJMbTViNUNEVzFwb2M1WDlZb25RdnNVWWlXemliVGhJWUJnU3dwb1lCSTNSY3ExN3pBS29pYWFsVTROQW9KaV9MQ0U2RnpWWW9MRm4tOFZnOHN3MEM5TWNUWGM1ZE0xQ0pZRFFSX25Ba1pFTU1UcHlESnAxZnphNmlmSG1XV2tTQ3VteVV2QlVSQnBzME56bjliZWwzOFlzbw?oc=5",
+      "summary": "8BitDo just launched its Gears of War PC gaming roster, complete with giant Crimson Omen and Locust macro buttons GamesRadar+",
+      "published": "2026-10-30T13:30:13+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "e1935c79b6dc240f52b427247376ffab2c03c634aff9a3c1ec73ffcdf25a4b2e",
+      "title": "Gears of War: E-Day Going Xbox-Exclusive Hasn’t Resulted in Tangible Benefits, Says Analyst - GamingBolt",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2IxU3RsNVZkM0dmSXBzVFNUODNJS1RDZm94eUFrcXh3eVpwQy1sYWxpUDl1M3pKODBDLTM4aG0xb2YwdUotazVORndKOGVCVThpcHJrRy1MT3FGNVpTUExkUWJ0cEprTnpZdkg2bFhWWUdsNE1xMjMzTkJZS2wzcklnNm1yUWdfakZmZ21uLUtoUTVfNzdldVRScVk2eFhCVmVyZDM3MzNIR3dMYlN6WA?oc=5",
+      "summary": "Gears of War: E-Day Going Xbox-Exclusive Hasn’t Resulted in Tangible Benefits, Says Analyst GamingBolt",
+      "published": "2026-10-30T13:09:18+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
     {
       "id": "f082db8a6e757b6a6a9876337095f66af0cfc4032e294326c602e2ee72e4c1d6",
       "title": "What the actually F?",
@@ -74,6 +695,15 @@
       "category": "comunidad"
     },
     {
+      "id": "2232838677218e9e94fb350bbed138097bd8443a2f789694f8910095a7904d88",
+      "title": "Gears of War: E-Day Reportedly Struggles with Low Sales - Unboxholics",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0NJLXlpQ05VcWk1b2xsT0taNFV5cExpSWVXM2VnNVdPUTI4djJhRUJ3Wjc5dEROZGJERDZVdXcxekpBMTV6dW9VanV3WFVXWnl4QkFSZGFMN0M1bTZjR0lSQ1hfMDQ2bEM0ZWlocDlsVGtsRk1UenBYMTA0M2hpN1hNMEZTdnprdnc?oc=5",
+      "summary": "Gears of War: E-Day Reportedly Struggles with Low Sales Unboxholics",
+      "published": "2026-10-30T11:43:00+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
       "id": "46ce25130bec850ba0f9573f0cbd41b226990eaf67e4dfa9d079dfe68be27b98",
       "title": "Lucas",
       "url": "https://www.reddit.com/r/GearsOfWar/comments/1xjczxq/lucas/",
@@ -101,6 +731,15 @@
       "category": "comunidad"
     },
     {
+      "id": "fd4ecb917f0165c725ad4223159cdb41ee55c00f662630d77eb1bd23b1ec7dc3",
+      "title": "Ride The Waves Of Sand In Sword Of The Sea - TheXboxHub",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YRlVjdnA0dzZEMzBxdV9uaWN0OUxBcTFoZ0JPY1p5SWI3M3kxMUR6LVVHMFJIakI1Q1ljV1gtTUJlUzlNTEhfQkc5NzVhcDVfcGJ0VDZhVGw1LXRCQUwzR2VRRGNhVkRjMlNDS1lTSmlvaFBCdWoweUlB?oc=5",
+      "summary": "Ride The Waves Of Sand In Sword Of The Sea TheXboxHub",
+      "published": "2026-10-30T10:34:15+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
       "id": "efc06cf7b9aa9c6f95872782829136c0a72befb74abf4467475e8f91cdf797cb",
       "title": "Steam regala un nuevo DLC que puedes conservar para siempre: disponible hasta el 12 de noviembre - Generacion Xbox",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZldkLWROWmtOX29OaWRHX1hReVVBdG5YN3BneWo4WkNEUVFCRk1rSjBOcVk5QnZlNGNja251aHNBTnlSQ2NoVjBpTGktV3dnZDJlY2R1dmRWdVRnNjlXRVZjMUQzemJuWXlBdlpZcHV0OHlOX0dYaWs1eEZYVjU5RWpTN1I2dTBNaWdWSFA4Z1hkOUwzV2FSTzVIelYxT29zMVd5NlBsS1Q5WUtDbW92TXZMaTFEY1liZjJzMkp3VTY?oc=5",
@@ -126,6 +765,15 @@
       "published": "2026-10-30T10:16:00+00:00",
       "source": "Gears of War · MX",
       "category": "noticias"
+    },
+    {
+      "id": "00c8dfa3e4a759303b42f33a832e6768a012b4638946ae8f4ee54457dd5f591e",
+      "title": "Gears of War: E-Day Earns Strong Reviews, But The Coalition Developers Fear Layoffs - eTeknix",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0NqYjBGYVI4WDhRdzE2NXA4MWpWYUM4V3ZJR2JveG9hNVB1WEliV2o2TEViTVhNWTVuOUo5MEdrOW16WkNZU2FJTkdQOFRncDFEWHJGNmFBb29aZHphSjE1SFRPMmczU0FrZU8xYlpTZVhkbFRVVl9zSWJVRFpfNC0tdHp0RHgxUFBZY0xXYmFhSDFraUlSVmNHLWtLY2Vhd0RuN0U2T3o1QQ?oc=5",
+      "summary": "Gears of War: E-Day Earns Strong Reviews, But The Coalition Developers Fear Layoffs eTeknix",
+      "published": "2026-10-30T10:11:14+00:00",
+      "source": "The Coalition",
+      "category": "oficial"
     },
     {
       "id": "93cda13052e4bdb41039842e9c0dd0b4d2a493b52cfe8f8792e71f556adeacb8",
@@ -223,8 +871,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjU1TUxNUFZpam5vT1d5bHo5bVpvLTdlNFcxRjFZRWNDeUZKcmNQUkdKMkNjT3lJNTNIVkswdXBkZTZjYnRxUmEwcHY5YVFpY3ZrN1FPV3NTbWxPV2NuN3phU1BrNzB3eVN1Rmt3bXprYTdlRjU3LWRtVmc1NEkxVkluOUozRXJWY0VBejRBa0VGZmdKRHR3RzktR3N4RmIzTV9EVmx6WmlVWTg?oc=5",
       "summary": "Gears of War: E-Day has reportedly sold over 400,000 units Instant Gaming News",
       "published": "2026-10-30T08:38:05+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
+      "source": "Gears E-Day",
+      "category": "oficial"
     },
     {
       "id": "6f53f2a370a5c1a0a9852724d04a4fe6da008b40d5ec28c996051847ae8fcee4",
@@ -354,7 +1002,7 @@
     },
     {
       "id": "3a1100de98d516f25307082352843d357f2e1f624b20c7ff3decbadd5278a7eb",
-      "title": "HORDA SIEGE - CLASE ASALTO- EPISODIO 1 - GEARS OF WAR E-DAY",
+      "title": "HORDA SIEGE - CLASE ASALTO - EPISODIO 1 - GEARS OF WAR E-DAY",
       "url": "https://www.youtube.com/watch?v=JC7360eB8Nk",
       "summary": "",
       "published": "2026-10-30T06:25:56+00:00",
@@ -531,6 +1179,15 @@
       "published": "2026-10-30T04:16:46+00:00",
       "source": "Reddit r/GearsOfWar",
       "category": "comunidad"
+    },
+    {
+      "id": "11768337923cc1f3b96d4c9751c8edf658b1100ccf3907ec9cbc8457b629c1e1",
+      "title": "Tai Kaliso and the Kemara twins point to a Gears of War: E-Day DLC - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2tDZFIwRmZpLVY1QXhsV0RPckx5akowWWhHUFBKR0tObkw5Y0lBMXp5czh3aTlNS0Y1N3h3dWYxTXo0Q2lYVE5fYUtMMmlxWE5sY0JzMTJodnBIY1pkSDJQb19KUTM3Z1pjLTl1T3cyLTZoaW1kMUMyY2xkWEtibnkySTRocHNPVlF6eDhOM2NJS0c5TURob0xHRUF1VF85WWV2NXFDdXYzSVR5OTdr?oc=5",
+      "summary": "Tai Kaliso and the Kemara twins point to a Gears of War: E-Day DLC Foro3D",
+      "published": "2026-10-30T04:01:55+00:00",
+      "source": "The Coalition",
+      "category": "oficial"
     },
     {
       "id": "4538f6d4a6c4a18442eba77a9212ed003467291625e5af2cb1a32bd9298b34da",
@@ -1195,8 +1852,8 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OZjgyUzQ5SU51eXFYVlVjUUNMV2JsNGJKYUhxcE9yR1BzSF8yek1VbXZnZlJTNXBNdTFGTFBzVjhsWnY4REw4clE0VGJOTXVNNzdHZHdrMzFELWpfNENXSnJobGY1aVJoaHJ2dUdGbGhoY1kx?oc=5",
       "summary": "Gears of War: E-Day Sold Only 400,000 Copies Despite Its $500 Million Budget According to The Verge AOL.co.uk",
       "published": "2026-10-29T19:06:21+00:00",
-      "source": "Gears of War · global",
-      "category": "noticias"
+      "source": "Gears E-Day",
+      "category": "oficial"
     },
     {
       "id": "4320eae080b27f1a5687a3a36a2cae2030c02c2efcb4df52ce91dbb0b901c24c",
@@ -1361,6 +2018,15 @@
       "category": "noticias"
     },
     {
+      "id": "8db15d85117b9e23b00bdbaa9b12fa39108693b563354caa9257a372d2873447",
+      "title": "Fans de XBOX están contentos con la exclusividad de Gears of War: E-Day, pero analista afirma que no ha tenido “un impacto positivo” y pone en duda el futuro de la marca - LEVELUP",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOenFsdkcxVnZqSy1RM09ib3ZiUWhWeFE2d3llNmMtTldlWmk0LVhTdnhWRWluamc3OVVWT190WG1yOEhlSnA2V1NoeHJuLXJ6ZzZLcXEtM0xBUHZQNUlVUnh2MFZicVlDX09hd2o2VkR5SVZWNktqRXZVVGhQMllZSTBTejhUbWZmdXVQZWF1TmdVd1RVbllyS1U0Sm1taWF2ZUFVMFNuR3JTc1VJeWhDeDRUcDZ4NmdsSDlsY2hUUmVJTlYxVUJPZmtyMjVNcFg5R2xVVGhjT1lob2lhZk11SDZONjgxeXJIM0dUaTFjQXVpVTZsb3N5ZXNDWXVGRDNUYUc4cXhwb2VHQjB0ODh2LVJEV2FBSzRfWTlWMTIxeDRBX1FGb3c?oc=5",
+      "summary": "Fans de XBOX están contentos con la exclusividad de Gears of War: E-Day, pero analista afirma que no ha tenido “un impacto positivo” y pone en duda el futuro de la marca LEVELUP",
+      "published": "2026-10-29T17:48:02+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
       "id": "271bf64d886f44fd3d627406531ab8dd4080f397663bfca6783db45902d4d722",
       "title": "Gears Of War 'hasn't made any difference' to Xbox as sales 'keep getting worse' - Metro.co.uk",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaU14OXZhSEV6cXI3ajgwY280dm1jR2pYMGFkWkIwNm02Q0pnellMTFUwN2hLMkhVeGR0X2pQZl9BMWkwdUlVT3dGV21GZjNTSXhuajZPaE5IN2w0eWx5bE1QQWxFVjVjRGtDZnBUbFRCbldOWnF4TFFfWWxRMlpleU5iMXpudzNNWi15aHRfN3ptbEpoeXhtMU5kaGhGUGc1NnpXMtIBqgFBVV95cUxPaGxUeEVrTlFoamhSUWM1NEtmdndpUzl3NTZEYUNHdmJzZmcySlZGUC1DeURYM2Fjb3FJcUVJbWVsbDM2UmhoSUJwenNKbUNGZmtUcDNnOFJNR28tT1lBQklxbFpiVlBCT1kxNkZiLWxkb25udThVNGlZU3NwNmt3Y3VxY2JxNmpzQ19QY3JwRnJ0MFo1aGw3YVFHbGkxNzlEZ0wtS3hnTk5fZw?oc=5",
@@ -1428,7 +2094,7 @@
       "title": "Xbox's Recent Efforts Haven't Changed Anything And The Future Remains Bleak, Expert Says - GameSpot",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVBjMEM5elMyN3RycXR0U1ZSM1NxWWR2SHVWOW5HNHJjWHpQWWJUUlo0R25OS1hsYTZROE9GWWNkSkpJV3F2ZURkYndlV0x5NGV2blY2WjByN3NDZHlkN0U2WlAxM29QT3IwNWJGS3RrZ1R1MHBkUjk5ZEx0SUxNdHB4a1BJeWNvcWRuZlZ3R2RPQU5LYzNHM3VRODc3N1FqZmVhVU5iUFVtb2tWbkx1WFZvTmpreFo4alVwag?oc=5",
       "summary": "Xbox's Recent Efforts Haven't Changed Anything And The Future Remains Bleak, Expert Says GameSpot",
-      "published": "2026-10-29T16:08:00+00:00",
+      "published": "2026-10-29T16:05:49+00:00",
       "source": "Gears E-Day",
       "category": "oficial"
     },
@@ -1478,11 +2144,29 @@
       "category": "oficial"
     },
     {
+      "id": "1a7fabcf0de7f4528c248478adb4801e64478667d9203acef738234623beabd4",
+      "title": "GTA 6’s Cops Will Send Dogs To Get You - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VMVNaRkc3VHFWTk5mMnZJc3Y0ZmV6MUI3LVEyaEJDMVNlZDVRampFS1A4NGhkclhCaktMNkgxbi12NmYxbkt2aHZ1aTc4WFdHdVVoWXo4T2NFS3dJQUQyYUJULTBOU1hFRDVadWp5dmdsYWJuMWtUTEJmTHM?oc=5",
+      "summary": "GTA 6’s Cops Will Send Dogs To Get You GameSpot",
+      "published": "2026-10-29T14:34:16+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
       "id": "f3109a535c7f641abdf615062bf854e55b485dcd09c8b591d7de612d437c46f0",
       "title": "GTA 6 Makes A Familiar Open-World Gaming Feature Work In Its Own Way - GameSpot",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmtjdFVEeGV1THkxWFhpWWVqR0xtdHY0OE9FcnpTNC1JTWRLLWI5c2QzOHV6akI0WXlrVGx3QVVQektaeFoxSFh6VWpKVktldm9tSXUxQUVpR1pJcWoyQ1l5TE82Sm5fQUlxZnBpcXpRS3NzOVdBeEUwOUFfVE9RSTJDV0ttNzI3aTRianJQdW93c25MQW9xamVyTm5qUlQtVi1xWC1R?oc=5",
       "summary": "GTA 6 Makes A Familiar Open-World Gaming Feature Work In Its Own Way GameSpot",
       "published": "2026-10-29T13:49:35+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "9985ac2741771e47ae86effda413c9b4d1672b97de26cc90f9ab157771563e29",
+      "title": "Xbox CEO Says Xbox Series X|S Is Supply Constrained, But Is It? - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkxvMjI3aHpOUDJ4cUVmTjhfTlkyRUVqVkhWb2s0aUlCY05tWm94eF9ZY2pnZ0JqZlBaZU8tdjFqRExCNDZxeUl2bWFweThYY21acWJsYXBEUGNGZmh6eFBMTEZEU2Z4OGlkYWpLX1FFNWhPTE1aN1plVFZGQTc4OGlUX1FFbGpjNzUycEk3ZU9jM2F0V3FCUXpqRQ?oc=5",
+      "summary": "Xbox CEO Says Xbox Series X|S Is Supply Constrained, But Is It? GameSpot",
+      "published": "2026-10-29T13:20:45+00:00",
       "source": "Gears E-Day",
       "category": "oficial"
     },
@@ -1609,6 +2293,15 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOckpGa0c5QWl2NGRndTR5MmtPOG1mdUdhcEdma0N0M0NRRFFxbXdtWHlvenpUbk5LS2tfbE5FeHRmVHpOYkhDaUhQVjJmbVBsczRDc1VCZzhUV3ptZ0RRdkZ1MldtYnptQ0s4VWJoOGVwUDl2RGlodEVhUi1CelNxWENxeU51V2F1QVVKcm5jbHI?oc=5",
       "summary": "Yes, Linux runs Microsoft's own video game better than Windows MakeUseOf",
       "published": "2026-10-29T10:55:16+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "6d00f5f2e364a1a9e75faf96e8d620c6e5c5cafc52bb42b0bf47d5e08f15e867",
+      "title": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet - IGN",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTldXOHZ4NmVaU0I0QmFldzI3Rm81dkRMZHdSWXZtczc3b1pqaDZldmZaU1MtRE5nclp1UFlTdGswZmNFX2xCbmRrV0szalRaa2tTUHpTbWViaXEyT0pOcnFVRDZHUGlLXzg1cklhX3RpUUljNEdiZHdSUHR3akhXdGZ5dTVWY2JBVWFaNEFrLXVHTXRHNzVfZGw2d2lfOHR4T2VZbllPTDlWVVE1M1N4OXRybGN3WkRTQUVub2dKMERKekFtWEpDS0VJU2k1UTQ?oc=5",
+      "summary": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet IGN",
+      "published": "2026-10-29T10:47:43+00:00",
       "source": "Gears E-Day",
       "category": "oficial"
     },
@@ -2297,6 +2990,15 @@
       "category": "creador"
     },
     {
+      "id": "2e512bdac570bc2b4cea3f898ca244a91e5951d3b209ac9aeaa686d5f3921693",
+      "title": "Media: Gears of War: E-Day sold over 400,000 copies in three weeks - WN Hub",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sTGZaOUktSnpKSFh0X3hGX1UybnAtcjlDZ1BhRmNDcGdxdDlTcDFIcVA3U05NR1Y3Z1cwWHg4MDgxODlSNEtRVjFjbGEwZ0U?oc=5",
+      "summary": "Media: Gears of War: E-Day sold over 400,000 copies in three weeks WN Hub",
+      "published": "2026-10-28T21:30:45+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
       "id": "1e4e89e03d06f0fea505ea844b45187189186302824659d8fb98d14db5a9451f",
       "title": "Curi Of War 2",
       "url": "https://www.reddit.com/r/GearsOfWar/comments/1xi10ct/curi_of_war_2/",
@@ -2576,6 +3278,15 @@
       "category": "oficial"
     },
     {
+      "id": "8a8cca3d91cdb938863b5989d480a9678b65490dba28206723ec6043365ea3e6",
+      "title": "Amazon está rematando el cargador más pequeño y delgado de UGREEN: Nexode Air de 45W - Xataka México",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjFhTDJkUVZNcUZPdkpLSnNOVmlVQTZ6WWxRcll3U05FamQwazFxdS1pNWIzOXcxS2duUFFHYWRwYWNwR1RQT1QzSkRxdkg2U0RPZnRaS1Z5eDU4NndwWkhQRFBKR1JqNDQ2Q3B2ZU95MkNaRXVWS041eW1IdEpxUFUtUy1LLWVsdGV4dEN2WGphamd2RzBOWUZReV9CSlVwd3F6V3FCTms0czZf0gGsAUFVX3lxTE9SMWFMMmRRVk1xRk92SktKc05WaVVBNnpZbFFyWXdTTkVqZDBrMXF1LWk1YjM5dzFLZ25QUUdhZHBhY3BHVFBPVDNKRHF2SDZTRE9mdFpLVnl4NTg2d3BaSFBEUEpHUmo0NDZDcHZlT3kyQ1pFdVZLTjV5bUh0SnFQVS1TLUstZWx0ZXh0Q3ZYamFqZ3ZHME5ZRlF5X0JKVXB3cXpXcUJOazRzNl8?oc=5",
+      "summary": "Amazon está rematando el cargador más pequeño y delgado de UGREEN: Nexode Air de 45W Xataka México",
+      "published": "2026-10-28T16:31:00+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
       "id": "6fea871bfcc0cba492d6fd59b930772d02b1274acc0404e8a1edc93864bac863",
       "title": "Nintendo’s Indie World Presentation Was Pretty Packed For A Short Show - GameSpot",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWhqMjhzYXlHclkyWmVFRkhiRlY3X0E3ODdVQzkzSmlhN3o4MjV4SGJOY2VKX1A0S1daTTJGQUhGV21LNTVxQmlPZGRnZ29kWXM4UFNVeWl5aVFMZ2dQcV9LdGNGVWFBNXpSN25RV3JxVy1Ec0tBdTRoNmJYSXRLVFZ6T1BzZU5OV3duZ2pFQ1hHREt0Nm5sTjNSVU5fXzFBUVJGbXZUYw?oc=5",
@@ -2792,15 +3503,6 @@
       "category": "oficial"
     },
     {
-      "id": "2e512bdac570bc2b4cea3f898ca244a91e5951d3b209ac9aeaa686d5f3921693",
-      "title": "Media: Gears of War: E-Day sold over 400,000 copies in three weeks - WN Hub",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sTGZaOUktSnpKSFh0X3hGX1UybnAtcjlDZ1BhRmNDcGdxdDlTcDFIcVA3U05NR1Y3Z1cwWHg4MDgxODlSNEtRVjFjbGEwZ0U?oc=5",
-      "summary": "Media: Gears of War: E-Day sold over 400,000 copies in three weeks WN Hub",
-      "published": "2026-10-28T09:30:45+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
       "id": "2e17d400043cd0b17ca636dcfd59204a559fe5b3df71972ac06daa4164c407b3",
       "title": "Gears E Day, should they add more maps?",
       "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhj5c5/gears_e_day_should_they_add_more_maps/",
@@ -2898,708 +3600,6 @@
       "published": "2026-10-28T06:59:06+00:00",
       "source": "Reddit r/GearsOfWar",
       "category": "comunidad"
-    },
-    {
-      "id": "2f21c42f6f51c4dc6121fff945c8d40f71c238b6142c1329bce6c84e5ceced7f",
-      "title": "Why do we not have imulsion grenades?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhgqx9/why_do_we_not_have_imulsion_grenades/",
-      "summary": "",
-      "published": "2026-10-28T06:37:43+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "1441cd76d3ba03eb751edbb05fba6b5301b7f0c6ddcbb10aa991a8628fa96d4a",
-      "title": "Dude..",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhgmfo/dude/",
-      "summary": "",
-      "published": "2026-10-28T06:29:41+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "143f2a7f1520364a410a1adaee9685af2b92646e44d4f03b0c5964cd2d479e5a",
-      "title": "Part 502 of Gnasher Inconsistency",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhgezk/part_502_of_gnasher_inconsistency/",
-      "summary": "",
-      "published": "2026-10-28T06:16:48+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "130691a34219aca9df24d45bbfad710bb3b76bd154493b5f182ce2f33c8056b9",
-      "title": "E-Day Deathless Insane",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhgbuu/eday_deathless_insane/",
-      "summary": "",
-      "published": "2026-10-28T06:11:21+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "e0c25d630d8a8ea3bc613e2cc1eaf62a2de841a67e0995b2e7dc8ca1265381e7",
-      "title": "How would you make the new horde mode better?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhgabq/how_would_you_make_the_new_horde_mode_better/",
-      "summary": "",
-      "published": "2026-10-28T06:08:44+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "7d4f4fc4798baeac658965118d504c7fe189456dcf0b6b6cd8d24ee3a050d4a9",
-      "title": "It has been a ride fellas",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhg7vn/it_has_been_a_ride_fellas/",
-      "summary": "",
-      "published": "2026-10-28T06:04:35+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "2e2a3cf2a7e3283eb893d06edc6c10222b1cc59b928650c5edd0c6804b45a67c",
-      "title": "This gave me a smoother gameplay",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhfz8m/this_gave_me_a_smoother_gameplay/",
-      "summary": "",
-      "published": "2026-10-28T05:50:01+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "6dca555c622e1ab4281ac47180b01c3654d796dcf095ca62abe3532de6bab83f",
-      "title": "Love & Hate, Been the same for 20 years...",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhfakp/love_hate_been_the_same_for_20_years/",
-      "summary": "",
-      "published": "2026-10-28T05:08:45+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "53e9aa729440914d4fcc57992355e97c692775e7094183393e3d4306df1a4f79",
-      "title": "Part 500 of the game being straight ass with desync",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhf87z/part_500_of_the_game_being_straight_ass_with/",
-      "summary": "",
-      "published": "2026-10-28T05:05:00+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "3b8054a76c4da468ba4e9d4acb2734038a22af3ef6d34c5c799a137cf590b9f7",
-      "title": "Playing Gear of war E-day like",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhf7q6/playing_gear_of_war_eday_like/",
-      "summary": "",
-      "published": "2026-10-28T05:04:12+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "41cea20719cca80ead7ed3f8468f48a058b95a333b8d6f94c33558a28dd61a6b",
-      "title": "I love that the devs put this in as an achievement.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhf77y/i_love_that_the_devs_put_this_in_as_an_achievement/",
-      "summary": "",
-      "published": "2026-10-28T05:03:27+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "e0887404477313f73773f0a2e07374883473172b4cb6bb4769112d057e939925",
-      "title": "How should i rank up?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhf0qg/how_should_i_rank_up/",
-      "summary": "",
-      "published": "2026-10-28T04:53:14+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "b9a0ae185e9df62708c7bd08cfe7183c86abe105d013693c1f9c94ee4d6c5827",
-      "title": "Question about the E-Day event in Kalona",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhevst/question_about_the_eday_event_in_kalona/",
-      "summary": "",
-      "published": "2026-10-28T04:45:08+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "ec9ba657656278da5aa569bb6535b1b0d5ead806136b37bbbc1f596295ad93d6",
-      "title": "Xbox controllers doesn't work onsteam",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhe7r1/xbox_controllers_doesnt_work_onsteam/",
-      "summary": "",
-      "published": "2026-10-28T04:08:13+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "26df34bff0558923b7cd7b09130d652e1c4c6f474a0e838a4598c6d90c894977",
-      "title": "SUGGESTION: “Big Game Hunter” Siege Mode Variant",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhe2yo/suggestion_big_game_hunter_siege_mode_variant/",
-      "summary": "",
-      "published": "2026-10-28T04:01:07+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "c54f53e7702da18a010cf83c950a6279c753747ba495f92289185054bbe785a1",
-      "title": "Solo player. Diamond rank after 120 matches.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhdoyi/solo_player_diamond_rank_after_120_matches/",
-      "summary": "",
-      "published": "2026-10-28T03:40:25+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "ce130ef4722aa913f533bccc228af2213c24b96ddaabce523623c18c27346d05",
-      "title": "How close was I to dying?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhdoed/how_close_was_i_to_dying/",
-      "summary": "",
-      "published": "2026-10-28T03:39:39+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "39ba64d91af5a46bae92fba07786cdc4023e47fb16f22c970ed5b39a2f7010e5",
-      "title": "GOW2",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhdhr1/gow2/",
-      "summary": "",
-      "published": "2026-10-28T03:29:44+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "8543f87c9a2b0e6900e01393bcb7df0dd77bf0dccc96fc8b47c469e9980dcdf2",
-      "title": "Unspoken Rule",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhdfxj/unspoken_rule/",
-      "summary": "",
-      "published": "2026-10-28T03:27:06+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "77564693cae12c2c607eeb3280d64859889cbbe143e7d06ca61c038f353061ff",
-      "title": "Beating a dead horse, but what the actual fuck is up with challenges?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhde1s/beating_a_dead_horse_but_what_the_actual_fuck_is/",
-      "summary": "",
-      "published": "2026-10-28T03:24:24+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "e1b51fe7c6b4ad9facc2005be03d092c214f36faafa6d1f154e9a7ff7971ae81",
-      "title": "Controller Remapping is completely borked, and it's not Fun.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhdabx/controller_remapping_is_completely_borked_and_its/",
-      "summary": "",
-      "published": "2026-10-28T03:19:07+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "db3232e984a4ccda648682aa80b5a94a3202d7bfcac27a578969d4e38e63d91e",
-      "title": "We lost the game because of this",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhd2jw/we_lost_the_game_because_of_this/",
-      "summary": "",
-      "published": "2026-10-28T03:07:54+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "4d9ece4593a59f66b81ffff36f39c176b3e8efdb64064cccd1d503e09dbe0f6c",
-      "title": "I hope we get horde siege on the locust side",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhcv9a/i_hope_we_get_horde_siege_on_the_locust_side/",
-      "summary": "",
-      "published": "2026-10-28T02:57:38+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "0ecc553a5c7e789180c61affe3269b4f245a6ec8ae2f1e22fb1139b781f32071",
-      "title": "Still bare minimum communication, redundant roadmap, and incomplete Versus",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhcshx/still_bare_minimum_communication_redundant/",
-      "summary": "",
-      "published": "2026-10-28T02:53:48+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "b579fcfc1f9c839b7323d33ae07ebf402693f6996a5afff00f519d3566a99919",
-      "title": "The penalty for being grouped with a garbage team is so rough.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhcpgv/the_penalty_for_being_grouped_with_a_garbage_team/",
-      "summary": "",
-      "published": "2026-10-28T02:49:33+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "701079793bc7da99cc19d380541a6e15273893a44f582a98766fc5cbc32d5d6f",
-      "title": "Ranked tier reset?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhcldh/ranked_tier_reset/",
-      "summary": "",
-      "published": "2026-10-28T02:43:52+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "741db322942db6306249cad709cf260b1de5e61b00e23bc696433f1bc50d16fc",
-      "title": "Just finished E-day and it's a masterpiece",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhclc5/just_finished_eday_and_its_a_masterpiece/",
-      "summary": "",
-      "published": "2026-10-28T02:43:48+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "830a7c4078a5f4e93e11b727b6a39fa78041e3f73c3ad9b6200cb6e3dfaa4d12",
-      "title": "Despite not resetting at content time, my weekly coin limit did reset a couple hours afterwards. Check again, it might be fixed for you.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhchz5/despite_not_resetting_at_content_time_my_weekly/",
-      "summary": "",
-      "published": "2026-10-28T02:39:11+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "a5d91fd56b27eef98eed58cb2d3e3e1125cd1e8c7607529d909894a0bf2813f8",
-      "title": "Most unrealistic thing in Gears of War.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhceaq/most_unrealistic_thing_in_gears_of_war/",
-      "summary": "",
-      "published": "2026-10-28T02:34:11+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "33d895e1c6231bbc0bdeb2f0d3017b54726fe2fa7612de71f78b526af1f0624f",
-      "title": "Carmine skin",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhcdz4/carmine_skin/",
-      "summary": "",
-      "published": "2026-10-28T02:33:46+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "aa6168f4d09ff1b8ad0c0c3eaa2b1b28cd4d9488fa997db145c2f9d797c36751",
-      "title": "How Easy/Difficult Is It To Go Back To Barrel Aiming?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhccbo/how_easydifficult_is_it_to_go_back_to_barrel/",
-      "summary": "",
-      "published": "2026-10-28T02:31:26+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "1c36027335d9ec05dc517aa828e66662758331b1545bb4b3d3e97eb82891a371",
-      "title": "I couldn't resist doing it with this locust",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhc6u7/i_couldnt_resist_doing_it_with_this_locust/",
-      "summary": "",
-      "published": "2026-10-28T02:24:06+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "8d990e89c86bd7edeb5c983b7ce852135b6317bf6199a6da90a3f24a9e3b56aa",
-      "title": "Were the coin resets meant to happen again today?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhbx7u/were_the_coin_resets_meant_to_happen_again_today/",
-      "summary": "",
-      "published": "2026-10-28T02:11:20+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "23b19d341f62e243c72d21ecd9b4c9e187c690b2ad11fde1578949e0397d5607",
-      "title": "Can someone explain wtf this was all about?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhbuzs/can_someone_explain_wtf_this_was_all_about/",
-      "summary": "",
-      "published": "2026-10-28T02:08:35+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "be07acc2d30f710039ec4cd7d7af039225fe0e4e623a9bffcdd3ff10dbcc5ac7",
-      "title": "Just Incase",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhbtzm/just_incase/",
-      "summary": "",
-      "published": "2026-10-28T02:07:12+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "1c43c800b318b916012e78d552d722292e121f0e20aaedd05f8a89ca2c0fc62c",
-      "title": "Well is it expired or not?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhbt0c/well_is_it_expired_or_not/",
-      "summary": "",
-      "published": "2026-10-28T02:05:55+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f0bbe92d156d35a807e33b14e71cf81229f49864a994fa5b3db297c7673a1eb3",
-      "title": "Does anyone have good images of the Flayer and Grinder helmets from Eday?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhbom6/does_anyone_have_good_images_of_the_flayer_and/",
-      "summary": "",
-      "published": "2026-10-28T02:00:15+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f5662bfcf449948c51733cdce040966eb2c2cc436f9cea46e7841af030f8dd0d",
-      "title": "Just played a whole team higher level than us and got 6 fucking points....what's the point of playing ranked and who game tested this trash?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhblll/just_played_a_whole_team_higher_level_than_us_and/",
-      "summary": "",
-      "published": "2026-10-28T01:56:21+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f507f4f8d87ff044fe5d6c13917a1a80e50f8164ebe8f113c6f8ff2e74545d8c",
-      "title": "I think I just watched a Locust trip stepping off a curb and die from it.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhbjyn/i_think_i_just_watched_a_locust_trip_stepping_off/",
-      "summary": "",
-      "published": "2026-10-28T01:54:14+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "ff47a84a1c34a177597455c5fd74612408ad5617ac816b48d54c647c4716d118",
-      "title": "Congratulations Chairman, you have 24 hours to prepare for Eday and fight the Locust. What’s your strategy?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhbix2/congratulations_chairman_you_have_24_hours_to/",
-      "summary": "",
-      "published": "2026-10-28T01:52:48+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "b572f826526dea6ee39dda753f1ae6bd8b18d05fdc1b9067a5288073741f1227",
-      "title": "Say what you will about Trench",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhbabq/say_what_you_will_about_trench/",
-      "summary": "",
-      "published": "2026-10-28T01:41:33+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "ead452411f5a116cb0f83880746ffd087f149a560bbe792ed6dd563b40435819",
-      "title": "Guys please stop loading into high level horde matches as a low level and vice versa",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhb87a/guys_please_stop_loading_into_high_level_horde/",
-      "summary": "",
-      "published": "2026-10-28T01:38:52+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f0e6937cc9bc1ad4b7ee380a22fb9d61c2e37586efd98e51831b03ca2dfb362c",
-      "title": "No way this voice is supposed to match. Hilarious!",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhb3my/no_way_this_voice_is_supposed_to_match_hilarious/",
-      "summary": "",
-      "published": "2026-10-28T01:32:47+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "3f4c8ff33ed1a9b8b857e4bddb233dfb581f241f24e1a91540c0611e584d8577",
-      "title": "Your E-Day hours played?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xhazbm/your_eday_hours_played/",
-      "summary": "",
-      "published": "2026-10-28T01:27:24+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "91173448a8fcc5f2d6251ba39c910c4fda327d58c76c1e0988dfd3a154f30f98",
-      "title": "Please TC, I'm begging you, never tie Limited Horde Siege events to a single map ever again",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xharpv/please_tc_im_begging_you_never_tie_limited_horde/",
-      "summary": "",
-      "published": "2026-10-28T01:17:25+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "b5f1f4e803f10ec3d860c6a7adaad86f709ecc3b09ec4d02fa16fe518d6f74cd",
-      "title": "Love the ranked matchup it’s super balanced :)",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xharpa/love_the_ranked_matchup_its_super_balanced/",
-      "summary": "",
-      "published": "2026-10-28T01:17:24+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "95584e3198d99a8b10aed48cb6786f4849e9a3dc24d2530bd0ec52028bc043c0",
-      "title": "Theory: Fahz's dad worked at Nedroma back in Vasgar and helped create the immunity booster",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xharba/theory_fahzs_dad_worked_at_nedroma_back_in_vasgar/",
-      "summary": "",
-      "published": "2026-10-28T01:16:52+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "28f10ca51fa63ea5fdb56eb2ee46afbf5d18491e0a65bfbfcb6d6fc869ba6025",
-      "title": "Gears of War: E-Day: Posible DLC protagonizado por Tai Kaliso y un proyecto sobre las Guerras del Péndulo - IGN Latinoamérica",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczhDTkdsZDV2N1lYVnNQTk00cDdmN2RFSG82Z0FqR2lZNXdXZUhpOGZFVUVQaHRTcnpuSEUxZl9XS2Nld0FqUklrUmZuM1NyZ1JFRjlYV1p4WXNQQjYtY2JpdE95d0xSeld5cFdKZ1FVdnlPUW9FZjVtNE5Kcjhsbkwxclg3d2s?oc=5",
-      "summary": "Gears of War: E-Day: Posible DLC protagonizado por Tai Kaliso y un proyecto sobre las Guerras del Péndulo IGN Latinoamérica",
-      "published": "2026-10-27T22:59:35+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "d6d7ddf57c119f18c6fecb0ba1eeb71ca719d32240842ac5096e893ed0c59d08",
-      "title": "Jugamos Halo 3 con 100 JUGADORES! (Demasiado caos🫨)",
-      "url": "https://www.youtube.com/watch?v=sBqbb1d7C5o",
-      "summary": "",
-      "published": "2026-10-27T22:20:36+00:00",
-      "source": "JosefaTTV · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "f15fc89ca32d77d273508ea4caaf1d3ac8e7d4ebbbd5d0e2069f3e3c188a674e",
-      "title": "You Can Unlock Lots Of Free Stuff In Pokemon Go’s Halloween 2026 Event - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjduSWhDemVVcGtPdnNfZ0F3eHVuRmlTV0pXRVdSR0NvelQ3emlVendvWEN0MFpGVDB5R2VnU1BkanpCU0gtTi1PaV9NT3VqQXg4cjlUcVBDWWRKclJ1dVZkZU55dnRoaEZ6QnF2dHZrT3ZqbUl0TDVQbnoxY3ZPVzhhRzR3TF9Jb2NBUXg5UmFoU3VRbnd1d01DYVk?oc=5",
-      "summary": "You Can Unlock Lots Of Free Stuff In Pokemon Go’s Halloween 2026 Event GameSpot",
-      "published": "2026-10-27T22:07:25+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "0c77271ca6343b26f5db483e11723b8df0812d7258a724ffd9f858da10e494c8",
-      "title": "Gears of War E-Day Co-op Part 2 - Already the SACRIFICES are Happening! - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jOFNLSk5tdDNmbWhnUWNDNkZmT1dWMkpqenlTZjBjOUZLSzVvYXZ1aFlZS0toRmpJVi1kUkdFcVNXdw?oc=5",
-      "summary": "Gears of War E-Day Co-op Part 2 - Already the SACRIFICES are Happening! YouTube",
-      "published": "2026-10-27T21:15:45+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "b2a94868fc9b47e506727a6daa8a224b1414887e836e59823f3107efe4def4a9",
-      "title": "Cloud Gaming Service in Canada: 4 Compared [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHpZVFEtdTdzNVNIUGNzckpJdGJqa1lHb2ZkSzJaaldqVE1xU1ZGZXdrSlBGd3hZMmNxcG05MWlwaUNFRVpOeUR4a2xCQkpNWklYYXE5dUJOMmVLTEhFRjJKNjk1S05aYXlMUk13c3lXRjB5RjFtTzZta2prUzg2YjJFU0tzTS1Ebkw4Sk5rREpDXzJ2OGVwMTdn?oc=5",
-      "summary": "Cloud Gaming Service in Canada: 4 Compared [2026] tech-insider.org",
-      "published": "2026-10-27T20:58:38+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "470bc25710c32ef1ac9b0bc1d724eb28025a10afc03d28f7b12bd4b32761991c",
-      "title": "What would gears of war Halloween look like",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh3iyh/what_would_gears_of_war_halloween_look_like/",
-      "summary": "",
-      "published": "2026-10-27T20:17:53+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "99fe0d92e874bcfeca4db262248b72e7746dba6c01aa6e5d7a39332e435d6b3e",
-      "title": "Finish insane mode?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh3eeq/finish_insane_mode/",
-      "summary": "",
-      "published": "2026-10-27T20:13:20+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "7494d90a91006a2cc048bfc836c7608a9d2324d069d882163e4a063b0e07d7d9",
-      "title": "What did they do to this game man....",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh39un/what_did_they_do_to_this_game_man/",
-      "summary": "",
-      "published": "2026-10-27T20:08:34+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f6c0be802146832807110b875c750baed631f3709127a745dcf51166c757acd5",
-      "title": "E-holes Bug",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh37sj/eholes_bug/",
-      "summary": "",
-      "published": "2026-10-27T20:06:24+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "e4a09dcb433315506dff59e73620b6b5551c6b445bd530dc754ca533533b028f",
-      "title": "You Can Make Your WoW: Forever Character Now And Be Ready For Launch - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDdzWVZSQzZFYmVtQjRvQlR5dnZhS2NsQ3BmczNfeGU4cmNJVTNjejE1MjYxa2o5ZjUxMzRmaEp1Qm45WXlCaVY1cFFseDhKbVIyQlNIX2Z2WmkxeUdpMVBBNWxObGMyYlNKRFQwOEUxbWdkbHNxZF9NYVE0Z2ZGX3plMC1Bc1QzYjlXbFVXY3RPRXlLckF5cmNzcXhRWnozOER0eA?oc=5",
-      "summary": "You Can Make Your WoW: Forever Character Now And Be Ready For Launch GameSpot",
-      "published": "2026-10-27T20:02:45+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "48cb9981b628e1e2b249361821620a52e8aacadb2c13429f7f029f440b3d30ae",
-      "title": "Descarga ahora tres juegos gratis de Xbox que marcan un antes y un después - Generacion Xbox",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTVDZTV1eEdJSEVYb0tVSjBzTl9Tc19DV0tuWkVDNzJvVnVWRjhzbnZkOEkwY3dNeExJY082bUs2TmN6VkJIMkdteW1OMmJ4X25oNWliLUNvWFVXZ1NCUElkWC0zTDB3UWZsQ0FudzU3bUxMVERYal9nMkdXQ19UcUl2RXpJUnJuWkotT2xoeEZmb2dnaWhZZDBobVdNbjV2WERseQ?oc=5",
-      "summary": "Descarga ahora tres juegos gratis de Xbox que marcan un antes y un después Generacion Xbox",
-      "published": "2026-10-27T20:00:40+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "0ce08523369c2c02c96100a138d4dd33c0f60812ffbde189c0e213a6b340fc98",
-      "title": "Xbox Game Pass Is Now Included With A Phone Plan - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDJZWlBmQXNLQ3RfY3c3ek5sb1dKYURiQjQtR2trSHltMG9KUmpQOGt4T0hPT2cyS2x6M1ZHRmpuNUZvSV9kTDdrSWFNZUkyX1BpdFp3T3NMZm9WeDFpSVRDWHNPZ3hJekN5TmZsUDNZMkgxcDhMOW5NTVhaQ1l6UmZxVVZiN0NXZ0RJ?oc=5",
-      "summary": "Xbox Game Pass Is Now Included With A Phone Plan GameSpot",
-      "published": "2026-10-27T20:00:00+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "774dffb826b8863a431c7d3e10cefdea11b39ba7d00ba69c69ab32375784184e",
-      "title": "Xbox Workers Are Eligible For Buyouts As Part Of Huge Shakeup At Microsoft - GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVc5OWp4OFpaUWNpbGpEUnpnRExvZktpQmtkazAyQXI4N29LRU9DLXdvRjFJbVlueGtDWHhwNjVVNHBZS2phSUZxVndfbUFzeWlhTlRCRzl2UTR2VF9sR21iY3lpZDk2U2FSdFZlRnNlaW93dW8wZU5FamQwYnBBaVlQWUZjd2tTVVphTXd3RVczOEtYQWpOXzBvMW5pY1FuN2J3Wk5KYXg5TGZfcGc?oc=5",
-      "summary": "Xbox Workers Are Eligible For Buyouts As Part Of Huge Shakeup At Microsoft GameSpot",
-      "published": "2026-10-27T20:00:00+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "9b4ab5b1ec2b5838ac5a84befbf8e80065d8c21db6f8e89a4a34089d0cc7ee23",
-      "title": "Gears of War: E-Day - The Boogeyman Poster",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh2xkz/gears_of_war_eday_the_boogeyman_poster/",
-      "summary": "",
-      "published": "2026-10-27T19:56:08+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "359c23efbc9b5a8e41eb458bf9fe57c8310d050001323da4041e0e9677f8091e",
-      "title": "Challenges bugged and won’t progress",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh2qo3/challenges_bugged_and_wont_progress/",
-      "summary": "",
-      "published": "2026-10-27T19:48:57+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "33952d9712eb937bd02a91bd11cb35154a29ab689e888c7bb6d7dfb622fc225c",
-      "title": "Weapons not spawning in ranked",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh2nf3/weapons_not_spawning_in_ranked/",
-      "summary": "",
-      "published": "2026-10-27T19:45:32+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "b391e2ae91f00c796850241a4223cca9e176c630d2b4bf569167c7f4868da339",
-      "title": "Anyone else have an issues with hoard siege dying on turrets",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh2jme/anyone_else_have_an_issues_with_hoard_siege_dying/",
-      "summary": "",
-      "published": "2026-10-27T19:41:23+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "340b0d3aebc19db0bc78eec32aeba55ac807cb621904dc684a38b02b1fe63de9",
-      "title": "They did not want our asses up there",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh2fe1/they_did_not_want_our_asses_up_there/",
-      "summary": "",
-      "published": "2026-10-27T19:37:08+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "d57e16d78fbb3f6f0d0e212c4d6919b9bf33f46c004024948b0b0d00a6b46f0d",
-      "title": "In Horde Mode, the kill and damage numbers should be displayed on the final screen.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh2aru/in_horde_mode_the_kill_and_damage_numbers_should/",
-      "summary": "",
-      "published": "2026-10-27T19:32:22+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f01dbc8f0cacb73fb12ca592c133a8f33d1f8e76bec3ac1df3f4323e66f03509",
-      "title": "TC Radio Silence is getting ridiculous at this point",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh2592/tc_radio_silence_is_getting_ridiculous_at_this/",
-      "summary": "",
-      "published": "2026-10-27T19:26:36+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f9df55800d9cc016ecee74612108cd1550ceff605d422c1307909460763c0ce2",
-      "title": "Horde needs serious tuning or a level lock",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh22lt/horde_needs_serious_tuning_or_a_level_lock/",
-      "summary": "",
-      "published": "2026-10-27T19:23:53+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "872230f67052a45e3162875b58e5bec8705e9e7814358c19a84afd4dd890df42",
-      "title": "HORDA SIEGE - CLASE TRANSGRESOR - EPISODIO 2 - GEARS OF WAR E-DAY",
-      "url": "https://www.youtube.com/watch?v=n-O7sVgED1U",
-      "summary": "",
-      "published": "2026-10-27T19:22:39+00:00",
-      "source": "EMK EyeOfTiger · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "c387719ad26f484cd7df43dd1a1514e7137e89caef30246467456454463f1679",
-      "title": "I hope we aren't getting stuck with just one rotating weekly gimmick playlist and the current form of Quickplay forever",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh1zwt/i_hope_we_arent_getting_stuck_with_just_one/",
-      "summary": "",
-      "published": "2026-10-27T19:21:02+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "eaa3c91812086f076a3730e4f9ed633e6f0f85a32761d608990cf3ff88bb917e",
-      "title": "Shop refresh?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh1w2u/shop_refresh/",
-      "summary": "",
-      "published": "2026-10-27T19:17:06+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "68fd0d1b9ff3b9afae1d10987e5a62ef4d6f49934522f667c9c69aca04479fe3",
-      "title": "Gears E-day is trash so I went back to gears 3",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh1rrx/gears_eday_is_trash_so_i_went_back_to_gears_3/",
-      "summary": "",
-      "published": "2026-10-27T19:12:43+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "3c0e5f72c7bec92f7b3ce5015f091ff8074722448de91f860d50b59d7a3d8fc8",
-      "title": "Confused with “Multi-Kill Ribbon.”",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh1ge0/confused_with_multikill_ribbon/",
-      "summary": "",
-      "published": "2026-10-27T19:00:55+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "56b45923f85487354870440c0a60e8e4aff17b480dc5d9f71366afa5b203503a",
-      "title": "Gears of war e-day keyboard came in.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh147r/gears_of_war_eday_keyboard_came_in/",
-      "summary": "",
-      "published": "2026-10-27T18:48:43+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "c6e3d4c46aceda837e1420d5977d2de7237cac8ee5d1f61cc54d4ec55b99dfe4",
-      "title": "Every week I have issues with weekly challenges.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh142e/every_week_i_have_issues_with_weekly_challenges/",
-      "summary": "",
-      "published": "2026-10-27T18:48:34+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f144c65df75b5e94c7ddf54f5077e9e724b0a983cafa1902ae8def5902b1141f",
-      "title": "Act 4 Ch 6 Insane",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh0zpw/act_4_ch_6_insane/",
-      "summary": "",
-      "published": "2026-10-27T18:44:13+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "e63f0fa6754dbf78aa5e512073857225c3ed6f95556919b91a3ad4019227224a",
-      "title": "Just a humble bronze rank doing the lords work",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh0v71/just_a_humble_bronze_rank_doing_the_lords_work/",
-      "summary": "",
-      "published": "2026-10-27T18:39:39+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "e3324551df8474697cee28892a775c89749ffdba8fce374135d79bdea42ff5e6",
-      "title": "Does the Hammerburst need a buff?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xh0sgo/does_the_hammerburst_need_a_buff/",
-      "summary": "",
-      "published": "2026-10-27T18:36:51+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
     }
   ],
   "sources": [
@@ -3610,7 +3610,7 @@
     },
     {
       "name": "Gears of War · global",
-      "count": 63,
+      "count": 54,
       "error": null
     },
     {
@@ -3620,7 +3620,7 @@
     },
     {
       "name": "The Coalition",
-      "count": 10,
+      "count": 13,
       "error": null
     },
     {
