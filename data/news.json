@@ -1,6 +1,438 @@
 {
-  "updated_at": "2026-11-10T07:24:15.966532+00:00",
+  "updated_at": "2026-11-10T19:46:56.409274+00:00",
   "items": [
+    {
+      "id": "721bb223b39199bec174134abf1378090487c33e4aab06a9b5c7dab678c61988",
+      "title": "Why does NVIDIA App sometimes recommend Borderless Fullscreen over Exclusive Fullscreen?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xswcvs/why_does_nvidia_app_sometimes_recommend/",
+      "summary": "",
+      "published": "2026-11-10T19:35:00+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "3062f061d72a4a6e61a7396dbe59d2c37978ea93d1166bebe5a386ad20f9e227",
+      "title": "BROO!!?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsw0m7/broo/",
+      "summary": "",
+      "published": "2026-11-10T19:21:50+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "e4dd09ed714f963e8837993527bd9acae09916e0be1ff9c7793242c7f7c93433",
+      "title": "Gears of War: E-Day ya regala las nuevas skins del 25 aniversario de Xbox: así puedes conseguirlas gratis - Generacion Xbox",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2FHUEw5Y0ZyaGhrbzZSTGZGaG9TaXprRG9kSkpFVGI0RUJ1YmJoQnJhQ3JtMlBrYVR5MGlMZmRCRGRPWU1HMFlGSTNSTTBpU1R4WEVJeVVaWC03WFMtdWc2ZHRvOUJMUV8tS3pRcV8wN185ZzlTX2lzNzRaaHpta3lfUTRBX1VzRF9IZ0VsS1QybGwxT0xXYUF0bGcwNUJtS1I4X3BkTXpSUDJxbVNLRlNVM21nckpFVzlwcVNaZkpoMjYyYWhJZ1NWVQ?oc=5",
+      "summary": "Gears of War: E-Day ya regala las nuevas skins del 25 aniversario de Xbox: así puedes conseguirlas gratis Generacion Xbox",
+      "published": "2026-11-10T19:16:29+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "5b7c6ebddb154a2121dec2f3bf4c67c4a87d99be8ac09b87a0e36b04670eb6a2",
+      "title": "Need help",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsvskt/need_help/",
+      "summary": "",
+      "published": "2026-11-10T19:13:10+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "74821a01cd9e4ad8f05c90af13b01cc1005f1c6287eab85fa840df51cc1535d0",
+      "title": "Shoulder swapping button re-map",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsvqkl/shoulder_swapping_button_remap/",
+      "summary": "",
+      "published": "2026-11-10T19:11:00+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "26321d323be40fa910c50bc41b32a69e24633005b0315247de6610d41740654e",
+      "title": "I see why the Torque Bow was eventually made unique to the Theron Guard...",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsvl4m/i_see_why_the_torque_bow_was_eventually_made/",
+      "summary": "",
+      "published": "2026-11-10T19:05:14+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "ef3706fdfb84172151483676166db9571e33de67bd002d7ba38faafecaa7416a",
+      "title": "E-Day shows promise but we need a full return to glory.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsvjrx/eday_shows_promise_but_we_need_a_full_return_to/",
+      "summary": "",
+      "published": "2026-11-10T19:03:49+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "308eec18d6a1bf7fe1318512b718facc3512c9fef88e3764d15d077ed7fd796a",
+      "title": "How do we feel about the Limp D*ck Torque Bow?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsvioe/how_do_we_feel_about_the_limp_dck_torque_bow/",
+      "summary": "",
+      "published": "2026-11-10T19:02:40+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "3c15fba35915a6e5fe983dce64656073f40fe5e4dc460c495c81e41a62cc5df2",
+      "title": "Gears of War Celebrates 20 Years of the Franchise With a New Trailer - GamingBolt",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREpWMERydFREMmpodEdJaXZCaXBqcEU0cGN3dVZsblVNdWNJbk45UUpTajdGUW1VQWlibHZZYks5d0tuTmJyQW9NLTZ0b3pBZ0pYNDVpRUNLOUtVYnVaLXl2YzdzbnlvZDlVcG1XckVXd3NESEE5elpVNDhhX3ZTRmp5aWlENWo5aDE0a182MFUxQzBHZlE?oc=5",
+      "summary": "Gears of War Celebrates 20 Years of the Franchise With a New Trailer GamingBolt",
+      "published": "2026-11-10T18:58:59+00:00",
+      "source": "The Coalition",
+      "category": "oficial"
+    },
+    {
+      "id": "45cf3a650e7cdc1b7206b03c94ea4879645fef78aa5be87e2c0d5f32534773f6",
+      "title": "My only major gripe with horde",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsv92u/my_only_major_gripe_with_horde/",
+      "summary": "",
+      "published": "2026-11-10T18:52:39+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "9bdcfe005720a4c5223ed256bc0a6511424ea01fb7d6d99ad50ad4a98a117b5c",
+      "title": "Weekly Content Update - Season 1, Week 6 [November 10, 2026]",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsv7x0/weekly_content_update_season_1_week_6_november_10/",
+      "summary": "",
+      "published": "2026-11-10T18:51:27+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "6e66646f56c30d10fb79e985ee6603c661b5f5c25717b066ce059721e7d327de",
+      "title": "Any tips for the new exclusive mode “For The Queen”?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsut2m/any_tips_for_the_new_exclusive_mode_for_the_queen/",
+      "summary": "",
+      "published": "2026-11-10T18:35:47+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "221558e361245f156c4e25239a986f41b2fee491afb40a6514664d81f289d879",
+      "title": "The gore hook is the best and most satisfying new weapon",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsucwx/the_gore_hook_is_the_best_and_most_satisfying_new/",
+      "summary": "",
+      "published": "2026-11-10T18:19:33+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "e8dad955e61cff305ef5a85ee25974625a9243aed231318098cbcaab1acf2516",
+      "title": "Weekly challenges not tracking. Anyone else?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xstxpb/weekly_challenges_not_tracking_anyone_else/",
+      "summary": "",
+      "published": "2026-11-10T18:04:10+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "779b84ccf8eb99f06d0bb9cd1b95668554596e6ef3d3f3adacb91dad87b18711",
+      "title": "GoW poster collection from 2013",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsthp8/gow_poster_collection_from_2013/",
+      "summary": "",
+      "published": "2026-11-10T17:47:52+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "ee61b2009e5b7a03e58f53cec86fd0f378def422888ac299b75c912e412f0731",
+      "title": "Terrible performance and stuttering on PC (also can’t enable frame generation)? Is this normal with a 3070?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsthd3/terrible_performance_and_stuttering_on_pc_also/",
+      "summary": "",
+      "published": "2026-11-10T17:47:30+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "8e6fdd30b4f812673d99cf2e5dac9b6d9b5b8daef65e4950299b77b4f5981e24",
+      "title": "Moving onto the 1/6 COG dood :)",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xstdh8/moving_onto_the_16_cog_dood/",
+      "summary": "",
+      "published": "2026-11-10T17:43:17+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "01680a9b5516d56e4dbc34c31b160c4524fcfb453afcfa2db81205004411ada2",
+      "title": "Server disconnects in the morning",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xstdav/server_disconnects_in_the_morning/",
+      "summary": "",
+      "published": "2026-11-10T17:43:06+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "b1fc829d760b43c14e27bbd5b486895b0a6cdf5d32cd0c0d7d08e8a2dec20739",
+      "title": "Aside from disabling Supply Caches, what are the most BS modifiers (temporary or match long) in Horde Siege?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xst4kj/aside_from_disabling_supply_caches_what_are_the/",
+      "summary": "",
+      "published": "2026-11-10T17:33:51+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "69ec2b19c9b4ad472642e71a6810573a1a3fb12dd1392238dcf2e880474a12b3",
+      "title": "Who would win in a fight",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsspdd/who_would_win_in_a_fight/",
+      "summary": "",
+      "published": "2026-11-10T17:17:44+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "e3bd400ef3b266178cacad0a283bae8d78a86dbce1364d57ab86fd865b2333a0",
+      "title": "Anyone know anything about the update today?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xssmtv/anyone_know_anything_about_the_update_today/",
+      "summary": "",
+      "published": "2026-11-10T17:15:03+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7efc77369230990ec72f5df4fb3f900452736430c1b102b926c17d96b41fbd70",
+      "title": "For the queen event glitch",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsslrm/for_the_queen_event_glitch/",
+      "summary": "",
+      "published": "2026-11-10T17:13:59+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "0adfabeb6b034b7d14c355941fe5b489ce69494f102b8be064745903c19131c3",
+      "title": "Gears Eday Blam Edition",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xssia5/gears_eday_blam_edition/",
+      "summary": "",
+      "published": "2026-11-10T17:10:22+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "69a9d05ae87c41e5476b5be1b9cfbe4fdcc3e9e0733994283f405bd5a5be2adc",
+      "title": "Blessed by Gears Gods to finish the job",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xss9d5/blessed_by_gears_gods_to_finish_the_job/",
+      "summary": "",
+      "published": "2026-11-10T17:01:12+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "07290bcda791c80e31ee200a3d32e6458bb6c59f9d6e956bd23cb071ff00050a",
+      "title": "You simply dont need torque.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xss2el/you_simply_dont_need_torque/",
+      "summary": "",
+      "published": "2026-11-10T16:53:59+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7db40d90bd3e18b8c81ee7392e543e40b570e3a461e4d8c24f273e84c06610e8",
+      "title": "Take-Two Boss Says Ocarina Of Time Is \"Terrific,\" But Is It Competing With GTA 6? - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbTU0cDcxM0ZTMUE5WnpOWVhKN1pScGE1V2RiRDFzNDd3MlRoWXA3bHVMSjVPcGM1Y2IzR1lxUTdvNnZXMm1GZXZvUF9TZ0lLZjdTWk5SQ3hwbXRCRjh4b0dPdXFpVFR4Q09ZWUw0bzNrel9fT0pPZ05VMVJEWWpnX0h6ZlIzVzlxcnZ6cmFxNWlQLU13M3V6Q3hsTGFJaEQyTGtKcDBOVWZiM3BlUVNrOUhR?oc=5",
+      "summary": "Take-Two Boss Says Ocarina Of Time Is \"Terrific,\" But Is It Competing With GTA 6? GameSpot",
+      "published": "2026-11-10T16:50:40+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "74344b1eb0ce515b4213466665ccfab19e20af0876a5861e37ce315686a37ca8",
+      "title": "YOU LOST... WHEN YOU COULD'VE WON. ASK YOURSELVES WHY",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsru7p/you_lost_when_you_couldve_won_ask_yourselves_why/",
+      "summary": "",
+      "published": "2026-11-10T16:45:35+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "608fa7d9c5cb1ee9eb52f5a7ebf07a94d6beac5f81bbd715981da3b254a59ea5",
+      "title": "My Bad...😂",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsrq4r/my_bad/",
+      "summary": "",
+      "published": "2026-11-10T16:41:18+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "2c8c735db1c77474555cedd746e293ec9ddde4aa0ce2dd435467767a340c1c41",
+      "title": "E-Day glitches/bug reporting",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsrpg2/eday_glitchesbug_reporting/",
+      "summary": "",
+      "published": "2026-11-10T16:40:37+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "e6d6d6bce069a2d5e442b6e78d875fd797dba19063dd0eb10e3f256055ae656e",
+      "title": "MEELE DOUBLE KILL?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsrjuy/meele_double_kill/",
+      "summary": "",
+      "published": "2026-11-10T16:34:56+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "31b484bc70358e2eac7e6cca8590d711a3c9fa56b8834d6f25e6db7260728b10",
+      "title": "Does E-Day's Campaign have too much emphasis on sniping?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsrjbj/does_edays_campaign_have_too_much_emphasis_on/",
+      "summary": "",
+      "published": "2026-11-10T16:34:26+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "2247e15c695330d00d156f795b8933dabf07a609da7e365e0b1072ad1e18e5ff",
+      "title": "Just showing my thought process about how I on a 1v1",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsrhep/just_showing_my_thought_process_about_how_i_on_a/",
+      "summary": "",
+      "published": "2026-11-10T16:32:28+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "480fdf61572b2d964c81eea2f6e09451e5db2ba244b5b47f244ce966340ee61d",
+      "title": "Just played a little bit of gears",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsrh7c/just_played_a_little_bit_of_gears/",
+      "summary": "",
+      "published": "2026-11-10T16:32:16+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "0228e872336e51c7d26c7795c311000469102f1c4f5e643d0fb59dce9a47ca00",
+      "title": "toxicity of the community",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsr1ln/toxicity_of_the_community/",
+      "summary": "",
+      "published": "2026-11-10T16:16:08+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "7c384bf8782da9668d14a3bdbd42211801671c704a0d83ab9875dd5615040a15",
+      "title": "New free Xbox anniversary skin set",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsqyok/new_free_xbox_anniversary_skin_set/",
+      "summary": "",
+      "published": "2026-11-10T16:13:05+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "737effcbb5842f3f8aa1df92e6cbe31b704f32f645de43d844ff560622c4fe0e",
+      "title": "I am not crying, you are.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsqwf8/i_am_not_crying_you_are/",
+      "summary": "",
+      "published": "2026-11-10T16:10:39+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "f542fb89260e07387f17c4d04a0716db66f3d5903154e452cfd6611540991914",
+      "title": "RIG clearing the field",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xspzb6/rig_clearing_the_field/",
+      "summary": "",
+      "published": "2026-11-10T15:36:01+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "d8c7727cd9db701d3a16a84b18eb133e0127a03d8d581d258404cddd8fb84916",
+      "title": "The future of Gears of War E-Day.",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xspyyn/the_future_of_gears_of_war_eday/",
+      "summary": "",
+      "published": "2026-11-10T15:35:39+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "a241fb815bd91a2b4b364f5d2820b83c92eb6f616e3483b3deafc6c929b87394",
+      "title": "If the we get a remaster/remake collection for the OG triology, keep or ditch the roadie run?",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xspu29/if_the_we_get_a_remasterremake_collection_for_the/",
+      "summary": "",
+      "published": "2026-11-10T15:30:16+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "25523ff008439c6687c66c5590b3260fbd47ba2bf155f4032e76ff377d2c3899",
+      "title": "Claude Fable 5.2 Builds Playable Gears of War: E-Day Clone From Three-Line Prompt, But Estimated Cost Reaches $15,000 - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2o1eWZkRHkzSUFBTjZua3B0a3BCazBORmh6U2JRTnZ0LUhab2JtUlptLWIxWmxQbkYyWWk1QWlLY0Y4Y2JkWks5NW15SHZPaWNYTW5fMUVsdy1yWXJvek52TzRPc1JOTUZDTjN3N3BNVkFUSVpiOHlka0R2VTRET0d4d0VBUTY0SDVFbXpBXzdtSFh0SnRjRHFZUzg3X2RzS3h3X1JybmJzLW1ScVhrQWVQaHVHUDB6X2RSU1dlTzV2QThTTno3aXVmR2x0eEpE0gHWAUFVX3lxTE96RUloNVFYRHlIU1RXU1dQWW9aLXpFbVVVMEZwT0pEZ0F0TlY4VGtmMm83bE95dnpwWlBlTUxHcEJUN1NxWTBfTXl4YUZsSDRacVZhSmZkN1VicHRMajZ2VzFkSWxYLXhqNW84dVlPQ1VtNkRFWlNIWnFuTjhZbHZlRngtb0hUY1U0c2ZkS09jbk9zMkc5d0RoSVlCODY2NmwyS01DcjdPdG9oUkE3RGtkS0JxVnZLS2Z2TGd5OGJBNjlOakhZZ1lfeTE5MjFpMGF2a20yVmc?oc=5",
+      "summary": "Claude Fable 5.2 Builds Playable Gears of War: E-Day Clone From Three-Line Prompt, But Estimated Cost Reaches $15,000 Wccftech",
+      "published": "2026-11-10T15:29:03+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "a23aff02269cd3567deba7dd1c9876d0d76f5027a4619c5981856f743eddb2ee",
+      "title": "Nick of Time",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xspixg/nick_of_time/",
+      "summary": "",
+      "published": "2026-11-10T15:17:58+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "6ec816dcef0040a0484c4cb6cb7f09da0c778621cbcb238c8267cb21d4745c8b",
+      "title": "legacy games",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xspckf/legacy_games/",
+      "summary": "",
+      "published": "2026-11-10T15:11:10+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "9c99d524d73c6fa2770fd38139c774233892a30df4e56d1d93779a5c6e4db296",
+      "title": "Gears of War E-Day Review - mxdwn Games",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tZHJhSVNxajlnWnN6cDhUOTVNOWpTZ0pfcEpPUlpxbUh2a3lYQlJHRm9QVVVqOEt3ckRYUTB2OGhQNXhZT25UbFM3QVp3Mm16X2tQdzNmNTZTRFcyWThtUXRJamtLV253VGfSAW9BVV95cUxNeEJWSjBYZXdPbUlGY3pJTlVLOWliVkc3VkZzbEt4b3hVeWJmMkhybUtEX1dXQVlXMTRnbDFuVlhZQi00MmdMY01CelpXbFN1b2ZyOWpuRXZicW5heTZkQV9xVmJnNG1Vck1BZEs1NEU?oc=5",
+      "summary": "Gears of War E-Day Review mxdwn Games",
+      "published": "2026-11-10T14:53:10+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
+      "id": "31b4e56b240140c7d23a729411630f9d259ee3c48c3d5af01641f8a3d7888816",
+      "title": "Hoarders lagging out on me",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsmi4g/hoarders_lagging_out_on_me/",
+      "summary": "",
+      "published": "2026-11-10T13:10:13+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "4e9a1d01ae09f2e9263b7d1c72f123a15f173b71e083be47840c3f2d0a984cc5",
+      "title": "Fix the mantle kick",
+      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xsmg3c/fix_the_mantle_kick/",
+      "summary": "",
+      "published": "2026-11-10T13:07:36+00:00",
+      "source": "Reddit r/GearsOfWar",
+      "category": "comunidad"
+    },
+    {
+      "id": "2bc4960594ae5be38606e89387beb54c1fe7cb45e309b8b51d29ee63142ced62",
+      "title": "Netflix's Gears of War Movie Director Provides Update - IGN India",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVFBOHJTUTNpTmNEbFBFZU81Mk91VFZlV2w0eE1UN0R4WGNOR0VRUnN4eEw0NlMwWFBBdmVQWUpVX1A5NFRFQ0FuMUM1cDBtRDNfMHlLb0NILTVwRnlhSHp3cjZNVUd2MkFzS3lzSUtrTjdzaTdSb1REaFFvZElQRlpmYkx4QVpFZWd5YnR2UHN1QmZSRC02Vllibkd0UFZzZEx3?oc=5",
+      "summary": "Netflix's Gears of War Movie Director Provides Update IGN India",
+      "published": "2026-11-10T12:45:30+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
+      "id": "eddd7572a28ea4fca8736e3a8980165f745d1222992d6b28564a9e5abcf3afd7",
+      "title": "Anthropic’s Fable 5.2 Codes a Gears of War Clone for About $15,000 - Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqWjhUMzRLcUtkRFZHYkpxaFFJRmtfM3JhLUYwMVo2aGt0dWdPd1h6anBQS0JnblVFSENSaXU4bW9FR19jdlQ5eU1KejA1SHF4WVhpTjVaVEdvMVhsd3M3OUNIeEpuN2lh?oc=5",
+      "summary": "Anthropic’s Fable 5.2 Codes a Gears of War Clone for About $15,000 Geeky Gadgets",
+      "published": "2026-11-10T09:34:16+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
+      "id": "8dc38cd444fcd92eda1aa1255255218df262e1dcdb3f98e20611cf2f29563654",
+      "title": "15 Minutes of Attack on Titan 3 Gameplay - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vRDJiTDhSQ0p2T3dNdEhuMkdtdEw0cm9tOWt5Ukl0Y1ZCTTRSZXNlNWpDWVFGMFhjMWxjWnBxTjhneEozd1FlUy0wM2ZWaHpENmxJUm9VaHFmNDlQT2tzWlJISEJhV09aX0syVW8tZDNKSlMtR0M5S0Vaa3VGZw?oc=5",
+      "summary": "15 Minutes of Attack on Titan 3 Gameplay GameSpot",
+      "published": "2026-11-10T08:01:00+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
     {
       "id": "b6e679ccb1416fa2c8b60344219c0544ebedab2fc3bfe317a16e1ce2f66dbda8",
       "title": "Favorite Clayton Carmine quote",
@@ -45,6 +477,15 @@
       "published": "2026-11-10T06:41:38+00:00",
       "source": "Reddit r/GearsOfWar",
       "category": "comunidad"
+    },
+    {
+      "id": "b4d4cc821546a9b78a0ae323c415f8d5c682ccfb5e67dc8008c296a88a55e16e",
+      "title": "HORDA SIEGE - CLASE ASALTO- EPISODIO 4 - GEARS OF WAR E-DAY",
+      "url": "https://www.youtube.com/watch?v=d5Rz9pwMNQM",
+      "summary": "",
+      "published": "2026-11-10T06:20:02+00:00",
+      "source": "EMK EyeOfTiger · YouTube",
+      "category": "creador"
     },
     {
       "id": "1c22ecba2e9eb8584a2a13dc6e9a4c18ea68af73ba5892466a5fd144f4edb8ef",
@@ -389,6 +830,15 @@
       "category": "noticias"
     },
     {
+      "id": "c8c321fb41974f5af7dcff88782f41cf0ed76ac7e75da04d8deeac09b1ab2937",
+      "title": "RAAM is THE BEST CHARACTER in Gears of War E-Day! - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52VE04Qk1WSU0tRkpUN0YwQ1BUa0wydGlqSHp4MEpGemN4VnZjNU1BWGMySXp6d1V6andrX2ZKalc5RXVwSS1YelpVQjRYdk84bmxqMGlRN2tsdEFo?oc=5",
+      "summary": "RAAM is THE BEST CHARACTER in Gears of War E-Day! YouTube",
+      "published": "2026-11-09T22:47:47+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
       "id": "aee02e810b222b4d9753e15864cbf4f8fd75856d0f693e0a08acb3b1e902d8fb",
       "title": "I need these Men in my squad",
       "url": "https://www.reddit.com/r/GearsOfWar/comments/1xs5grn/i_need_these_men_in_my_squad/",
@@ -405,6 +855,15 @@
       "published": "2026-11-09T22:08:21+00:00",
       "source": "Reddit r/GearsOfWar",
       "category": "comunidad"
+    },
+    {
+      "id": "479e5e88bd741813e01802dff055e81e54dc6d4da82214ad143a885f5bb5213e",
+      "title": "Switch 2 Just Had Its Best Sales Week Of 2026, And It’s All Because Of Zelda - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnFMa1NsQ0l2YVpZZTlnTHU3VE5TVklGRmI3MGNZMjNOdnNNVlVJc1pQVnVBTVAyS3NUXzNwQkV4c2NjUlU2N1ZNaGlLOUJma29CYUVDMW1GemF1Z2pLOEhzenVtR2drZkVMV21LaER3MW5HaV93VDQ4ZDZkWDJKcGwydEZZUFZzNk5IQklWeXMtZlZnU0swdkJyWWhHU0VvUVFQa2VTMFViUFlFdXc?oc=5",
+      "summary": "Switch 2 Just Had Its Best Sales Week Of 2026, And It’s All Because Of Zelda GameSpot",
+      "published": "2026-11-09T21:47:49+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
     },
     {
       "id": "cf32e44e31c65f056243e90ccfa8572fc433b0c3a297b4f0975d3494d2112085",
@@ -821,6 +1280,15 @@
       "category": "oficial"
     },
     {
+      "id": "f9c7d7c0dd388b09a0764f5422bb99a586cf44e5ea6c1004b28815c3bc67e5da",
+      "title": "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists - GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaXFvN2M2d2xrWU9GN3oxNVZJaFU2NGlTODBOcG5SanhfUVpaa2tMWlVoRURNTGR5YTV0OEx1SVQ0V1dad1g5OXVaeUlLdWhkVm1GbVptbTVkam5YRTd6V2FycGxVMm9Razg2RUJoYWlsYkNWR3JjUl9MMkUtS2plOHJhY3VjU0dpQkt5T0Y2Rzk0OGdQN2hha21zZkRUT3Z5amZNcTZPYklMdTJw?oc=5",
+      "summary": "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists GameSpot",
+      "published": "2026-11-09T14:34:08+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
+    },
+    {
       "id": "0f2f8aa615b575a2f6ddb9e8ca6fa20dcbd4c67c0f3e0fde60341395b89cf7ce",
       "title": "horde",
       "url": "https://www.reddit.com/r/GearsOfWar/comments/1xrs80y/horde/",
@@ -828,6 +1296,15 @@
       "published": "2026-11-09T13:53:55+00:00",
       "source": "Reddit r/GearsOfWar",
       "category": "comunidad"
+    },
+    {
+      "id": "e802cf237cadf2f506a0a10cc218adb0793198526d1320a9f0eb0ffe3b9eb2b5",
+      "title": "Every Dom Santiago Voice Line in Combat and Versus | Gears of War: E-Day - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zcXhfamZ3Qkdkb3EtU3M4RUhDdGc0RndrSkpxbndOMUNTR2VqWTNFUWtSMC02blJNSVpWZkZXUG5wbzVKdUwwbWhTTDAzUzFrbkFmbnVrUEs3d25l?oc=5",
+      "summary": "Every Dom Santiago Voice Line in Combat and Versus | Gears of War: E-Day YouTube",
+      "published": "2026-11-09T13:46:56+00:00",
+      "source": "Gears E-Day",
+      "category": "oficial"
     },
     {
       "id": "9fd8be82e0a5b720fab9015f73841578917bd0b153de86caa8a101045c1a0541",
@@ -2855,6 +3332,15 @@
       "category": "oficial"
     },
     {
+      "id": "a27c86cbe1fe05e398b8f253ded770ce3184746bfbf3e6ff948d8560f97fe050",
+      "title": "Gears of War Marks 20 Years With Free RAAM Content - Game News Plus",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSmtwYlJUeFlBVXJvMlFuMWZGUU9CU0hWTmtwc3Jqa1JPMkJ2aV9ZUkpGdV9CQU5kWlRjM3d3akltZ0xCQV9JWkdOM3F3NzljbjlUdXA5VXFOSHlmSHpiVXNhMTJxa1FjZ1Nsc2xkLWxCZ283WFV5YXpSMWtCQXdCbV9TTnBaSjNRZlZGUXdoZDd4OHBIZU80MHhQeDlIZFF0SXVFdzJ1N3ZMdXRYazJod0JvU3ZETXM?oc=5",
+      "summary": "Gears of War Marks 20 Years With Free RAAM Content Game News Plus",
+      "published": "2026-11-07T15:59:36+00:00",
+      "source": "Gears of War · global",
+      "category": "noticias"
+    },
+    {
       "id": "3ee5067892d4e39dea58bf959f82b9bc2c9363915d642e0e3237c1dc5704c3b0",
       "title": "GTA 6 deja una nueva pista sobre sus funciones online de lanzamiento - Generacion Xbox",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZk02aEc0ZWFuWjJsc3h1WkdUWlRDWFNTYlNpOW5kTUtaNllUcndGd2hoNl9ncWtMSE5kWHRWMVZVbnBraG5pTEhac0pSWnZQSjhPMlNPWWJTMUNBWEVPUVhIT1psVmpLaS0xbWJJYzJacWhwSkRqd3ZDZWZuS3ZrMFlQR0N0S0FJcGhnOUtoZXAyTDJ0QTNwTFVuUnA?oc=5",
@@ -3114,503 +3600,17 @@
       "published": "2026-11-07T08:06:00+00:00",
       "source": "Gears of War · global",
       "category": "noticias"
-    },
-    {
-      "id": "326d3ff71b3f70a608d27717ae9ff980bc1ffb7f37fceadea304def248de5f02",
-      "title": "Holy shit",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xq0yur/holy_shit/",
-      "summary": "",
-      "published": "2026-11-07T07:57:29+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "18db1c72baaf79d441b54acb5573c68dfe635a5fcd71cddc6be0b73852783480",
-      "title": "Nice moves.. I guess",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xq0nc4/nice_moves_i_guess/",
-      "summary": "",
-      "published": "2026-11-07T07:37:03+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "90bbd8ed083562506f90544e9d5e8bef04de4db29de474db414d508af7abe4a0",
-      "title": "i just beat E-day and want to know what everyone else genuinely thinks because i thought it was great",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xq0l8j/i_just_beat_eday_and_want_to_know_what_everyone/",
-      "summary": "",
-      "published": "2026-11-07T07:33:11+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "98dbf493b6908f761cef11d5e9a1a95de48b3deb85f93f303fb8e61d65e12dfc",
-      "title": "Teammate Leaving",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xq089c/teammate_leaving/",
-      "summary": "",
-      "published": "2026-11-07T07:10:16+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "ab39fbf601e1489b5252f9fe77ccfcef90f3a5a811d70e0c9fd09741f0b54c77",
-      "title": "Annoying bug",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xq04p0/annoying_bug/",
-      "summary": "",
-      "published": "2026-11-07T07:04:05+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "704342dcc1f130a32511571cdd8fb3d37ec66c10e33b0b200d42522a55382670",
-      "title": "My frustration with this games ranked matchmaking is beyond measure",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xq04oo/my_frustration_with_this_games_ranked_matchmaking/",
-      "summary": "",
-      "published": "2026-11-07T07:04:03+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "854a584893ca5893756a86ff46193d7cda0553ef4bbe4db7aac0ca0547bdb2ca",
-      "title": "Sudden drop in Frame Rate (pc)",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpzyvo/sudden_drop_in_frame_rate_pc/",
-      "summary": "",
-      "published": "2026-11-07T06:54:25+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "2b7ddc7518e6f288dbf8462645767d00f2b8e3fd6b8aac78c070b67dbf74b5cb",
-      "title": "Drone Hammerburst Error ruining a good Friday",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpzxnb/drone_hammerburst_error_ruining_a_good_friday/",
-      "summary": "",
-      "published": "2026-11-07T06:52:18+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "8f488a587f8459d01629e03a4d507e9a88497bbac7460f89e186e18ee423367e",
-      "title": "I just played an entire game of Ranked TDM where my teammate failed to record a single score point.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpzvqi/i_just_played_an_entire_game_of_ranked_tdm_where/",
-      "summary": "",
-      "published": "2026-11-07T06:48:58+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "4822340123a2e4db25ef806259a2cf3330dd55670fa9d641d3e253b87eae06fa",
-      "title": "This Friday seems like the worst E-Day servers have been since launch. Constant disconnections and freezing.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpzu61/this_friday_seems_like_the_worst_eday_servers/",
-      "summary": "",
-      "published": "2026-11-07T06:46:16+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "4cf71b9786565f326fd128b412002b2b4c739da399e5bbd7bc682def55a8e1b2",
-      "title": "Multiplayer connection issues",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpzjyw/multiplayer_connection_issues/",
-      "summary": "",
-      "published": "2026-11-07T06:29:11+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "6b71a10975a1cd111d44db6f0c9923b85d88e3d638bbbcf77f83ccbcd4d07388",
-      "title": "Server disconnected error",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpzeqt/server_disconnected_error/",
-      "summary": "",
-      "published": "2026-11-07T06:20:33+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "482c4087399644234a1195e96c16b3e19c8ae559509fd25a4e17b6e9642d10f5",
-      "title": "drone-hammerburst",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpz3xo/dronehammerburst/",
-      "summary": "",
-      "published": "2026-11-07T06:02:37+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "4399acd1ac7cf86a40c5dfdac0282a1169ac41d340857d234c61052158a369e8",
-      "title": "THIS SUM BULLSHIIII 🤣🤣🤣🤣",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpz3lb/this_sum_bullshiiii/",
-      "summary": "",
-      "published": "2026-11-07T06:02:04+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "415525ec7faa72986801b09f7db390738162c836c34edd5f9d605e0583ab6a5e",
-      "title": "Xbox pierde otros 4 juegos antes de terminar 2026 - Generacion Xbox",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWFMWkFNUV85MEtRYmVmOXh0Vkh1RW45RUxxaFU1c1huNTVqRWhfaUZZUV8yRFFLS1Zfb1VySnpzV2RCOUxPNkxGTlVRSkk0Nko0VG9GaWtSa25jajhRV2haNG9tcUQzT1JQZmJzWFhzNVlVWjVzNUR1QWdodVdseWhyREdXMTZZRlV2bw?oc=5",
-      "summary": "Xbox pierde otros 4 juegos antes de terminar 2026 Generacion Xbox",
-      "published": "2026-11-07T06:00:58+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "d4e5026989516035b9bfe1dd778e3b354c7d985994d854475c46b68294d7742f",
-      "title": "Dom fucken dies",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpytle/dom_fucken_dies/",
-      "summary": "",
-      "published": "2026-11-07T05:45:50+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "4dd86461243fad4f04b9dc8c52b648425cee3706d793615fd8134694402c60c1",
-      "title": "I really wish the weapon parts supply drop in Horde Siege worked like the other two supply drops.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpyrtb/i_really_wish_the_weapon_parts_supply_drop_in/",
-      "summary": "",
-      "published": "2026-11-07T05:42:56+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "18eccd22bf2de5f500129c9d6767837719c555e54bd78c2a5c08b6b8eccefdf6",
-      "title": "Horde Siege Map Weight",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpynys/horde_siege_map_weight/",
-      "summary": "",
-      "published": "2026-11-07T05:36:30+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "ba2f8264c54105997c4c0aaac316df758e6f116081bb139fa2475108ba2a4d8b",
-      "title": "is horder server broken?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpynrs/is_horder_server_broken/",
-      "summary": "",
-      "published": "2026-11-07T05:36:10+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "3812f61868bd4314fd5b128b61518037c5525dff146ce1d89c1a4e3d522cb7e4",
-      "title": "Anybody got 33k Coins randomly as a reward when logging in to E-Day today?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpy90u/anybody_got_33k_coins_randomly_as_a_reward_when/",
-      "summary": "",
-      "published": "2026-11-07T05:13:07+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "92f7d0cb8ab4766f141d799a5b2ac3b9d455e67b4b7928c12f0eb1e4310a1354",
-      "title": "THIS NEEDS PATCHED NOW!",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpy29y/this_needs_patched_now/",
-      "summary": "",
-      "published": "2026-11-07T05:02:49+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "973054277f04cd11582bc10e013003b35b1ccd8d2ff741171e83f314e23152eb",
-      "title": "\"Lone Wolf\" matchmaking option",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpy1na/lone_wolf_matchmaking_option/",
-      "summary": "",
-      "published": "2026-11-07T05:01:57+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "d812069903a76e7c39fc4e38a0f372c226df208cc0e95a3fa6302dd282841955",
-      "title": "Rage bait of the century over here (And how do I get better?)",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpxouo/rage_bait_of_the_century_over_here_and_how_do_i/",
-      "summary": "",
-      "published": "2026-11-07T04:42:25+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "b96deaa3775d1a1e8c6bfac0d21d768d6e7430b59b4cadbc5c79cddfc6f853af",
-      "title": "Server Connection Drops",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpxnja/server_connection_drops/",
-      "summary": "",
-      "published": "2026-11-07T04:40:24+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "d1b1b336ebe5db44c587fe719c2f8117ecec34224e26137da94d2634e8e43247",
-      "title": "why does my melee hits register for a long time?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpxds7/why_does_my_melee_hits_register_for_a_long_time/",
-      "summary": "",
-      "published": "2026-11-07T04:25:23+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "e6633f9d29b8e3f077eafea4ce383137c00ea189f58a1d5c412745f7eebd54fe",
-      "title": "[Horde Siege Class Concepts] Two New Tactical Roles: The Heavy & The Commander (Balanced with Risk-Reward Trade-Offs)",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpx86v/horde_siege_class_concepts_two_new_tactical_roles/",
-      "summary": "",
-      "published": "2026-11-07T04:16:57+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "d51224a1dd93bb4b990aca64866c1d9dca4f72664c6dbaf7c6d1d1e6b389a0f7",
-      "title": "does manual revive gear mean not with stim?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpwz0t/does_manual_revive_gear_mean_not_with_stim/",
-      "summary": "",
-      "published": "2026-11-07T04:03:02+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "e7e547846dbc665fcae27387fe483b27b7f70738f3b035969b2e256b07083122",
-      "title": "was it ever explained why this guy’s hammerburst had red leds? was he the locust king like myrrah?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpwu7k/was_it_ever_explained_why_this_guys_hammerburst/",
-      "summary": "",
-      "published": "2026-11-07T03:56:07+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "0a2e5f8ff46b7881f221c0196685a2d62f5d1c4f092a4bf752ba1f239d9b6686",
-      "title": "Anyone else experiencing this? Happened to me twice now.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpwqln/anyone_else_experiencing_this_happened_to_me/",
-      "summary": "",
-      "published": "2026-11-07T03:50:33+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "6055cad44edd77dc85f31a73049c8f868871f97350ec0cd179a4d125206ed1ee",
-      "title": "Golden Hunter is cool and all but I miss my boy",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpwpq9/golden_hunter_is_cool_and_all_but_i_miss_my_boy/",
-      "summary": "",
-      "published": "2026-11-07T03:49:13+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "422f836175a6a99d82325b4c4625fb7074962e6e6aeb25ea054af55d5e55ffa0",
-      "title": "E-Day needs a serious Horde Siege patch.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpwjs2/eday_needs_a_serious_horde_siege_patch/",
-      "summary": "",
-      "published": "2026-11-07T03:40:14+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "95932ea800591d43d20f0a0a7486fa2521d02c7d0a8b1f24aaf6a4c76540a644",
-      "title": "Jez Corden desmiente la cifra de 400.000 copias vendidas de Gears of War: E-Day - Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDQwY3kwYko1N0tTWWxTZm5KSDBqcFpyWnUyT3NQRExRYnNSaUd5Mi1EemQtQm1pSmJfNWU4T0hSYlVjWnlIaVFMS0JBeElNTjBzSFc4UFFoREhyQmMyRXpDOWZLU3A5VkdCOEY5M2lMZFNiSTFMQ3lyV0ZTU09DNEQxUm1VVW11YU1uWjlKMlpLQ281WV9XMHp6MU9nellyQjFLUWJnSUE1dVVCLVE?oc=5",
-      "summary": "Jez Corden desmiente la cifra de 400.000 copias vendidas de Gears of War: E-Day Foro3D",
-      "published": "2026-11-07T03:24:01+00:00",
-      "source": "Gears of War · MX",
-      "category": "noticias"
-    },
-    {
-      "id": "793d8a39f6fd479f2aa0f39dea3c58991d144b03415106a532f1252c0cd10b55",
-      "title": "Custom Clayton Carmine figure",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpvzpe/custom_clayton_carmine_figure/",
-      "summary": "",
-      "published": "2026-11-07T03:10:51+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "7267858783728a34bb04670161933e82502864d9c0600a61eba8e77da6e916a8",
-      "title": "Is the Brumak fight in Act 4 Chapter 5 bugged for anyone else?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpvx2p/is_the_brumak_fight_in_act_4_chapter_5_bugged_for/",
-      "summary": "",
-      "published": "2026-11-07T03:06:51+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "4defff060c6a772ac24868477467791df1baa7c0f2c5ece5590781d42a2df407",
-      "title": "Gears of War: E-Day reportedly hits 60 FPS on Ryzen 5 5500 and RTX 3050 - NeoTeo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVVBUklkbUFwY0N1N1g3V1ZaNjJCclFhd3ladjd0NEc3WDBSRWg0TF94X2ZvV3c0RVJVaWVsRFBJWHZ4N1ZvVXJrUjFKQ3luemdLNGR2NklwTzFSNUJiVUU5LWZBOE1NQVB0eDBwZmRpdTNkVFFHTzFyZExGOThjdlFvSUhMRzdVdzJ0dTN3amdfVzl6RXVnakJ0N1M?oc=5",
-      "summary": "Gears of War: E-Day reportedly hits 60 FPS on Ryzen 5 5500 and RTX 3050 NeoTeo",
-      "published": "2026-11-07T03:01:27+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "627a08da1102629ee9352e7896c24ba91bd5e4a7e33b11df58f4689249e40943",
-      "title": "remaster gow 2 or 3",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpvqs2/remaster_gow_2_or_3/",
-      "summary": "",
-      "published": "2026-11-07T02:57:54+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "8323981ce1623a398b8fadf514e1f578ab1725d16f22eb3146c278c9c5f67200",
-      "title": "Audible Stealing content.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpvo7y/audible_stealing_content/",
-      "summary": "",
-      "published": "2026-11-07T02:54:11+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "1670ac2b0cb502b5735055baf157e55865f7a139b8ac9781f09b9ac853df467b",
-      "title": "Convincing myself I’m still good at Gears",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpvida/convincing_myself_im_still_good_at_gears/",
-      "summary": "",
-      "published": "2026-11-07T02:45:34+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "f95038d280cfb78330f76de68584e0c2e4ae94b06366897c320e054b3727a9d4",
-      "title": "Horde disconnects",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpv6i5/horde_disconnects/",
-      "summary": "",
-      "published": "2026-11-07T02:28:40+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "384a15fd5c58748e3f00256242a472d877da489f50e3e47ddab1118db506d855",
-      "title": "Digital fan art i’m making!",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpv4lq/digital_fan_art_im_making/",
-      "summary": "",
-      "published": "2026-11-07T02:25:58+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "67f8872bcc933c95679813cb291415bea69cc98bf4ee01ab53d90d1d89cd1880",
-      "title": "Thoughts on limited supply modifier?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpv3j4/thoughts_on_limited_supply_modifier/",
-      "summary": "",
-      "published": "2026-11-07T02:24:27+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "061dd2ff10e186cb96557a959e4f55c355e5d825b49b43a3aae390104af323f3",
-      "title": "Guardian Horde?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpv1xp/guardian_horde/",
-      "summary": "",
-      "published": "2026-11-07T02:22:09+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "3cb9f7af285e3afbf59cdcf8ffb84561ff57129fb9cf1ae2fbac94342f796cdc",
-      "title": "Epic funny Moment",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpuufu/epic_funny_moment/",
-      "summary": "",
-      "published": "2026-11-07T02:11:40+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "1c7d88fa794155f2908d4ab51bd5c44ac1046aafcf33a07ae57a77791f2ed3e8",
-      "title": "Glitches on E-Hole side objective in Gold Quarter near the Cemetery",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpuqu3/glitches_on_ehole_side_objective_in_gold_quarter/",
-      "summary": "",
-      "published": "2026-11-07T02:06:40+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "5d065b45ff2788f4d4d4df9e5bf01007a2fb7696ea447a568557b6f30b205333",
-      "title": "GEARS E DAY FIGURES",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpullx/gears_e_day_figures/",
-      "summary": "",
-      "published": "2026-11-07T01:59:29+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "1df56e6686ad4f33aaa4bdcbe93a11165eb4f025c0543a1d0d765d66a5af216b",
-      "title": "Not a great start 5 seconds in NPC's block me in.... also 15 minutes in game froze.... $500 million game.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpugfu/not_a_great_start_5_seconds_in_npcs_block_me_in/",
-      "summary": "",
-      "published": "2026-11-07T01:52:18+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "3106471e25eb4e70b16511d67c90ffd003d252841b85152069b4a880c119a096",
-      "title": "Legendary Gears of War Character Free for All E-Day Players - Comic Book Resources",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jYm9EM0hMejFXcGlmTnBFZktSQWVRM2NRVURzd0kyZnNvMnZVUDNDV3hhQzNhS1ByUGM1dzVORG5VYU5EeUtXTV8xUDM3V2xnY2ItVTBOUG94cnhCb2cyaEl5S2Z3NXNpVFE?oc=5",
-      "summary": "Legendary Gears of War Character Free for All E-Day Players Comic Book Resources",
-      "published": "2026-11-07T01:39:07+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "ad31c956d99e26e0d7954ec6e9fa3aa81f1fa713ad14d835470df1e0e670d554",
-      "title": "I swear, this is based on most of the negative posts about Versus I’ve seen too many times",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpu3xy/i_swear_this_is_based_on_most_of_the_negative/",
-      "summary": "",
-      "published": "2026-11-07T01:34:25+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "9752e43f8cfd6ed2afbc2ea76f07c3b726433f64b0c65ee3195685c8fef804ad",
-      "title": "We already know the servers are kinda shit but the fact that getting disconnected from a hoard match yields nothing while leaving still gives you xp and such is fucking nonsense.",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xptr90/we_already_know_the_servers_are_kinda_shit_but/",
-      "summary": "",
-      "published": "2026-11-07T01:17:02+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "6c596b62969ada3d64e75be3e615a33c6ce117ee6583d9c102ef0fdf3b6ed439",
-      "title": "Is anyone else having crash issues after today's patch?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xptpxp/is_anyone_else_having_crash_issues_after_todays/",
-      "summary": "",
-      "published": "2026-11-07T01:15:15+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "9b74918a911e20c00b77505e7eb9069fa96e92aee00315ec6c6c49a689baa26e",
-      "title": "How The Coalition Brought Gears of War: E-Day to Life in UE5",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xptnuc/how_the_coalition_brought_gears_of_war_eday_to/",
-      "summary": "",
-      "published": "2026-11-07T01:12:22+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "631ba02ebc7e2906031e9923a7402e9a12fcdb639ac082533d84b350115a1e61",
-      "title": "GRANDES CAMBIOS en Gears of War E-DAY! *NUEVO* CONTENIDO TEMPORADA 2",
-      "url": "https://www.youtube.com/watch?v=4grT_awLmQw",
-      "summary": "",
-      "published": "2026-11-07T01:03:45+00:00",
-      "source": "SparCkL · YouTube",
-      "category": "creador"
-    },
-    {
-      "id": "4a7c66a31eb276216423dd64953e84f0df9f95e19da906a7bea840c4d5ac09b8",
-      "title": "Yall matchmaking not working?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xptaaj/yall_matchmaking_not_working/",
-      "summary": "",
-      "published": "2026-11-07T00:54:46+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
-    },
-    {
-      "id": "fedc1a46a4ca250e9d7345a503119bf4f7e150a6e876cace3c5dae4d615c7272",
-      "title": "Really guys? Really?",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xpt53w/really_guys_really/",
-      "summary": "",
-      "published": "2026-11-07T00:47:43+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
     }
   ],
   "sources": [
     {
       "name": "Gears of War · MX",
-      "count": 44,
+      "count": 39,
       "error": null
     },
     {
       "name": "Gears of War · global",
-      "count": 59,
+      "count": 54,
       "error": null
     },
     {
@@ -3630,28 +3630,28 @@
     },
     {
       "name": "EMK KrAuSeR · YouTube",
-      "count": 0,
-      "error": "HTTP Error 404: Not Found"
+      "count": 15,
+      "error": null
     },
     {
       "name": "EMK EyeOfTiger · YouTube",
-      "count": 0,
-      "error": "HTTP Error 404: Not Found"
+      "count": 15,
+      "error": null
     },
     {
       "name": "ElGamer WICHO! · YouTube",
-      "count": 0,
-      "error": "HTTP Error 404: Not Found"
+      "count": 15,
+      "error": null
     },
     {
       "name": "SparCkL · YouTube",
-      "count": 0,
-      "error": "HTTP Error 404: Not Found"
+      "count": 15,
+      "error": null
     },
     {
       "name": "JosefaTTV · YouTube",
-      "count": 0,
-      "error": "HTTP Error 404: Not Found"
+      "count": 15,
+      "error": null
     },
     {
       "name": "EMK KrAuSeR · menciones",
