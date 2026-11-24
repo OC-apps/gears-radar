@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-23T23:57:52.274681+00:00",
+  "updated_at": "2026-11-24T09:58:54.010293+00:00",
   "items": [
+    {
+      "id": "7f329cd210ddfbcb2225ecdfdf5c0ba4b21c63f987a7443053fc2fb59ee9e528",
+      "title": "EL CAMINO HACIA DIAMANTE | CONQUISTA | CLASIFICATORIAS | ORO 1 A ORO 2",
+      "url": "https://www.youtube.com/watch?v=X251ZC3wfpc",
+      "summary": "",
+      "published": "2026-11-24T02:59:14+00:00",
+      "source": "EMK EyeOfTiger · YouTube",
+      "category": "creador"
+    },
     {
       "id": "4e3bfb631b26cdc6cf3e2a97b3ef21d4f89086d7330c68310981480eedf940f1",
       "title": "GTA 6 Hype Sends PS5 and Xbox Series Sales Soaring Ahead of Launch, Circana Reports - TwistedVoxel",
@@ -97,6 +106,15 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUhWdUF3QUtkSFluSnMyOTlwVmdzVzFUQjVOellaUmluRGxFN1ZMR3NIT0pvN1VXaWxmYjdKWHhodTdkcUYxRXlnRVdlU285SjdjZXBOVXphQXVBY1lmRW5oQW5LSXlqMG1SczctemxMakFBVTA5d252QTFXOW9LYU41bXdqbGozV3lBUzEwbEs2d3dGWlFocEpzUk5kMDRJWlRzVW5lN3B1Y3RvMnFvbk45SUxJdldhNkFFaXNyZzY4MFo5SHlfdzRDU0RocHE1bUtaNHZYVFNlajA?oc=5",
       "summary": "Gears of War: E-Day demuestra que no necesita a PlayStation para arrasar en ventas: Solo Call of Duty logró superarlo Generacion Xbox",
       "published": "2026-11-23T04:00:21+00:00",
+      "source": "Gears of War · MX",
+      "category": "noticias"
+    },
+    {
+      "id": "cae0362ca5e9f6dc6583fc75b20831b21be3576a410ebe44c11443739f3c9fe3",
+      "title": "Luz y sombra en XBOX: Gears of War: E-Day es un éxito, mientras Call of Duty: Modern Warfare 4 no alcanzó una meta muy importante - LEVELUP",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZkdUSXRLWFYzcVNhTE9ibENwNG5UR0huR3RERnJsQ1RRRW9UUzdKMzBjSFN1MS1qZFBXV2poM2RBTER4MkJtcDJaNkZfSmlfMFlzYWp6Smc0c2pnUkhOUkxoMzJOLU1nMEt0S1BnS3NQNzlmLVotaVIybzU4X1ktNHBMTUE4SzY0NXFEczZHMnZnVk55Mm5Yc2h5SmFsMEJNNjI5b2ZmM2VDeG1RUzhXdHJPYUprU2huWk5EVmJrN2k1cVhObGp4Qmc3eG1CMGQ3RV9NTExQWGtnamJkajZadmlDWEEzTUxObEJsNDBNdGo?oc=5",
+      "summary": "Luz y sombra en XBOX: Gears of War: E-Day es un éxito, mientras Call of Duty: Modern Warfare 4 no alcanzó una meta muy importante LEVELUP",
+      "published": "2026-11-23T01:04:14+00:00",
       "source": "Gears of War · MX",
       "category": "noticias"
     },
@@ -1042,8 +1060,8 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yWVplZ3BPSENpbE81NDR1WTJiUlVteERmWi1qbjFnTDdoZ1N1cHBHVlJUQWJaM2VmTUVQMFNvcnBCZHo1NWZZSjk0ckw3MmVESUkxOW92aHdrdTlPQ0ZkRDMtRHZCdFdyWHd2bFA4RlpaOVBqOFVZWkZxbEw3QQ?oc=5",
       "summary": "Game Awards 2026 Best Multiplayer Field Has Big Walk, Marathon and MW4 Happy Gamer",
       "published": "2026-11-18T01:38:41+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
+      "source": "Gears of War · global",
+      "category": "noticias"
     },
     {
       "id": "6a7f1234204d8534f0ff3aff96dc97dd038d079435ac897f9be93c1009558c85",
@@ -1519,8 +1537,8 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LWF9LNlFBV2E0Rm90VFI1bnI0dVZxcWtJVHg5N1M3NFg1cGtHXzhKcHNFRzBneF96TmhaUDVUVGNINHd2MlZXYUQwMlM1N0Zxd0JzUWtrMkVyLUc0Z3NpdG5OQ0VDaHVuOVE?oc=5",
       "summary": "Xbox Black Friday Sale Starts November 19 With Up to 80% Off 2,000 Games Happy Gamer",
       "published": "2026-11-17T12:16:59+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
+      "source": "Gears of War · global",
+      "category": "noticias"
     },
     {
       "id": "46199cee830b857848379ad19b61bfc2c62f6ef0c1f7bcc113194146730deafa",
@@ -3582,30 +3600,12 @@
       "published": "2026-11-15T00:56:24+00:00",
       "source": "Reddit r/GearsOfWar",
       "category": "comunidad"
-    },
-    {
-      "id": "0b49e2b1cf48b815719d69106544b70f4791d0ae85bfacdb6595018a5224c65a",
-      "title": "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More - IGN Southeast Asia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLXdtem1yY0FFMEZ4YlBVVmx4WFF3c21qRkFtQlNIY2ZTVTdwSWRkZllRQkowSnV3bGtCZFdXLXNxdWM3QzFoWjRRTGlPbWlFN0REV0JodXVmMDdjRl9iWmVyNS00aktBWC15ZmJ3YzJrejNEakJnQ0JBendhYWZGRU1FMzU0U1hWRnNISEZvMDZPZVVMbUtPRTVVN1JrSldJeTUwbjdSN0dwRlZOVzFrNElGakdpNU01U2VyNg?oc=5",
-      "summary": "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More IGN Southeast Asia",
-      "published": "2026-11-15T00:07:21+00:00",
-      "source": "Gears E-Day",
-      "category": "oficial"
-    },
-    {
-      "id": "eb85311e5306acba2b3f04e44b73f51e700bd7e7487913c53e6252918d8ead51",
-      "title": "8bitdo keyboard",
-      "url": "https://www.reddit.com/r/GearsOfWar/comments/1xwgxah/8bitdo_keyboard/",
-      "summary": "",
-      "published": "2026-11-14T23:50:39+00:00",
-      "source": "Reddit r/GearsOfWar",
-      "category": "comunidad"
     }
   ],
   "sources": [
     {
       "name": "Gears of War · MX",
-      "count": 46,
+      "count": 31,
       "error": null
     },
     {
@@ -3615,12 +3615,12 @@
     },
     {
       "name": "Gears E-Day",
-      "count": 69,
+      "count": 49,
       "error": null
     },
     {
       "name": "The Coalition",
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
